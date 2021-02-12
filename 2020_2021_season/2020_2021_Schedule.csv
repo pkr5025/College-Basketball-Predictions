@@ -1,0 +1,4179 @@
+,Date,visitor_neutral,PTS,home_neutral,PTS
+0,2020-11-25,Villanova,76,Boston College,67
+1,2020-11-25,Towson,54,Virginia,89
+2,2020-11-25,North Carolina Central,67,Iowa,97
+3,2020-11-25,Eastern Illinois,67,Wisconsin,77
+4,2020-11-25,North Carolina A&T,60,Illinois,122
+5,2020-11-25,Morehead State,45,Kentucky,81
+6,2020-11-25,Eastern Michigan,67,Michigan State,83
+7,2020-11-25,Northwestern State,58,Texas Tech,101
+8,2020-11-25,South Dakota State,71,West Virginia,79
+9,2020-11-25,College of Charleston,60,UNC,79
+10,2020-11-25,Lamar,45,Houston,89
+11,2020-11-25,Arizona State,94,Rhode Island,88
+12,2020-11-25,Texas-Rio Grande Valley,55,Texas,91
+13,2020-11-25,UCLA,58,San Diego State,73
+14,2020-11-25,Illinois State,67,Ohio State,94
+15,2020-11-25,Sacred Heart,63,Rutgers,86
+16,2020-11-25,Bowling Green State,82,Michigan,96
+17,2020-11-25,Adams State,60,Weber State,88
+18,2020-11-25,Alcorn State,50,Alabama-Birmingham,99
+19,2020-11-25,Appalachian State,81,South Carolina State,61
+20,2020-11-25,Arkansas-Pine Bluff,57,Marquette,99
+21,2020-11-25,Austin Peay,72,Omaha,66
+22,2020-11-25,Ball State,73,Northern Kentucky,74
+23,2020-11-25,Bethesda University (CA),57,Sacramento State,101
+24,2020-11-25,California,63,Oregon State,71
+25,2020-11-25,California Baptist,87,USC,95
+26,2020-11-25,UC-Davis,93,Nicholls State,101
+27,2020-11-25,UC-Irvine,72,Pepperdine,86
+28,2020-11-25,UC-Riverside,60,Pacific,66
+29,2020-11-25,Carver College,40,Kennesaw State,87
+30,2020-11-25,Central Connecticut,75,UConn,102
+31,2020-11-25,Charleston Southern,61,NC State,95
+32,2020-11-25,Clemson,53,Mississippi State,42
+33,2020-11-25,Coastal Georgia,57,Jacksonville,99
+34,2020-11-25,Culver-Stockton,35,UMKC,105
+35,2020-11-25,Dallas Christian,48,Tarleton State,103
+36,2020-11-25,Delaware State,51,Wake Forest,111
+37,2020-11-25,Drake,80,Kansas State,70
+38,2020-11-25,ETSU,47,Abilene Christian,70
+39,2020-11-25,Eastern Kentucky,80,North Florida,67
+40,2020-11-25,Evansville,44,Louisville,79
+41,2020-11-25,Fairfield,56,Providence,97
+42,2020-11-25,Fairleigh Dickinson,66,Quinnipiac,84
+43,2020-11-25,Flagler,81,Florida International,85
+44,2020-11-25,Florida A&M,56,Florida Gulf Coast,65
+45,2020-11-25,Florida Atlantic,66,South Alabama,68
+46,2020-11-25,Florida College,84,South Florida,94
+47,2020-11-25,Florida National University,65,Georgia Southern,97
+48,2020-11-25,George Washington,71,Navy,78
+49,2020-11-25,Georgia State,123,Georgia Tech,120
+50,2020-11-25,Grambling,53,Grand Canyon,69
+51,2020-11-25,Green Bay,69,Minnesota,99
+52,2020-11-25,High Point,73,Davidson,82
+53,2020-11-25,Houston Baptist,45,TCU,69
+54,2020-11-25,Idaho State,49,Santa Clara,62
+55,2020-11-25,UIC,65,Northern Illinois,61
+56,2020-11-25,Jacksonville State,57,Alabama,81
+57,2020-11-25,Keene State,54,New Hampshire,93
+58,2020-11-25,Lander,63,Chattanooga,99
+59,2020-11-25,Liberty,64,Purdue,77
+60,2020-11-25,Limestone,55,James Madison,89
+61,2020-11-25,Mary Hardin-Baylor,59,Texas State,98
+62,2020-11-25,UMBC,62,Georgetown,70
+63,2020-11-25,UMass-Lowell,76,San Francisco,68
+64,2020-11-25,McNeese State,55,Nebraska,102
+65,2020-11-25,Memphis,73,Saint Mary's,56
+66,2020-11-25,Merchant Marine Academy,32,Army,93
+67,2020-11-25,Mississippi Valley State,62,Arkansas,142
+68,2020-11-25,Montana State,91,UNLV,78
+69,2020-11-25,Mount St. Mary's,62,Morgan State,55
+70,2020-11-25,North Carolina Wesleyan,52,Elon,82
+71,2020-11-25,UNC Wilmington,76,Western Carolina,98
+72,2020-11-25,North Dakota,67,Miami (OH),81
+73,2020-11-25,North Dakota State,48,Nevada,62
+74,2020-11-25,North Georgia,48,Mercer,79
+75,2020-11-25,Oakland,49,Xavier,101
+76,2020-11-25,Oakwood,74,North Alabama,98
+77,2020-11-25,Ohio,84,Chicago State,61
+78,2020-11-25,Oklahoma State,75,Texas-Arlington,68
+79,2020-11-25,Old Dominion,67,Maryland,85
+80,2020-11-25,Oral Roberts,64,Missouri,91
+81,2020-11-25,Piedmont,64,Citadel,89
+82,2020-11-25,Prairie View,66,Little Rock,71
+83,2020-11-25,Radford,62,Virginia Tech,77
+84,2020-11-25,Saint Francis (PA),80,Pitt,70
+85,2020-11-25,St. Peter's,75,St. John's (NY),76
+86,2020-11-25,Sam Houston State,67,SMU,97
+87,2020-11-25,Seattle,84,Portland,72
+88,2020-11-25,South Dakota,61,Colorado,84
+89,2020-11-25,Southeastern Louisiana,63,Purdue-Fort Wayne,67
+90,2020-11-25,SIU-Edwardsville,52,Saint Louis,89
+91,2020-11-25,Southern Utah,83,Loyola Marymount,85
+92,2020-11-25,Southern Wesleyan,82,USC Upstate,72
+93,2020-11-25,St. Andrews,63,VMI,90
+94,2020-11-25,Tennessee Tech,59,Indiana,89
+95,2020-11-25,Texas A&M-International,53,Texas A&M-Corpus Christi,64
+96,2020-11-25,Texas-Permian Basin,81,UTEP,100
+97,2020-11-25,Texas Southern,52,Washington State,56
+98,2020-11-25,Toccoa Falls,49,Wofford,88
+99,2020-11-25,Toledo,59,Bradley,61
+100,2020-11-25,Tusculum,62,Furman,95
+101,2020-11-25,VCU,85,Utah State,69
+102,2020-11-25,Western Kentucky,93,Northern Iowa,87
+103,2020-11-25,Western Michigan,62,Butler,66
+104,2020-11-25,Westminster (UT),59,BYU,108
+105,2020-11-25,Westmont,79,Cal State Northridge,97
+106,2020-11-25,William Jessup,47,Fresno State,87
+0,2020-11-26,Kansas,90,Gonzaga,102
+1,2020-11-26,Villanova,83,Arizona State,74
+2,2020-11-26,Chicago State,38,Illinois,97
+3,2020-11-26,VCU,66,West Virginia,78
+4,2020-11-26,Adams State,75,Utah Valley,100
+5,2020-11-26,Auburn,96,St. Joseph's,91
+6,2020-11-26,Belmont,95,Howard,78
+7,2020-11-26,Boston College,69,Rhode Island,64
+8,2020-11-26,Bradley,50,Xavier,51
+9,2020-11-26,ETSU,66,Austin Peay,67
+10,2020-11-26,La Salle,65,St. John's (NY),82
+11,2020-11-26,Liberty,84,Mississippi State,73
+12,2020-11-26,Mississippi Valley State,62,North Texas,116
+13,2020-11-26,Omaha,60,Middle Tennessee,59
+14,2020-11-26,Nevada,69,Nebraska,66
+15,2020-11-26,New Orleans,61,BYU,86
+16,2020-11-26,North Carolina Central,85,Southern,78
+17,2020-11-26,Northern Iowa,64,Saint Mary's,66
+18,2020-11-26,Northwest University,61,California,86
+19,2020-11-26,Ohio,84,North Carolina A&T,72
+20,2020-11-26,Purdue,70,Clemson,81
+21,2020-11-26,Queens (NC),65,George Mason,66
+22,2020-11-26,SIU-Edwardsville,81,LSU,94
+23,2020-11-26,Toledo,80,Oakland,53
+24,2020-11-26,Towson,68,San Francisco,79
+25,2020-11-26,Utah State,59,South Dakota State,83
+26,2020-11-26,Western Kentucky,75,Memphis,69
+0,2020-11-27,Gonzaga,90,Auburn,67
+1,2020-11-27,Virginia,60,San Francisco,61
+2,2020-11-27,Southern,76,Iowa,103
+3,2020-11-27,Kansas,94,St. Joseph's,72
+4,2020-11-27,Arkansas-Pine Bluff,58,Wisconsin,92
+5,2020-11-27,Ohio,75,Illinois,77
+6,2020-11-27,Sam Houston State,52,Texas Tech,84
+7,2020-11-27,Western Kentucky,64,West Virginia,70
+8,2020-11-27,Boise State,58,Houston,68
+9,2020-11-27,UCLA,107,Pepperdine,98
+10,2020-11-27,Fairleigh Dickinson,75,Rutgers,96
+11,2020-11-27,Abilene Christian,80,Austin Peay,72
+12,2020-11-27,Arkansas State,56,Marshall,70
+13,2020-11-27,Bethesda University (CA),46,Cal Poly,100
+14,2020-11-27,Bradley,74,Oakland,60
+15,2020-11-27,Bryant,84,Syracuse,85
+16,2020-11-27,UC-Davis,63,Santa Clara,66
+17,2020-11-27,UC-Irvine,58,San Diego State,77
+18,2020-11-27,Carver College,23,Appalachian State,105
+19,2020-11-27,Central Connecticut,57,Army,79
+20,2020-11-27,Charleston Southern,50,Eastern Kentucky,60
+21,2020-11-27,Chicago State,44,North Carolina A&T,74
+22,2020-11-27,Colorado,76,Kansas State,58
+23,2020-11-27,East Carolina,66,Charlotte,57
+24,2020-11-27,Eastern Illinois,50,Marquette,75
+25,2020-11-27,Evansville,61,Prairie View,64
+26,2020-11-27,Flagler,75,Florida International,82
+27,2020-11-27,Florida Atlantic,50,Jacksonville State,60
+28,2020-11-27,George Mason,67,Belmont,77
+29,2020-11-27,Grambling,55,Arizona,74
+30,2020-11-27,Greenville,97,UMKC,138
+31,2020-11-27,Hartford,57,UConn,69
+32,2020-11-27,Howard,71,Queens (NC),85
+33,2020-11-27,La Salle,51,St. Peter's,62
+34,2020-11-27,Lamar,57,Tulane,66
+35,2020-11-27,Longwood,60,Wake Forest,71
+36,2020-11-27,Mercer,83,Georgia Tech,73
+37,2020-11-27,Middle Tennessee,43,ETSU,57
+38,2020-11-27,Mobile,75,South Alabama,95
+39,2020-11-27,Navy,52,Maryland,82
+40,2020-11-27,Nicholls State,70,Idaho State,51
+41,2020-11-27,Norfolk State,83,James Madison,73
+42,2020-11-27,UNC Greensboro,77,Little Rock,70
+43,2020-11-27,UNC Wilmington,76,UNC Asheville,68
+44,2020-11-27,North Florida,51,NC State,86
+45,2020-11-27,Northwest University,42,Oregon State,114
+46,2020-11-27,Rice,68,Incarnate Word,53
+47,2020-11-27,Richmond,82,Morehead State,64
+48,2020-11-27,Seattle,77,William Jessup,53
+49,2020-11-27,Seton Hall,70,Louisville,71
+50,2020-11-27,South Dakota,53,Drake,69
+51,2020-11-27,South Dakota State,59,Saint Mary's,72
+52,2020-11-27,Texas-Arlington,71,Louisiana Tech,76
+53,2020-11-27,Texas-Permian Basin,71,UTSA,97
+54,2020-11-27,Toccoa Falls,60,Georgia State,105
+55,2020-11-27,Toledo,73,Xavier,76
+56,2020-11-27,Towson,65,Buffalo,74
+57,2020-11-27,Troy,66,Western Carolina,64
+58,2020-11-27,Utah State,82,Northern Iowa,71
+59,2020-11-27,Valparaiso,71,Vanderbilt,77
+60,2020-11-27,VCU,70,Memphis,59
+0,2020-11-28,Louisiana,82,Baylor,112
+1,2020-11-28,Virginia Tech,81,Villanova,73
+2,2020-11-28,Coppin State,71,Duke,81
+3,2020-11-28,Notre Dame,70,Michigan State,80
+4,2020-11-28,Abilene Christian,70,Omaha,58
+5,2020-11-28,Army,78,Buffalo,74
+6,2020-11-28,Belmont,73,Queens (NC),61
+7,2020-11-28,Benedictine,63,Grand Canyon,94
+8,2020-11-28,Bethesda University (CA),55,UC-Irvine,135
+9,2020-11-28,Cal State Northridge,61,Air Force,66
+10,2020-11-28,Carver College,37,Wofford,111
+11,2020-11-28,Central Michigan,72,UIC,74
+12,2020-11-28,Coastal Georgia,79,Georgia Southern,91
+13,2020-11-28,Drexel,74,Pitt,83
+14,2020-11-28,Eastern Washington,68,Washington State,71
+15,2020-11-28,George Mason,84,Howard,70
+16,2020-11-28,High Point,75,Elon,76
+17,2020-11-28,Idaho State,61,UC-Davis,70
+18,2020-11-28,Lamar,73,Lipscomb,76
+19,2020-11-28,Limestone,59,College of Charleston,99
+20,2020-11-28,LSU,81,Saint Louis,85
+21,2020-11-28,Loyola Marymount,73,Minnesota,88
+22,2020-11-28,UMBC,80,Saint Francis (PA),65
+23,2020-11-28,UMass-Lowell,72,Illinois State,82
+24,2020-11-28,Mississippi Valley State,61,Wyoming,97
+25,2020-11-28,Mobile,41,Florida Atlantic,83
+26,2020-11-28,Montana,62,USC,76
+27,2020-11-28,Navy,73,Mount St. Mary's,67
+28,2020-11-28,Nicholls State,57,Santa Clara,73
+29,2020-11-28,Norfolk State,57,Radford,54
+30,2020-11-28,North Carolina Wesleyan,68,Coastal Carolina,117
+31,2020-11-28,North Dakota State,57,Nebraska,79
+32,2020-11-28,North Texas,54,Arkansas,69
+33,2020-11-28,Northwestern State,71,Texas-Arlington,80
+34,2020-11-28,Our Lady of the Lake,64,Rice,103
+35,2020-11-28,Regis,66,Denver,82
+36,2020-11-28,Rhode Island,84,South Florida,68
+37,2020-11-28,Rogers State,63,Oral Roberts,93
+38,2020-11-28,South Carolina,62,Liberty,78
+39,2020-11-28,South Carolina State,78,Bowling Green State,101
+40,2020-11-28,USC Upstate,63,Furman,91
+41,2020-11-28,Southeast Missouri State,71,UMKC,66
+42,2020-11-28,Southeastern Louisiana,59,Alabama-Birmingham,84
+43,2020-11-28,Southern Miss,51,Jacksonville,66
+44,2020-11-28,St. Katherine,47,Southern Utah,95
+45,2020-11-28,St. Louis College,45,SIU-Edwardsville,80
+46,2020-11-28,UTSA,64,Texas-Rio Grande Valley,81
+47,2020-11-28,Texas Southern,65,Oklahoma State,85
+48,2020-11-28,Texas State,75,Texas A&M-Corpus Christi,63
+49,2020-11-28,Toccoa Falls,44,Kennesaw State,106
+50,2020-11-28,Troy,50,UNC Wilmington,73
+51,2020-11-28,Tulsa,65,TCU,70
+52,2020-11-28,Utah Valley,60,BYU,82
+53,2020-11-28,VMI,65,Penn State,86
+54,2020-11-28,Western Carolina,83,UNC Asheville,81
+55,2020-11-28,William Jessup,73,Portland,83
+56,2020-11-28,William & Mary,78,Old Dominion,86
+0,2020-11-29,Baylor,86,Washington,52
+1,2020-11-29,Richmond,76,Kentucky,64
+2,2020-11-29,North Dakota State,58,Creighton,69
+3,2020-11-29,Texas Tech,53,Houston,64
+4,2020-11-29,Houston Baptist,77,Arizona State,100
+5,2020-11-29,UMass-Lowell,64,Ohio State,74
+6,2020-11-29,Hofstra,56,Rutgers,70
+7,2020-11-29,Oakland,71,Michigan,81
+8,2020-11-29,Alabama A&M,78,Samford,76
+9,2020-11-29,Arkansas-Pine Bluff,63,Iowa State,80
+10,2020-11-29,Arkansas State,61,Morehead State,69
+11,2020-11-29,Boise State,86,Sam Houston State,55
+12,2020-11-29,Florida A&M,75,Georgia,85
+13,2020-11-29,Greenville,95,Murray State,173
+14,2020-11-29,Jacksonville State,77,South Alabama,73
+15,2020-11-29,Liberty,52,TCU,56
+16,2020-11-29,Lipscomb,66,Tulane,68
+17,2020-11-29,Mount St. Mary's,61,Maryland,79
+18,2020-11-29,New Mexico State,83,Arizona Christian,77
+19,2020-11-29,New Orleans,53,Texas A&M,82
+20,2020-11-29,North Florida,59,Miami (FL),77
+21,2020-11-29,Northwest University,69,Portland,74
+22,2020-11-29,Northwestern State,77,Louisiana Tech,91
+23,2020-11-29,Our Lady of the Lake,71,Incarnate Word,84
+24,2020-11-29,Prairie View,64,Louisville,86
+25,2020-11-29,Radford,59,James Madison,67
+26,2020-11-29,San Francisco,71,Rhode Island,84
+27,2020-11-29,Seattle,63,Air Force,45
+28,2020-11-29,South Carolina,69,Tulsa,58
+29,2020-11-29,South Florida,58,Virginia Tech,76
+30,2020-11-29,St. Katherine,55,UCSB,92
+0,2020-11-30,UNC,78,UNLV,51
+1,2020-11-30,Texas,78,Davidson,76
+2,2020-11-30,Little Rock,76,Duquesne,66
+3,2020-11-30,Auburn,55,UCF,63
+4,2020-11-30,Bowling Green State,78,Appalachian State,76
+5,2020-11-30,Chattanooga,62,Tennessee Tech,54
+6,2020-11-30,Eastern Kentucky,96,Xavier,99
+7,2020-11-30,Emmanuel,64,Stetson,61
+8,2020-11-30,Fairleigh Dickinson,58,Hofstra,73
+9,2020-11-30,Georgia State,69,Mercer,86
+10,2020-11-30,Indiana,79,Providence,58
+11,2020-11-30,Iona,64,Seton Hall,86
+12,2020-11-30,Loyola Marymount,64,Minnesota,67
+13,2020-11-30,UMKC,58,Kansas State,62
+14,2020-11-30,Mobile,66,Jacksonville State,85
+15,2020-11-30,Nicholls State,49,California,60
+16,2020-11-30,Pacific,58,Nevada,70
+17,2020-11-30,Piedmont,58,Western Carolina,96
+18,2020-11-30,Seattle,65,Cal State Northridge,76
+19,2020-11-30,Southeastern Louisiana,43,LSU,96
+20,2020-11-30,St. Andrews,51,Campbell,85
+21,2020-11-30,St. John's (NY),97,Boston College,93
+22,2020-11-30,Stanford,82,Alabama,64
+23,2020-11-30,Texas A&M-Corpus Christi,54,SMU,91
+24,2020-11-30,Texas Southern,76,Wyoming,74
+25,2020-11-30,Texas State,51,Mississippi State,68
+0,2020-12-01,Green Bay,42,Wisconsin,82
+1,2020-12-01,Michigan State,75,Duke,69
+2,2020-12-01,Kansas,65,Kentucky,62
+3,2020-12-01,Omaha,67,Creighton,94
+4,2020-12-01,Villanova,87,Hartford,53
+5,2020-12-01,UNC,67,Stanford,63
+6,2020-12-01,Saint Francis (PA),51,Virginia,76
+7,2020-12-01,Texas,66,Indiana,44
+8,2020-12-01,Benedictine,54,New Mexico State,92
+9,2020-12-01,Bryant,93,New Hampshire,85
+10,2020-12-01,UC-Riverside,57,Washington,42
+11,2020-12-01,Central Michigan,76,Florida International,96
+12,2020-12-01,Cleveland State,61,Toledo,70
+13,2020-12-01,Covenant,73,Samford,98
+14,2020-12-01,Davidson,62,Providence,63
+15,2020-12-01,Eastern Illinois,63,Dayton,66
+16,2020-12-01,Emmanuel,47,South Alabama,86
+17,2020-12-01,Hampton,82,George Washington,78
+18,2020-12-01,Howard Payne,51,Abilene Christian,81
+19,2020-12-01,Judson,32,Bradley,105
+20,2020-12-01,LeTourneau,57,Stephen F. Austin,102
+21,2020-12-01,Lincoln (PA),94,Morgan State,102
+22,2020-12-01,Longwood,71,VMI,84
+23,2020-12-01,Mississippi Valley State,49,Grand Canyon,88
+24,2020-12-01,Navy,78,Georgetown,71
+25,2020-12-01,UNLV,74,Alabama,86
+26,2020-12-01,Nicholls State,50,Saint Mary's,73
+27,2020-12-01,North Carolina A&T,70,Charleston Southern,63
+28,2020-12-01,North Carolina Wesleyan,62,East Carolina,91
+29,2020-12-01,Oakland,50,Purdue,93
+30,2020-12-01,Oklahoma State,70,Marquette,62
+31,2020-12-01,South Dakota,69,Nebraska,76
+32,2020-12-01,USC,79,BYU,53
+33,2020-12-01,Stony Brook,68,St. Peter's,82
+34,2020-12-01,Valparaiso,50,UIC,66
+35,2020-12-01,Western Kentucky,54,Louisville,75
+36,2020-12-01,Winthrop,75,UNC Greensboro,67
+0,2020-12-02,West Virginia,82,Gonzaga,87
+1,2020-12-02,Illinois,69,Baylor,82
+2,2020-12-02,Texas,69,UNC,67
+3,2020-12-02,Oregon,75,Missouri,83
+4,2020-12-02,North Florida,58,Florida State,86
+5,2020-12-02,Morehead State,44,Ohio State,77
+6,2020-12-02,Arkansas-Pine Bluff,49,Northwestern,92
+7,2020-12-02,Arkansas State,54,Memphis,83
+8,2020-12-02,Army,69,Florida,76
+9,2020-12-02,Ball State,65,Michigan,84
+10,2020-12-02,Cal State Bakersfield,47,Santa Clara,53
+11,2020-12-02,Dallas Christian,37,McNeese State,140
+12,2020-12-02,Davidson,77,UNLV,73
+13,2020-12-02,Eastern Kentucky,95,USC Upstate,78
+14,2020-12-02,Evansville,87,UT-Martin,93
+15,2020-12-02,Flagler,92,Central Michigan,73
+16,2020-12-02,Florida Gulf Coast,57,South Florida,76
+17,2020-12-02,Greenville,108,Illinois State,177
+18,2020-12-02,Hartford,66,Fairfield,61
+19,2020-12-02,Houston Baptist,75,SMU,102
+20,2020-12-02,Incarnate Word,83,Wyoming,94
+21,2020-12-02,Indiana,79,Stanford,63
+22,2020-12-02,Kennesaw State,48,Alabama-Birmingham,73
+23,2020-12-02,La Sierra,54,UC-Irvine,104
+24,2020-12-02,Lipscomb,55,Cincinnati,67
+25,2020-12-02,Louisiana,66,New Orleans,63
+26,2020-12-02,Montana State,70,Pacific,74
+27,2020-12-02,Murray State,61,Middle Tennessee,78
+28,2020-12-02,UNC Greensboro,68,Duquesne,81
+29,2020-12-02,North Dakota,73,Dixie State,74
+30,2020-12-02,North Georgia,62,Georgia,84
+31,2020-12-02,Old Dominion,80,Norfolk State,66
+32,2020-12-02,Oral Roberts,80,Wichita State,85
+33,2020-12-02,Oregon State,55,Washington State,59
+34,2020-12-02,Point Park,41,Kent State,90
+35,2020-12-02,Presbyterian,65,Jacksonville,78
+36,2020-12-02,Providence,71,Alabama,88
+37,2020-12-02,Quinnipiac,48,Drexel,66
+38,2020-12-02,San Francisco,85,Nevada,60
+39,2020-12-02,Seton Hall,63,Rhode Island,76
+40,2020-12-02,South Carolina State,38,Clemson,75
+41,2020-12-02,South Dakota State,71,Iowa State,68
+42,2020-12-02,Southeastern Louisiana,81,California Baptist,80
+43,2020-12-02,Southern Illinois,87,Southeast Missouri State,79
+44,2020-12-02,SIU-Edwardsville,73,Northern Illinois,53
+45,2020-12-02,Southern Wesleyan,49,Furman,89
+46,2020-12-02,St. John's (NY),68,BYU,74
+47,2020-12-02,St. Katherine,41,San Diego State,83
+48,2020-12-02,Tarleton State,66,Texas A&M,73
+49,2020-12-02,Tennessee Tech,48,Xavier,79
+50,2020-12-02,Texas A&M-Corpus Christi,59,Texas-Rio Grande Valley,62
+51,2020-12-02,Texas-Arlington,60,Arkansas,72
+52,2020-12-02,VCU,69,Penn State,72
+53,2020-12-02,Westminster (UT),71,Utah Valley,79
+54,2020-12-02,William Carey,53,Southern Miss,80
+0,2020-12-03,Western Illinois,58,Iowa,99
+1,2020-12-03,Washburn,54,Kansas,89
+2,2020-12-03,VMI,57,Virginia Tech,64
+3,2020-12-03,Arizona State,70,California,62
+4,2020-12-03,Bethesda University (CA),52,UCSB,123
+5,2020-12-03,Chicago State,56,Eastern Illinois,78
+6,2020-12-03,Columbia International,56,Coastal Carolina,113
+7,2020-12-03,UConn,61,USC,58
+8,2020-12-03,East Texas Baptist,59,Grambling,68
+9,2020-12-03,Florida,90,Boston College,70
+10,2020-12-03,Florida National University,64,Florida Atlantic,128
+11,2020-12-03,Idaho,55,Sacramento State,77
+12,2020-12-03,LeTourneau,74,Rice,94
+13,2020-12-03,Louisiana-Monroe,62,Louisiana Tech,78
+14,2020-12-03,Marshall,80,Wright State,64
+15,2020-12-03,UMass-Lowell,59,NC State,90
+16,2020-12-03,Montana,63,Southern Utah,64
+17,2020-12-03,Omaha,66,Drake,87
+18,2020-12-03,Newberry,84,Western Carolina,91
+19,2020-12-03,Niagara,45,Syracuse,75
+20,2020-12-03,North Carolina A&T,70,Citadel,78
+21,2020-12-03,Northwestern State,68,TCU,74
+22,2020-12-03,Purdue Northwest,67,Bowling Green State,88
+23,2020-12-03,Quinnipiac,58,Drexel,70
+24,2020-12-03,Saint Francis (PA),62,Liberty,78
+25,2020-12-03,Seattle,52,UCLA,78
+26,2020-12-03,St. Katherine,45,Pepperdine,94
+27,2020-12-03,Tennessee Tech,65,Northern Kentucky,74
+28,2020-12-03,UTSA,66,Oklahoma,105
+29,2020-12-03,Texas Southern,70,Saint Mary's,82
+30,2020-12-03,Washington,62,Utah,76
+31,2020-12-03,Winthrop,80,Little Rock,75
+0,2020-12-04,Wisconsin,65,Marquette,67
+1,2020-12-04,Bellarmine,54,Duke,76
+2,2020-12-04,Detroit,76,Michigan State,83
+3,2020-12-04,Kennesaw State,58,Creighton,93
+4,2020-12-04,Kent State,64,Virginia,71
+5,2020-12-04,Troy,46,Texas Tech,80
+6,2020-12-04,Oregon,83,Seton Hall,70
+7,2020-12-04,Carver College,38,Austin Peay,102
+8,2020-12-04,Central Arkansas,68,Memphis,85
+9,2020-12-04,Central Connecticut,65,Hartford,80
+10,2020-12-04,College of Idaho,49,Boise State,86
+11,2020-12-04,Crowley's Ridge,49,Arkansas State,115
+12,2020-12-04,Dallas Christian,42,Sam Houston State,117
+13,2020-12-04,Fairfield,69,Stony Brook,72
+14,2020-12-04,Georgia State,76,Charlotte,65
+15,2020-12-04,Jacksonville,65,Georgia,98
+16,2020-12-04,Jacksonville State,70,Florida International,74
+17,2020-12-04,Long Beach State,61,Loyola Marymount,85
+18,2020-12-04,McNeese State,76,Stephen F. Austin,86
+19,2020-12-04,North Dakota,67,Minnesota,76
+20,2020-12-04,North Texas,63,Mississippi State,69
+21,2020-12-04,Our Lady of the Lake,68,Texas-Rio Grande Valley,91
+22,2020-12-04,St. Peter's,57,Maryland,90
+23,2020-12-04,San Francisco,88,Cal Poly,60
+24,2020-12-04,South Alabama,81,Auburn,90
+25,2020-12-04,South Dakota State,88,Bradley,84
+26,2020-12-04,Southeastern Louisiana,66,California Baptist,83
+27,2020-12-04,St. Ambrose,53,Northern Iowa,98
+28,2020-12-04,Stetson,60,Miami (FL),82
+29,2020-12-04,Sul Ross State,62,UTSA,91
+30,2020-12-04,Texas-Arlington,64,Tulsa,79
+31,2020-12-04,Toledo,91,Eastern Michigan,74
+32,2020-12-04,Valparaiso,61,Purdue,68
+33,2020-12-04,William Jessup,62,UC-Davis,95
+0,2020-12-05,North Dakota State,61,Kansas,65
+1,2020-12-05,South Carolina,67,Houston,77
+2,2020-12-05,Arkansas-Pine Bluff,54,Saint Louis,107
+3,2020-12-05,Bluefield College (VA),64,Liberty,86
+4,2020-12-05,BYU,67,Utah State,64
+5,2020-12-05,Chicago State,66,Northwestern,111
+6,2020-12-05,Columbia International,62,Mercer,88
+7,2020-12-05,Coppin State,69,George Washington,85
+8,2020-12-05,Eastern Illinois,93,Green Bay,91
+9,2020-12-05,Eastern Washington,67,Arizona,70
+10,2020-12-05,Fairleigh Dickinson,67,Providence,79
+11,2020-12-05,Florida National University,74,Florida Gulf Coast,91
+12,2020-12-05,Furman,81,College of Charleston,57
+13,2020-12-05,Georgia Southern,72,USC Upstate,69
+14,2020-12-05,Idaho,57,Sacramento State,73
+15,2020-12-05,UIC,66,Ball State,68
+16,2020-12-05,Illinois State,65,Murray State,76
+17,2020-12-05,Incarnate Word,64,Texas State,72
+18,2020-12-05,Iona,82,Hofstra,74
+19,2020-12-05,Lamar,44,Air Force,59
+20,2020-12-05,Lewis,48,Loyola (IL),76
+21,2020-12-05,Lipscomb,50,Arkansas,86
+22,2020-12-05,Louisiana State-Shreveport,73,Louisiana,84
+23,2020-12-05,Marist,68,Binghamton,65
+24,2020-12-05,Miami (OH),47,Wright State,71
+25,2020-12-05,Montana,74,Southern Utah,75
+26,2020-12-05,Mount St. Mary's,42,VCU,60
+27,2020-12-05,Omaha,65,SIU-Edwardsville,63
+28,2020-12-05,UNLV,68,Kansas State,58
+29,2020-12-05,North Florida,74,High Point,85
+30,2020-12-05,Northern Illinois,59,Pitt,89
+31,2020-12-05,Northern Kentucky,72,Chattanooga,79
+32,2020-12-05,Oakland,71,Oklahoma State,84
+33,2020-12-05,Point Park,57,Robert Morris,75
+34,2020-12-05,Portland State,73,Portland,86
+35,2020-12-05,Radford,50,East Carolina,63
+36,2020-12-05,Rhode Island College,83,Bryant,138
+37,2020-12-05,Rice,86,Houston Baptist,64
+38,2020-12-05,Rider,52,Syracuse,87
+39,2020-12-05,Salem International,76,Delaware,79
+40,2020-12-05,Samford,96,Belmont,83
+41,2020-12-05,South Carolina State,56,UNC Asheville,77
+42,2020-12-05,SMU,66,Dayton,64
+43,2020-12-05,St. Katherine,48,Dixie State,86
+44,2020-12-05,Sul Ross State,65,UTEP,84
+45,2020-12-05,Tarleton State,48,Abilene Christian,69
+46,2020-12-05,Toccoa Falls,58,Citadel,100
+0,2020-12-06,Western Michigan,61,Michigan State,79
+1,2020-12-06,West Virginia,80,Georgetown,71
+2,2020-12-06,Villanova,68,Texas,64
+3,2020-12-06,Grambling,40,Texas Tech,81
+4,2020-12-06,Kentucky,62,Georgia Tech,79
+5,2020-12-06,Bellarmine,84,Howard,63
+6,2020-12-06,Binghamton,60,Marist,64
+7,2020-12-06,Buffalo,78,Bowling Green State,86
+8,2020-12-06,California,56,UCLA,76
+9,2020-12-06,UC-Riverside,83,Denver,63
+10,2020-12-06,Carver College,40,North Alabama,107
+11,2020-12-06,Central Arkansas,83,Little Rock,86
+12,2020-12-06,UCF,58,Michigan,80
+13,2020-12-06,Central Michigan,79,Western Illinois,73
+14,2020-12-06,Cleveland State,46,Ohio,101
+15,2020-12-06,Coppin State,54,Drexel,69
+16,2020-12-06,Detroit,70,Notre Dame,78
+17,2020-12-06,Greensboro,67,Longwood,64
+18,2020-12-06,Howard Payne,54,Sam Houston State,117
+19,2020-12-06,Judson,45,Valparaiso,85
+20,2020-12-06,La Salle,59,Army,63
+21,2020-12-06,Louisiana-Monroe,92,Northwestern State,83
+22,2020-12-06,Louisiana State-Alexandria,79,Stephen F. Austin,97
+23,2020-12-06,Louisiana Tech,55,LSU,86
+24,2020-12-06,Mississippi Valley State,69,Western Kentucky,96
+25,2020-12-06,Missouri,72,Wichita State,62
+26,2020-12-06,New Hampshire,58,Quinnipiac,64
+27,2020-12-06,North Carolina Wesleyan,57,Appalachian State,81
+28,2020-12-06,Oklahoma,82,TCU,78
+29,2020-12-06,Pepperdine,60,San Diego State,65
+30,2020-12-06,Quincy,61,Southern Illinois,102
+31,2020-12-06,Seattle,75,Long Beach State,80
+32,2020-12-06,Seton Hall,98,Penn State,92
+33,2020-12-06,Southern Wesleyan,85,Mercer,96
+34,2020-12-06,St. Ambrose,53,Drake,97
+35,2020-12-06,Stanford,78,North Carolina A&T,46
+36,2020-12-06,Stetson,40,Florida,86
+37,2020-12-06,Stony Brook,66,St. John's (NY),89
+38,2020-12-06,Tennessee Tech,75,Western Carolina,76
+39,2020-12-06,Texas-Rio Grande Valley,68,Texas A&M,81
+40,2020-12-06,Troy,55,Alabama-Birmingham,77
+41,2020-12-06,Wyoming,76,Oregon State,73
+42,2020-12-06,Xavier,77,Cincinnati,69
+0,2020-12-07,Wofford,72,Richmond,77
+1,2020-12-07,Adrian,42,Western Michigan,62
+2,2020-12-07,Bethesda University (CA),43,Cal State Bakersfield,94
+3,2020-12-07,Chattanooga,80,Middle Tennessee,70
+4,2020-12-07,Columbia International,57,Citadel,96
+5,2020-12-07,Eastern Washington,52,Oregon,69
+6,2020-12-07,Fairfield,54,Hartford,67
+7,2020-12-07,Florida Atlantic,79,North Florida,77
+8,2020-12-07,George Washington,81,UMBC,92
+9,2020-12-07,Hampton,64,Norfolk State,76
+10,2020-12-07,Lewis,62,Bradley,95
+11,2020-12-07,Lipscomb,77,Southeast Missouri State,82
+12,2020-12-07,Loyola Marymount,58,UCSB,69
+13,2020-12-07,Morehead State,68,Eastern Kentucky,71
+14,2020-12-07,North Carolina Central,71,Coastal Carolina,78
+15,2020-12-07,UNC Wilmington,78,East Carolina,88
+16,2020-12-07,Northern Arizona,53,Arizona,96
+17,2020-12-07,South Carolina State,40,Charlotte,78
+18,2020-12-07,William Jessup,64,Nevada,86
+0,2020-12-08,UNC,80,Iowa,93
+1,2020-12-08,Creighton,72,Kansas,73
+2,2020-12-08,Illinois,83,Duke,68
+3,2020-12-08,Colorado,47,Tennessee,56
+4,2020-12-08,Penn State,75,Virginia Tech,55
+5,2020-12-08,Syracuse,69,Rutgers,79
+6,2020-12-08,Ohio State,90,Notre Dame,85
+7,2020-12-08,Austin Peay,57,Murray State,87
+8,2020-12-08,Ball State,79,Northern Illinois,70
+9,2020-12-08,Boston College,80,Minnesota,85
+10,2020-12-08,Bryant,101,St. Francis (NY),82
+11,2020-12-08,UC-Irvine,56,USC,91
+12,2020-12-08,Campbell,80,Jacksonville,78
+13,2020-12-08,Carver College,59,Charleston Southern,94
+14,2020-12-08,Central Arkansas,65,Saint Louis,88
+15,2020-12-08,Central Connecticut,94,Fairleigh Dickinson,87
+16,2020-12-08,College of Idaho,64,Utah State,90
+17,2020-12-08,Coppin State,48,Georgetown,80
+18,2020-12-08,Delaware,61,UMBC,76
+19,2020-12-08,Florida National University,57,New Orleans,74
+20,2020-12-08,Fort Hays State,81,Kansas State,68
+21,2020-12-08,Green Bay,68,Marquette,82
+22,2020-12-08,Greensboro,65,VMI,100
+23,2020-12-08,Idaho State,59,Utah,75
+24,2020-12-08,Jackson State,59,Mississippi State,82
+25,2020-12-08,Kent State,80,Detroit,66
+26,2020-12-08,Lincoln (PA),62,La Salle,80
+27,2020-12-08,Louisiana State-Alexandria,75,Louisiana,90
+28,2020-12-08,Mississippi Valley State,57,Memphis,94
+29,2020-12-08,Montana,50,Georgia,63
+30,2020-12-08,Morgan State,83,Iona,72
+31,2020-12-08,North Carolina A&T,60,Longwood,77
+32,2020-12-08,Northern Kentucky,60,Dayton,66
+33,2020-12-08,Northwest University,48,Portland State,88
+34,2020-12-08,Oral Roberts,78,Oklahoma State,83
+35,2020-12-08,Purdue,54,Miami (FL),58
+36,2020-12-08,Rider,79,St. John's (NY),82
+37,2020-12-08,Saint Francis (PA),57,Mount St. Mary's,75
+38,2020-12-08,Stetson,62,South Florida,73
+39,2020-12-08,Tennessee State,64,Belmont,79
+40,2020-12-08,UTEP,61,Saint Mary's,73
+41,2020-12-08,Truman State,66,Indiana State,80
+42,2020-12-08,Wagner,45,Seton Hall,78
+43,2020-12-08,Westminster (UT),73,Weber State,85
+44,2020-12-08,William Carey,67,South Alabama,80
+0,2020-12-09,Stephen F. Austin,52,Baylor,83
+1,2020-12-09,Rhode Island,62,Wisconsin,73
+2,2020-12-09,Texas State,53,Texas,74
+3,2020-12-09,Abilene Christian,44,Texas Tech,51
+4,2020-12-09,Northern Iowa,68,Richmond,78
+5,2020-12-09,Indiana,67,Florida State,69
+6,2020-12-09,Adrian,35,Eastern Michigan,95
+7,2020-12-09,Arkansas-Pine Bluff,75,Arkansas State,74
+8,2020-12-09,Arlington Baptist,43,Tarleton State,84
+9,2020-12-09,Boise State,74,BYU,70
+10,2020-12-09,Bryant,91,St. Francis (NY),93
+11,2020-12-09,Cal State Bakersfield,60,Arizona,85
+12,2020-12-09,California,62,Pepperdine,74
+13,2020-12-09,Campbell,79,New Orleans,70
+14,2020-12-09,Carver College,51,Citadel,102
+15,2020-12-09,Central Connecticut,71,Fairleigh Dickinson,79
+16,2020-12-09,Chattanooga,77,Bellarmine,68
+17,2020-12-09,Chicago State,51,Loyola (IL),88
+18,2020-12-09,Colorado Christian,62,Northern Colorado,87
+19,2020-12-09,Denver,61,Wyoming,83
+20,2020-12-09,Eastern Illinois,65,Evansville,68
+21,2020-12-09,Florida A&M,66,Oregon,87
+22,2020-12-09,Florida National University,69,Jacksonville,78
+23,2020-12-09,Fresno Pacific,79,San Jose State,87
+24,2020-12-09,Furman,73,Cincinnati,78
+25,2020-12-09,Georgia Tech,75,Nebraska,64
+26,2020-12-09,Idaho,58,Washington State,61
+27,2020-12-09,Lamar,63,Louisiana-Monroe,60
+28,2020-12-09,Liberty,60,Missouri,69
+29,2020-12-09,Mars Hill,50,Radford,98
+30,2020-12-09,Marshall,84,College of Charleston,72
+31,2020-12-09,Maryland,51,Clemson,67
+32,2020-12-09,McKendree,66,Drake,90
+33,2020-12-09,North Carolina A&T,59,VCU,95
+34,2020-12-09,Oklahoma,77,Xavier,99
+35,2020-12-09,Pitt,71,Northwestern,70
+36,2020-12-09,Point Park,52,Youngstown State,72
+37,2020-12-09,Providence,79,TCU,70
+38,2020-12-09,San Diego,56,UCLA,83
+39,2020-12-09,Santa Clara,76,Cal Poly,69
+40,2020-12-09,Seattle,41,Washington,73
+41,2020-12-09,Southeast Missouri State,74,Lipscomb,80
+42,2020-12-09,Southeastern Louisiana,69,Louisiana Tech,78
+43,2020-12-09,Southern,44,Arkansas,79
+44,2020-12-09,SIU-Edwardsville,58,Valparaiso,80
+45,2020-12-09,Southern Miss,38,Tulane,58
+46,2020-12-09,Southern Utah,81,Utah Valley,71
+47,2020-12-09,St. Andrews,66,UNC Wilmington,116
+48,2020-12-09,Stony Brook,67,Hofstra,72
+49,2020-12-09,Toledo,71,Michigan,91
+50,2020-12-09,Transylvania,55,Morehead State,77
+51,2020-12-09,Tuskegee,64,Alabama-Birmingham,89
+52,2020-12-09,Western Illinois,57,Miami (OH),67
+0,2020-12-10,San Diego State,80,Arizona State,68
+1,2020-12-10,UC-Riverside,74,Northern Arizona,50
+2,2020-12-10,Florida National University,92,Campbell,122
+3,2020-12-10,Gardner-Webb,84,Western Kentucky,86
+4,2020-12-10,Jackson State,45,Ole Miss,80
+5,2020-12-10,LeTourneau,65,Sam Houston State,107
+6,2020-12-10,Long Beach State,62,San Francisco,107
+7,2020-12-10,Mercyhurst,64,Buffalo,81
+8,2020-12-10,UMKC,61,Minnesota,90
+9,2020-12-10,Mt. St. Joseph,55,Western Illinois,80
+10,2020-12-10,New Orleans,70,Jacksonville,77
+11,2020-12-10,UNC Greensboro,80,Coppin State,85
+12,2020-12-10,North Dakota,75,South Dakota,71
+13,2020-12-10,North Dakota State,75,South Dakota State,77
+14,2020-12-10,North Florida,67,East Carolina,73
+15,2020-12-10,Portland,87,Oregon State,86
+16,2020-12-10,Purdue Northwest,72,Ohio,92
+17,2020-12-10,St. Katherine,47,California Baptist,93
+18,2020-12-10,Texas-Rio Grande Valley,68,Texas A&M-Corpus Christi,64
+19,2020-12-10,Transylvania,55,Morehead State,81
+20,2020-12-10,Troy,62,North Alabama,57
+0,2020-12-11,Iowa State,77,Iowa,105
+1,2020-12-11,Omaha,50,Kansas,95
+2,2020-12-11,Nebraska,74,Creighton,98
+3,2020-12-11,Villanova,76,Georgetown,63
+4,2020-12-11,North Texas,50,West Virginia,62
+5,2020-12-11,Appalachian State,61,Charlotte,57
+6,2020-12-11,Central Baptist,69,Arkansas State,81
+7,2020-12-11,Champion Christian,60,Houston Baptist,93
+8,2020-12-11,College of Idaho,56,Eastern Washington,80
+9,2020-12-11,George Washington,65,Delaware,68
+10,2020-12-11,Georgia Southern,45,Davidson,77
+11,2020-12-11,Hardin-Simmons,66,Texas-Arlington,91
+12,2020-12-11,Hawaii Pacific,50,Hawaii,83
+13,2020-12-11,Iona,70,Fairfield,42
+14,2020-12-11,LeTourneau,60,Texas Southern,103
+15,2020-12-11,Marist,72,Canisius,81
+16,2020-12-11,Marquette,60,UCLA,69
+17,2020-12-11,Milwaukee,75,Kansas State,76
+18,2020-12-11,Mt. St. Joseph,64,Miami (OH),79
+19,2020-12-11,Murray State,66,Southern Illinois,70
+20,2020-12-11,Nevada,77,Grand Canyon,87
+21,2020-12-11,Niagara,54,St. Peter's,70
+22,2020-12-11,Northeastern,79,UMass,94
+23,2020-12-11,Regis,58,Northern Colorado,83
+24,2020-12-11,Rider,82,Manhattan,64
+25,2020-12-11,San Jose State,61,Saint Mary's,96
+26,2020-12-11,South Carolina State,63,College of Charleston,90
+27,2020-12-11,South Dakota,67,North Dakota State,74
+28,2020-12-11,South Dakota State,74,North Dakota,62
+29,2020-12-11,St. John's (NY),68,Seton Hall,77
+0,2020-12-12,Illinois,78,Missouri,81
+1,2020-12-12,Cincinnati,56,Tennessee,65
+2,2020-12-12,North Carolina Central,67,UNC,73
+3,2020-12-12,Texas A&M-Corpus Christi,57,Texas Tech,77
+4,2020-12-12,Florida,71,Florida State,83
+5,2020-12-12,Alabama-Birmingham,65,ETSU,61
+6,2020-12-12,Arkansas-Pine Bluff,56,Tulane,67
+7,2020-12-12,Belmont,81,Lipscomb,71
+8,2020-12-12,Bethesda University (CA),48,Idaho State,87
+9,2020-12-12,Cal State Northridge,89,Pepperdine,84
+10,2020-12-12,UCSB,76,Loyola Marymount,81
+11,2020-12-12,Carver College,53,McNeese State,96
+12,2020-12-12,Cedarville,49,Akron,97
+13,2020-12-12,Central Arkansas,75,Arkansas,100
+14,2020-12-12,Champion Christian,44,Northwestern State,77
+15,2020-12-12,Clemson,64,Alabama,56
+16,2020-12-12,Colorado State-Pueblo,77,Colorado State,89
+17,2020-12-12,Columbia International,26,Liberty,73
+18,2020-12-12,Covenant,57,Middle Tennessee,76
+19,2020-12-12,Dalton State,62,Kennesaw State,72
+20,2020-12-12,Detroit,67,Western Michigan,57
+21,2020-12-12,Dixie State,73,Denver,70
+22,2020-12-12,Flagler,61,Furman,86
+23,2020-12-12,Florida A&M,54,Oklahoma,85
+24,2020-12-12,Florida Gulf Coast,66,Miami (FL),62
+25,2020-12-12,Florida International,77,North Florida,80
+26,2020-12-12,Florida Memorial,49,Florida Atlantic,112
+27,2020-12-12,Fresno Pacific,71,California Baptist,110
+28,2020-12-12,Gardner-Webb,50,Pitt,67
+29,2020-12-12,Greensboro,45,Coastal Carolina,103
+30,2020-12-12,High Point,67,UNC Asheville,80
+31,2020-12-12,Idaho,66,Cal State Bakersfield,76
+32,2020-12-12,Illinois State,66,Ball State,82
+33,2020-12-12,Indiana State,68,Purdue,80
+34,2020-12-12,Iona,52,Fairfield,67
+35,2020-12-12,La Salle,58,Drexel,48
+36,2020-12-12,Louisiana Tech,56,Louisiana,61
+37,2020-12-12,Marist,56,Canisius,52
+38,2020-12-12,McMurry,46,Abilene Christian,83
+39,2020-12-12,Memphis,71,Auburn,74
+40,2020-12-12,Mississippi State,82,Dayton,85
+41,2020-12-12,UMKC,57,Toledo,64
+42,2020-12-12,Niagara,49,St. Peter's,53
+43,2020-12-12,UNC Wilmington,58,Ole Miss,78
+44,2020-12-12,North Dakota State,53,North Dakota,52
+45,2020-12-12,North Georgia,63,Chattanooga,81
+46,2020-12-12,Notre Dame,64,Kentucky,63
+47,2020-12-12,Oklahoma State,67,Wichita State,64
+48,2020-12-12,Old Dominion,54,VCU,77
+49,2020-12-12,Oregon,74,Washington,71
+50,2020-12-12,Our Lady of the Lake,61,Texas State,58
+51,2020-12-12,Rider,77,Manhattan,87
+52,2020-12-12,Samford,75,Georgia,79
+53,2020-12-12,South Alabama,76,Southern Miss,75
+54,2020-12-12,South Dakota State,78,South Dakota,91
+55,2020-12-12,Southwestern Christian,58,Oral Roberts,111
+56,2020-12-12,Stephen F. Austin,55,Louisiana-Monroe,66
+57,2020-12-12,Stony Brook,72,Bryant,81
+58,2020-12-12,Syracuse,101,Boston College,63
+59,2020-12-12,Tennessee State,66,IUPUI,69
+60,2020-12-12,TCU,73,Texas A&M,55
+61,2020-12-12,UTEP,61,Arizona,69
+62,2020-12-12,Transylvania,60,Eastern Kentucky,81
+63,2020-12-12,Utah,64,BYU,82
+64,2020-12-12,Valparaiso,79,Central Michigan,84
+65,2020-12-12,Western Carolina,104,North Carolina A&T,98
+66,2020-12-12,Western Illinois,88,Eastern Illinois,92
+67,2020-12-12,Winthrop,95,USC Upstate,77
+68,2020-12-12,Wofford,56,South Florida,58
+69,2020-12-12,Wyoming,93,Utah Valley,88
+70,2020-12-12,Yellowstone Christian,42,Montana,102
+0,2020-12-13,Northern Illinois,53,Iowa,106
+1,2020-12-13,Oakland,91,Michigan State,109
+2,2020-12-13,Richmond,71,West Virginia,87
+3,2020-12-13,Cleveland State,61,Ohio State,67
+4,2020-12-13,Arizona State,71,Grand Canyon,70
+5,2020-12-13,Air Force,53,Drake,81
+6,2020-12-13,Central Baptist,44,Troy,61
+7,2020-12-13,Hampton,64,VMI,79
+8,2020-12-13,High Point,84,UNC Asheville,90
+9,2020-12-13,Jacksonville,60,South Carolina State,58
+10,2020-12-13,Jacksonville State,73,Tennessee Tech,67
+11,2020-12-13,Loyola (IL),77,UIC,66
+12,2020-12-13,UMBC,66,Coppin State,49
+13,2020-12-13,UMass,75,Northeastern,78
+14,2020-12-13,Mercer,77,Georgia Southern,75
+15,2020-12-13,Milwaukee,71,Western Michigan,63
+16,2020-12-13,Mississippi Valley State,41,Vanderbilt,84
+17,2020-12-13,New Mexico,72,Rice,61
+18,2020-12-13,Norfolk State,47,UNC Greensboro,64
+19,2020-12-13,North Alabama,52,Indiana,87
+20,2020-12-13,Northern Kentucky,73,Kent State,92
+21,2020-12-13,Northwest University,40,Seattle,89
+22,2020-12-13,Ohio,67,Marshall,81
+23,2020-12-13,Penn State,58,Michigan,62
+24,2020-12-13,Portland State,60,Washington State,69
+25,2020-12-13,Rhode Island,65,Western Kentucky,68
+26,2020-12-13,San Diego Christian,70,Cal State Fullerton,94
+27,2020-12-13,San Francisco,70,California,72
+28,2020-12-13,San Jose State,71,Cal Poly,75
+29,2020-12-13,St. John's (NY),94,Georgetown,97
+30,2020-12-13,Weber State,59,Boise State,70
+31,2020-12-13,Winthrop,107,USC Upstate,77
+32,2020-12-13,Wright State,85,Bowling Green State,67
+33,2020-12-13,Yellowstone Christian,74,Montana State,114
+34,2020-12-13,Youngstown State,79,Binghamton,65
+0,2020-12-14,Marquette,89,Creighton,84
+1,2020-12-14,Rutgers,74,Maryland,60
+2,2020-12-14,Arlington Baptist,64,McNeese State,110
+3,2020-12-14,Carver College,46,Presbyterian,85
+4,2020-12-14,Central Arkansas,54,Ole Miss,68
+5,2020-12-14,Eastern Kentucky,62,Morehead State,75
+6,2020-12-14,Longwood,66,Radford,67
+7,2020-12-14,McKendree,68,Austin Peay,82
+8,2020-12-14,Nevada,79,San Diego,72
+9,2020-12-14,Northern Arizona,52,Colorado State,91
+10,2020-12-14,Northern Colorado,45,Colorado,81
+11,2020-12-14,Sam Houston State,66,LSU,88
+12,2020-12-14,St. Francis (IL),39,Central Michigan,91
+13,2020-12-14,Texas A&M-International,51,Texas-Rio Grande Valley,89
+14,2020-12-14,West Virginia Tech,66,Youngstown State,80
+15,2020-12-14,William & Mary,85,George Washington,84
+0,2020-12-15,Appalachian State,38,Tennessee,79
+1,2020-12-15,Loyola (IL),63,Wisconsin,77
+2,2020-12-15,Minnesota,65,Illinois,92
+3,2020-12-15,Georgia Tech,61,Florida State,74
+4,2020-12-15,Clemson,60,Virginia Tech,66
+5,2020-12-15,Arkansas-Pine Bluff,56,North Texas,81
+6,2020-12-15,Arlington Baptist,50,McNeese State,114
+7,2020-12-15,Bacone,65,Oral Roberts,96
+8,2020-12-15,Bethel (TN),60,UT-Martin,95
+9,2020-12-15,Buffalo,90,Miami (OH),62
+10,2020-12-15,Campbellsville,72,VMI,106
+11,2020-12-15,Carver College,27,Georgia Southern,92
+12,2020-12-15,Charlotte,63,Davidson,52
+13,2020-12-15,Chicago State,62,Illinois State,91
+14,2020-12-15,Coastal Carolina,77,Wofford,88
+15,2020-12-15,College of Idaho,74,Portland,88
+16,2020-12-15,Eastern Washington,75,Saint Mary's,80
+17,2020-12-15,Florida A&M,76,Austin Peay,70
+18,2020-12-15,Florida Atlantic,69,Stetson,78
+19,2020-12-15,Fresno Pacific,65,Santa Clara,88
+20,2020-12-15,Furman,80,Alabama,83
+21,2020-12-15,Gardner-Webb,60,ETSU,65
+22,2020-12-15,Hofstra,96,Monmouth,88
+23,2020-12-15,Houston Baptist,79,Rice,90
+24,2020-12-15,Indiana State,59,Saint Louis,78
+25,2020-12-15,Jackson State,58,Louisiana Tech,85
+26,2020-12-15,Kansas State,74,Iowa State,65
+27,2020-12-15,Longwood,53,Radford,62
+28,2020-12-15,New Orleans,63,Louisiana,73
+29,2020-12-15,Our Lady of the Lake,65,New Mexico,104
+30,2020-12-15,Point Park,39,Stony Brook,83
+31,2020-12-15,Quincy,48,Northwestern,100
+32,2020-12-15,South Carolina State,52,Liberty,82
+33,2020-12-15,USC Upstate,57,UNC Greensboro,65
+34,2020-12-15,Southeast Missouri State,63,Evansville,66
+35,2020-12-15,Southeastern Louisiana,52,Texas A&M,69
+36,2020-12-15,Southern Miss,66,Lamar,63
+37,2020-12-15,St. Bonaventure,81,Akron,74
+38,2020-12-15,St. Francis (NY),91,Central Connecticut,86
+39,2020-12-15,Stanford,82,Cal State Northridge,71
+40,2020-12-15,Texas A&M-Corpus Christi,46,Texas State,51
+41,2020-12-15,Texas Southern,63,Auburn,80
+42,2020-12-15,Transylvania,49,Murray State,90
+43,2020-12-15,Trevecca Nazarene,45,Lipscomb,61
+44,2020-12-15,Utah Valley,67,Utah,75
+45,2020-12-15,Western Carolina,68,VCU,93
+46,2020-12-15,Wichita State,69,Tulsa,65
+0,2020-12-16,Butler,66,Villanova,85
+1,2020-12-16,Sam Houston State,63,Texas,79
+2,2020-12-16,Ohio State,60,Purdue,67
+3,2020-12-16,Duke,75,Notre Dame,65
+4,2020-12-16,Campbell,56,Elon,66
+5,2020-12-16,Carver College,38,Liberty,91
+6,2020-12-16,Central Arkansas,65,Mississippi State,81
+7,2020-12-16,Concordia (CA),68,Pepperdine,91
+8,2020-12-16,East Carolina,55,SMU,70
+9,2020-12-16,Flagler,81,South Alabama,103
+10,2020-12-16,Florida International,85,Florida Gulf Coast,69
+11,2020-12-16,Grambling,78,Louisiana-Monroe,61
+12,2020-12-16,Hardin-Simmons,73,Abilene Christian,95
+13,2020-12-16,Kennesaw State,53,Belmont,64
+14,2020-12-16,LIU,75,Sacred Heart,55
+15,2020-12-16,UMass,85,La Salle,66
+16,2020-12-16,Memphis,80,Tulane,74
+17,2020-12-16,Mercer,81,Georgia State,88
+18,2020-12-16,Ole Miss,70,Middle Tennessee,51
+19,2020-12-16,Montana,66,Washington,58
+20,2020-12-16,Omaha,49,Colorado,91
+21,2020-12-16,UNC Asheville,66,Chattanooga,69
+22,2020-12-16,Northeastern,56,Syracuse,62
+23,2020-12-16,Northern Colorado,83,Denver,75
+24,2020-12-16,Oral Roberts,65,Oklahoma,79
+25,2020-12-16,Pitt,70,Miami (FL),55
+26,2020-12-16,Richmond,78,Vanderbilt,67
+27,2020-12-16,Samford,71,Troy,79
+28,2020-12-16,San Diego,70,Cal Poly,61
+29,2020-12-16,South Florida,74,Cincinnati,71
+30,2020-12-16,Southern,46,Alabama-Birmingham,88
+31,2020-12-16,St. Francis (NY),59,Central Connecticut,78
+32,2020-12-16,Tennessee Tech,50,Jacksonville State,74
+33,2020-12-16,TCU,77,Oklahoma State,76
+34,2020-12-16,UTEP,76,Arizona State,63
+35,2020-12-16,UTSA,61,Oregon State,73
+36,2020-12-16,Toledo,96,Marshall,87
+37,2020-12-16,Wagner,62,Bryant,74
+38,2020-12-16,William Jewell,64,Missouri State,73
+39,2020-12-16,William & Mary,75,Hampton,58
+0,2020-12-17,Kansas,58,Texas Tech,57
+1,2020-12-17,Creighton,94,St. John's (NY),76
+2,2020-12-17,UC-Irvine,48,Loyola Marymount,51
+3,2020-12-17,Campbellsville,54,Eastern Kentucky,118
+4,2020-12-17,College of Idaho,54,Seattle,78
+5,2020-12-17,Columbia International,54,ETSU,96
+6,2020-12-17,Crowley's Ridge,51,North Alabama,99
+7,2020-12-17,Dallas Christian,48,Texas-Arlington,109
+8,2020-12-17,Delaware State,73,Coastal Carolina,99
+9,2020-12-17,Dixie State,78,Southern Utah,85
+10,2020-12-17,Doane College,64,Nebraska,110
+11,2020-12-17,Greensboro,47,Appalachian State,87
+12,2020-12-17,Houston Baptist,55,North Texas,85
+13,2020-12-17,Jackson State,60,Bradley,83
+14,2020-12-17,LeTourneau,58,New Mexico,90
+15,2020-12-17,LIU,72,Sacred Heart,87
+16,2020-12-17,Omaha,78,Wyoming,82
+17,2020-12-17,NC State,69,Saint Louis,80
+18,2020-12-17,North Dakota,64,Southern Illinois,85
+19,2020-12-17,Purdue Northwest,71,Valparaiso,89
+20,2020-12-17,SAGU Amer. Indian Coll.,54,Idaho State,89
+21,2020-12-17,St. Joseph's,77,Drexel,81
+22,2020-12-17,San Francisco,64,Oregon,74
+23,2020-12-17,Seton Hall,70,Marquette,63
+24,2020-12-17,Wagner,75,Bryant,81
+0,2020-12-18,Iowa State,65,West Virginia,70
+1,2020-12-18,Tennessee Tech,49,Tennessee,103
+2,2020-12-18,BYU,72,San Diego State,62
+3,2020-12-18,Air Force,57,Nevada,74
+4,2020-12-18,Alice Lloyd,63,Coastal Carolina,86
+5,2020-12-18,Belmont,88,Tennessee State,63
+6,2020-12-18,Bowling Green State,85,Robert Morris,65
+7,2020-12-18,Carver College,57,Georgia State,122
+8,2020-12-18,Central Michigan,61,Western Michigan,76
+9,2020-12-18,Champion Christian,50,Little Rock,78
+10,2020-12-18,Chicago State,54,Northern Illinois,64
+11,2020-12-18,Columbia International,41,Appalachian State,77
+12,2020-12-18,Davidson,67,Rhode Island,58
+13,2020-12-18,Dickinson State (ND),51,Montana,78
+14,2020-12-18,Drake,75,South Dakota,57
+15,2020-12-18,Emporia State,57,Wichita State,73
+16,2020-12-18,Fairfield,51,Niagara,68
+17,2020-12-18,Florida A&M,64,Georgia Tech,74
+18,2020-12-18,Greensboro,45,North Carolina A&T,91
+19,2020-12-18,Hampton,76,Howard,81
+20,2020-12-18,Idaho,41,Utah,79
+21,2020-12-18,Iona,70,Rider,56
+22,2020-12-18,Montana State,54,Washington State,82
+23,2020-12-18,UNC Wilmington,80,Norfolk State,72
+24,2020-12-18,North Dakota,50,Southern Illinois,62
+25,2020-12-18,Northern Colorado,50,Utah State,63
+26,2020-12-18,Northwestern State,55,Tulsa,82
+27,2020-12-18,Richmond,75,Loyola (IL),73
+28,2020-12-18,SAGU Amer. Indian Coll.,46,Idaho State,113
+29,2020-12-18,St. Peter's,76,Monmouth,78
+30,2020-12-18,South Carolina State,56,Presbyterian,62
+31,2020-12-18,SIU-Edwardsville,69,Morehead State,65
+32,2020-12-18,UT-Martin,69,Southeast Missouri State,67
+33,2020-12-18,VMI,77,Gardner-Webb,88
+34,2020-12-18,Webber,39,Florida Gulf Coast,112
+35,2020-12-18,Weber State,94,Portland State,66
+36,2020-12-18,Western Carolina,76,College of Charleston,70
+0,2020-12-19,Iowa,88,Gonzaga,99
+1,2020-12-19,Baylor,100,Kansas State,69
+2,2020-12-19,St. Joseph's,68,Villanova,88
+3,2020-12-19,Louisville,48,Wisconsin,85
+4,2020-12-19,UCF,86,Florida State,74
+5,2020-12-19,UCLA,70,Ohio State,77
+6,2020-12-19,UNC,75,Kentucky,63
+7,2020-12-19,Arizona,75,Stanford,78
+8,2020-12-19,Ball State,57,Indiana State,67
+9,2020-12-19,Bethesda University (CA),69,Dixie State,90
+10,2020-12-19,Buffalo,96,Syracuse,107
+11,2020-12-19,Butler,60,Indiana,68
+12,2020-12-19,Cal Poly,52,Loyola Marymount,76
+13,2020-12-19,Cal State Northridge,56,California,87
+14,2020-12-19,UCSB,75,Pepperdine,63
+15,2020-12-19,Campbell,50,NC State,69
+16,2020-12-19,Carver College,51,Stetson,95
+17,2020-12-19,Chattanooga,69,Alabama-Birmingham,66
+18,2020-12-19,Cincinnati,68,Georgia,83
+19,2020-12-19,Citadel,91,Longwood,89
+20,2020-12-19,Cleveland State,63,Purdue-Fort Wayne,61
+21,2020-12-19,Colorado State,33,Saint Mary's,53
+22,2020-12-19,Coppin State,57,Virginia Tech,97
+23,2020-12-19,Crowley's Ridge,68,Tennessee State,90
+24,2020-12-19,Delaware,61,La Salle,71
+25,2020-12-19,Drexel,85,Fairleigh Dickinson,68
+26,2020-12-19,Eastern Washington,80,Northern Arizona,64
+27,2020-12-19,Fairfield,61,Niagara,81
+28,2020-12-19,Flagler,73,North Florida,66
+29,2020-12-19,Fresno Pacific,65,Fresno State,78
+30,2020-12-19,Furman,71,Winthrop,87
+31,2020-12-19,Georgia Southern,103,Florida International,99
+32,2020-12-19,Grambling,65,Tulane,77
+33,2020-12-19,High Point,71,William & Mary,49
+34,2020-12-19,Hofstra,69,St. Bonaventure,77
+35,2020-12-19,Houston Baptist,65,Oklahoma,84
+36,2020-12-19,Iona,72,Rider,64
+37,2020-12-19,Jacksonville,64,Miami (FL),73
+38,2020-12-19,James Madison,64,East Carolina,73
+39,2020-12-19,Kansas Christian,42,UMKC,98
+40,2020-12-19,Kansas Christian,36,UMKC,95
+41,2020-12-19,Lamar,57,Louisiana Tech,86
+42,2020-12-19,Lee (OH),53,ETSU,62
+43,2020-12-19,Louisiana-Monroe,47,Southern Miss,60
+44,2020-12-19,Maine,60,Hartford,63
+45,2020-12-19,Malone,83,Akron,93
+46,2020-12-19,Marist,61,Manhattan,39
+47,2020-12-19,UMBC,65,Albany (NY),64
+48,2020-12-19,McNeese State,65,Louisiana,75
+49,2020-12-19,Miami (OH),68,Bradley,69
+50,2020-12-19,Milwaukee,68,Green Bay,65
+51,2020-12-19,Ole Miss,62,Dayton,65
+52,2020-12-19,NJIT,60,Temple,72
+53,2020-12-19,North Carolina A&T,72,Charlotte,76
+54,2020-12-19,UNC Greensboro,71,Elon,64
+55,2020-12-19,Northwestern State,67,Missouri State,94
+56,2020-12-19,Oakland,72,UIC,74
+57,2020-12-19,Our Lady of the Lake,72,Texas A&M-Corpus Christi,99
+58,2020-12-19,Portland,41,Oregon,80
+59,2020-12-19,Purdue,88,Notre Dame,78
+60,2020-12-19,Radford,50,Vanderbilt,59
+61,2020-12-19,Rice,69,Sam Houston State,82
+62,2020-12-19,St. Peter's,78,Monmouth,76
+63,2020-12-19,Samford,65,Kennesaw State,63
+64,2020-12-19,San Diego,53,UC-Irvine,85
+65,2020-12-19,South Alabama,90,Alabama A&M,93
+66,2020-12-19,St. Katherine,46,Cal State Bakersfield,87
+67,2020-12-19,Stony Brook,73,Binghamton,59
+68,2020-12-19,Texas State,70,Denver,68
+69,2020-12-19,Troy,41,Auburn,77
+70,2020-12-19,Valparaiso,57,Toledo,71
+71,2020-12-19,West Virginia Tech,73,Morgan State,67
+72,2020-12-19,Western Kentucky,73,Alabama,71
+73,2020-12-19,Wright State,93,Detroit,70
+74,2020-12-19,Youngstown State,64,Northern Kentucky,79
+0,2020-12-20,Michigan State,65,Northwestern,79
+1,2020-12-20,Alcorn State,55,Houston,88
+2,2020-12-20,Creighton,76,UConn,74
+3,2020-12-20,Oklahoma State,74,Texas,77
+4,2020-12-20,Illinois,88,Rutgers,91
+5,2020-12-20,Air Force,68,Nevada,66
+6,2020-12-20,Alice Lloyd,55,James Madison,98
+7,2020-12-20,Benedictine,59,UTEP,79
+8,2020-12-20,Carver College,43,Georgia Southern,119
+9,2020-12-20,Champion Christian,50,Arkansas State,90
+10,2020-12-20,Chicago State,67,Drake,111
+11,2020-12-20,Cleveland State,89,Purdue-Fort Wayne,80
+12,2020-12-20,Delaware State,69,Georgia Tech,97
+13,2020-12-20,Freed-Hardeman,56,North Alabama,82
+14,2020-12-20,Georgetown,83,St. John's (NY),94
+15,2020-12-20,Grand Canyon,65,San Francisco,68
+16,2020-12-20,Jackson State,45,Iowa State,60
+17,2020-12-20,Maine,50,Hartford,65
+18,2020-12-20,Marist,72,Manhattan,67
+19,2020-12-20,Marquette,88,Xavier,91
+20,2020-12-20,UMBC,65,Albany (NY),60
+21,2020-12-20,Milwaukee,74,Green Bay,62
+22,2020-12-20,Northeastern,62,Old Dominion,66
+23,2020-12-20,Oakland,73,UIC,90
+24,2020-12-20,Olivet,66,Central Michigan,127
+25,2020-12-20,Oral Roberts,76,Arkansas,87
+26,2020-12-20,Our Lady of the Lake,70,UTSA,102
+27,2020-12-20,Providence,80,Seton Hall,77
+28,2020-12-20,Robert Morris,71,Marshall,85
+29,2020-12-20,Saint Louis,82,Minnesota,90
+30,2020-12-20,Stony Brook,80,Binghamton,70
+31,2020-12-20,Washington,69,Colorado,92
+32,2020-12-20,Weber State,72,Portland State,74
+33,2020-12-20,Western Illinois,81,UT-Martin,63
+34,2020-12-20,Wright State,85,Detroit,72
+35,2020-12-20,Youngstown State,70,Northern Kentucky,60
+0,2020-12-21,Northwestern State,0,Gonzaga,0
+1,2020-12-21,Arkansas-Pine Bluff,0,Baylor,0
+2,2020-12-21,St. Joseph's,0,Tennessee,0
+3,2020-12-21,Gardner-Webb,0,Florida State,0
+4,2020-12-21,Morehead State,0,Clemson,0
+5,2020-12-21,Little Rock,0,Missouri State,0
+6,2020-12-21,Belhaven (MS),0,Samford,0
+7,2020-12-21,Belmont,0,Evansville,0
+8,2020-12-21,Bethesda University (CA),0,Southern Utah,0
+9,2020-12-21,Bryant,0,UMass,0
+10,2020-12-21,Cal State Bakersfield,0,Stanford,0
+11,2020-12-21,College of Charleston,0,Georgia State,0
+12,2020-12-21,Crowley's Ridge,0,Lipscomb,0
+13,2020-12-21,Defiance,0,Miami (OH),0
+14,2020-12-21,Eastern Illinois,0,SIU-Edwardsville,0
+15,2020-12-21,Edward Waters,0,North Florida,0
+16,2020-12-21,Florida College,0,Florida Atlantic,0
+17,2020-12-21,Univ. of Ft. Lauderdale,0,Florida International,0
+18,2020-12-21,Hampton,0,Charleston Southern,0
+19,2020-12-21,Jacksonville,0,Kansas State,0
+20,2020-12-21,Longwood,0,Virginia Tech,0
+21,2020-12-21,Mississippi Valley State,0,Mississippi State,0
+22,2020-12-21,Mt. St. Joseph,0,Valparaiso,0
+23,2020-12-21,Murray State,0,Austin Peay,0
+24,2020-12-21,New Mexico,0,Boise State,0
+25,2020-12-21,New Orleans,0,Rice,0
+26,2020-12-21,UNC Wilmington,0,Campbell,0
+27,2020-12-21,Prairie View,0,Washington State,0
+28,2020-12-21,Sacred Heart,0,Wagner,0
+29,2020-12-21,Sam Houston State,0,Texas-Rio Grande Valley,0
+30,2020-12-21,San Diego,0,Arizona,0
+31,2020-12-21,San Diego Christian,0,UCSB,0
+32,2020-12-21,San Jose State,0,Utah State,0
+33,2020-12-21,South Carolina State,0,Furman,0
+34,2020-12-21,Southern Illinois,0,Butler,0
+35,2020-12-21,Texas Southern,0,BYU,0
+36,2020-12-21,Texas State,0,Northern Arizona,0
+37,2020-12-21,Tulsa,0,Memphis,0
+38,2020-12-21,Vermont,0,UMass-Lowell,0
+39,2020-12-21,VMI,0,George Mason,0
+40,2020-12-21,Webber,0,Stetson,0
+41,2020-12-21,Wofford,0,Texas A&M,0
+0,2020-12-22,Purdue,0,Iowa,0
+1,2020-12-22,West Virginia,0,Kansas,0
+2,2020-12-22,Temple,0,Houston,0
+3,2020-12-22,Nebraska,0,Wisconsin,0
+4,2020-12-22,Texas Tech,0,Oklahoma,0
+5,2020-12-22,Bradley,0,Missouri,0
+6,2020-12-22,William & Mary,0,Virginia,0
+7,2020-12-22,Saint Mary's,0,San Diego State,0
+8,2020-12-22,UNC,0,NC State,0
+9,2020-12-22,Louisville,0,Pitt,0
+10,2020-12-22,Abilene Christian,0,Arkansas,0
+11,2020-12-22,Alcorn State,0,Liberty,0
+12,2020-12-22,Appalachian State,0,Auburn,0
+13,2020-12-22,Ball State,0,Western Michigan,0
+14,2020-12-22,Buffalo,0,St. Bonaventure,0
+15,2020-12-22,Central Connecticut,0,Binghamton,0
+16,2020-12-22,Charlotte,0,George Washington,0
+17,2020-12-22,Chattanooga,0,Tennessee State,0
+18,2020-12-22,Chicago State,0,Iowa State,0
+19,2020-12-22,Cincinnati,0,UCF,0
+20,2020-12-22,Colorado,0,Grand Canyon,0
+21,2020-12-22,ETSU,0,Alabama,0
+22,2020-12-22,Fairleigh Dickinson,0,Fairfield,0
+23,2020-12-22,Georgia Southern,0,Florida Gulf Coast,0
+24,2020-12-22,Hampton,0,Charleston Southern,0
+25,2020-12-22,High Point,0,Eastern Kentucky,0
+26,2020-12-22,Hofstra,0,Richmond,0
+27,2020-12-22,Howard,0,Mount St. Mary's,0
+28,2020-12-22,Howard Payne,0,Texas-Arlington,0
+29,2020-12-22,Idaho State,0,Northern Colorado,0
+30,2020-12-22,Jackson State,0,North Alabama,0
+31,2020-12-22,La Salle,0,Maryland,0
+32,2020-12-22,Lamar,0,UTSA,0
+33,2020-12-22,Louisiana Tech,0,Louisiana-Monroe,0
+34,2020-12-22,Maine,0,Boston College,0
+35,2020-12-22,Mercer,0,Kennesaw State,0
+36,2020-12-22,Montana,0,Arizona,0
+37,2020-12-22,Montana State,0,Portland,0
+38,2020-12-22,New Hampshire,0,NJIT,0
+39,2020-12-22,Niagara,0,Albany (NY),0
+40,2020-12-22,UNC Asheville,0,Marshall,0
+41,2020-12-22,UNC Greensboro,0,North Carolina A&T,0
+42,2020-12-22,North Dakota,0,Drake,0
+43,2020-12-22,North Dakota State,0,TCU,0
+44,2020-12-22,Northeastern,0,Georgia,0
+45,2020-12-22,Northern Arizona,0,Denver,0
+46,2020-12-22,Northern Illinois,0,Toledo,0
+47,2020-12-22,Notre Dame,0,Syracuse,0
+48,2020-12-22,Ohio,0,Akron,0
+49,2020-12-22,Pacific,0,Cal State Northridge,0
+50,2020-12-22,Portland State,0,Oregon State,0
+51,2020-12-22,Presbyterian,0,Citadel,0
+52,2020-12-22,Sacred Heart,0,Wagner,0
+53,2020-12-22,San Diego Christian,0,UC-Riverside,0
+54,2020-12-22,Southeast Missouri State,0,Indiana State,0
+55,2020-12-22,St. Katherine,0,UC-San Diego,0
+56,2020-12-22,UT-Martin,0,Ole Miss,0
+57,2020-12-22,Tennessee Tech,0,Western Kentucky,0
+58,2020-12-22,Tulane,0,East Carolina,0
+59,2020-12-22,Utah,0,Arizona State,0
+60,2020-12-22,Vanderbilt,0,Davidson,0
+61,2020-12-22,Vermont,0,UMass-Lowell,0
+62,2020-12-22,Virginia Wesleyan,0,Old Dominion,0
+63,2020-12-22,Washington Adventist,0,Morgan State,0
+64,2020-12-22,Wichita State,0,South Florida,0
+0,2020-12-23,Villanova,0,Marquette,0
+1,2020-12-23,Xavier,0,Creighton,0
+2,2020-12-23,USC Upstate,0,Tennessee,0
+3,2020-12-23,Illinois,0,Penn State,0
+4,2020-12-23,Rutgers,0,Ohio State,0
+5,2020-12-23,Cal State Bakersfield,0,Pepperdine,0
+6,2020-12-23,Coppin State,0,Iona,0
+7,2020-12-23,Delaware State,0,UNC Wilmington,0
+8,2020-12-23,Georgetown,0,Seton Hall,0
+9,2020-12-23,Georgia Tech,0,Alabama-Birmingham,0
+10,2020-12-23,Idaho State,0,Northern Colorado,0
+11,2020-12-23,UMKC,0,Saint Louis,0
+12,2020-12-23,New Mexico,0,Boise State,0
+13,2020-12-23,NJIT,0,Rider,0
+14,2020-12-23,Northwestern,0,Indiana,0
+15,2020-12-23,Northwestern State,0,Washington State,0
+16,2020-12-23,Paul Quinn,0,Texas A&M-Corpus Christi,0
+17,2020-12-23,Providence,0,Butler,0
+18,2020-12-23,San Jose State,0,Utah State,0
+19,2020-12-23,Santa Clara,0,Oregon State,0
+20,2020-12-23,South Carolina State,0,South Carolina,0
+21,2020-12-23,Southeastern Louisiana,0,Grambling,0
+22,2020-12-23,St. Katherine,0,UC-San Diego,0
+23,2020-12-23,Towson,0,George Mason,0
+24,2020-12-23,UCLA,0,Oregon,0
+25,2020-12-23,Utah Valley,0,Air Force,0
+26,2020-12-23,Weber State,0,BYU,0
+27,2020-12-23,Western Illinois,0,DePaul,0
+0,2020-12-25,Iowa,0,Minnesota,0
+1,2020-12-25,Wisconsin,0,Michigan State,0
+2,2020-12-25,Michigan,0,Nebraska,0
+3,2020-12-25,Maryland,0,Purdue,0
+0,2020-12-26,Gonzaga,0,Virginia,0
+1,2020-12-26,Houston,0,UCF,0
+2,2020-12-26,Indiana,0,Illinois,0
+3,2020-12-26,Ohio State,0,Northwestern,0
+4,2020-12-26,Kentucky,0,Louisville,0
+5,2020-12-26,Coppin State,0,Towson,0
+6,2020-12-26,Green Bay,0,Wright State,0
+7,2020-12-26,UIC,0,Milwaukee,0
+8,2020-12-26,Norfolk State,0,George Mason,0
+9,2020-12-26,Northern Kentucky,0,Oakland,0
+10,2020-12-26,Robert Morris,0,Purdue-Fort Wayne,0
+11,2020-12-26,Youngstown State,0,Cleveland State,0
+0,2020-12-27,Binghamton,0,UMBC,0
+1,2020-12-27,Cal Poly,0,Hawaii,0
+2,2020-12-27,Cal State Northridge,0,Cal State Fullerton,0
+3,2020-12-27,UC-Davis,0,Cal State Bakersfield,0
+4,2020-12-27,UCSB,0,UC-Irvine,0
+5,2020-12-27,DePaul,0,Providence,0
+6,2020-12-27,Drake,0,Indiana State,0
+7,2020-12-27,Evansville,0,Southern Illinois,0
+8,2020-12-27,Green Bay,0,Wright State,0
+9,2020-12-27,Hartford,0,New Hampshire,0
+10,2020-12-27,UIC,0,Milwaukee,0
+11,2020-12-27,Illinois State,0,Loyola (IL),0
+12,2020-12-27,IUPUI,0,Detroit,0
+13,2020-12-27,UMass-Lowell,0,Stony Brook,0
+14,2020-12-27,Missouri State,0,Northern Iowa,0
+15,2020-12-27,NJIT,0,Vermont,0
+16,2020-12-27,Northern Kentucky,0,Oakland,0
+17,2020-12-27,Robert Morris,0,Purdue-Fort Wayne,0
+18,2020-12-27,Youngstown State,0,Cleveland State,0
+0,2020-12-28,Michigan State,0,Minnesota,0
+1,2020-12-28,Maryland,0,Wisconsin,0
+2,2020-12-28,Binghamton,0,UMBC,0
+3,2020-12-28,Cal Poly,0,Hawaii,0
+4,2020-12-28,Cal State Northridge,0,Cal State Fullerton,0
+5,2020-12-28,UC-Davis,0,Cal State Bakersfield,0
+6,2020-12-28,UCSB,0,UC-Irvine,0
+7,2020-12-28,Carver College,0,Troy,0
+8,2020-12-28,Fresno State,0,Colorado State,0
+9,2020-12-28,Hartford,0,New Hampshire,0
+10,2020-12-28,UMass-Lowell,0,Stony Brook,0
+11,2020-12-28,Mississippi Valley State,0,Western Kentucky,0
+12,2020-12-28,NJIT,0,Vermont,0
+0,2020-12-29,Dixie State,0,Gonzaga,0
+1,2020-12-29,Central Arkansas,0,Baylor,0
+2,2020-12-29,Northwestern,0,Iowa,0
+3,2020-12-29,Houston,0,Tulsa,0
+4,2020-12-29,Buffalo,0,West Virginia,0
+5,2020-12-29,Texas A&M-Corpus Christi,0,Texas,0
+6,2020-12-29,Incarnate Word,0,Texas Tech,0
+7,2020-12-29,Florida State,0,Clemson,0
+8,2020-12-29,Purdue,0,Rutgers,0
+9,2020-12-29,Pitt,0,Duke,0
+10,2020-12-29,Alcorn State,0,Santa Clara,0
+11,2020-12-29,Ball State,0,Northern Illinois,0
+12,2020-12-29,Champion Christian,0,McNeese State,0
+13,2020-12-29,Coppin State,0,Rider,0
+14,2020-12-29,Denver,0,Grand Canyon,0
+15,2020-12-29,Freed-Hardeman,0,Lipscomb,0
+16,2020-12-29,LeTourneau,0,Sam Houston State,0
+17,2020-12-29,Miami (FL),0,Virginia Tech,0
+18,2020-12-29,Ole Miss,0,Alabama,0
+19,2020-12-29,Omaha,0,Kansas State,0
+20,2020-12-29,Norfolk State,0,North Carolina A&T,0
+21,2020-12-29,Ohio,0,Miami (OH),0
+22,2020-12-29,San Diego Christian,0,Utah Valley,0
+23,2020-12-29,South Carolina,0,Kentucky,0
+24,2020-12-29,South Dakota,0,Kansas State,0
+25,2020-12-29,South Florida,0,Memphis,0
+26,2020-12-29,Southeastern Louisiana,0,Lamar,0
+27,2020-12-29,St. Thomas (TX),0,Kennesaw State,0
+28,2020-12-29,Texas A&M,0,LSU,0
+29,2020-12-29,William Jessup,0,Pacific,0
+30,2020-12-29,Wyoming,0,Fresno State,0
+0,2020-12-30,St. John's (NY),0,Villanova,0
+1,2020-12-30,Creighton,0,Georgetown,0
+2,2020-12-30,Tennessee,0,Missouri,0
+3,2020-12-30,Virginia,0,Notre Dame,0
+4,2020-12-30,Nebraska,0,Ohio State,0
+5,2020-12-30,UNC,0,Georgia Tech,0
+6,2020-12-30,Arkansas,0,Auburn,0
+7,2020-12-30,Austin Peay,0,Tennessee State,0
+8,2020-12-30,Boston College,0,NC State,0
+9,2020-12-30,Butler,0,Providence,0
+10,2020-12-30,Campbell,0,Winthrop,0
+11,2020-12-30,Champion Christian,0,McNeese State,0
+12,2020-12-30,Dallas Christian,0,Houston Baptist,0
+13,2020-12-30,DePaul,0,UConn,0
+14,2020-12-30,Duquesne,0,Saint Louis,0
+15,2020-12-30,East Carolina,0,Wichita State,0
+16,2020-12-30,Eastern Illinois,0,Eastern Kentucky,0
+17,2020-12-30,Florida,0,Vanderbilt,0
+18,2020-12-30,Fresno State,0,Colorado State,0
+19,2020-12-30,Furman,0,Chattanooga,0
+20,2020-12-30,Gardner-Webb,0,Hampton,0
+21,2020-12-30,George Mason,0,UMass,0
+22,2020-12-30,George Washington,0,Fordham,0
+23,2020-12-30,La Salle,0,Dayton,0
+24,2020-12-30,Mississippi State,0,Georgia,0
+25,2020-12-30,Murray State,0,Belmont,0
+26,2020-12-30,UNC Asheville,0,Longwood,0
+27,2020-12-30,UNC Greensboro,0,Citadel,0
+28,2020-12-30,Penn State,0,Indiana,0
+29,2020-12-30,Radford,0,Presbyterian,0
+30,2020-12-30,Richmond,0,Davidson,0
+31,2020-12-30,Sacramento State,0,Saint Mary's,0
+32,2020-12-30,Seattle,0,Portland,0
+33,2020-12-30,USC Upstate,0,High Point,0
+34,2020-12-30,Southeast Missouri State,0,Tennessee Tech,0
+35,2020-12-30,SMU,0,Temple,0
+36,2020-12-30,St. Bonaventure,0,Rhode Island,0
+37,2020-12-30,Syracuse,0,Wake Forest,0
+38,2020-12-30,UT-Martin,0,Jacksonville State,0
+39,2020-12-30,Texas Southern,0,TCU,0
+40,2020-12-30,Tulane,0,UCF,0
+41,2020-12-30,VCU,0,St. Joseph's,0
+42,2020-12-30,VMI,0,Samford,0
+43,2020-12-30,Western Carolina,0,ETSU,0
+44,2020-12-30,Wofford,0,Mercer,0
+0,2020-12-31,Minnesota,0,Wisconsin,0
+1,2020-12-31,San Diego State,0,UNLV,0
+2,2020-12-31,Michigan,0,Maryland,0
+3,2020-12-31,Arizona,0,Washington,0
+4,2020-12-31,Arizona State,0,Washington State,0
+5,2020-12-31,Boise State,0,San Jose State,0
+6,2020-12-31,Bradley,0,Southern Illinois,0
+7,2020-12-31,BYU,0,Pepperdine,0
+8,2020-12-31,California,0,Oregon,0
+9,2020-12-31,Campbell,0,Winthrop,0
+10,2020-12-31,Colorado,0,USC,0
+11,2020-12-31,Gardner-Webb,0,Hampton,0
+12,2020-12-31,Louisiana College,0,Northwestern State,0
+13,2020-12-31,McMurry,0,Incarnate Word,0
+14,2020-12-31,Nevada,0,New Mexico,0
+15,2020-12-31,UNC Asheville,0,Longwood,0
+16,2020-12-31,Northern Arizona,0,Idaho,0
+17,2020-12-31,Northern Colorado,0,Montana,0
+18,2020-12-31,Portland State,0,Eastern Washington,0
+19,2020-12-31,Radford,0,Presbyterian,0
+20,2020-12-31,San Diego,0,San Francisco,0
+21,2020-12-31,USC Upstate,0,High Point,0
+22,2020-12-31,Southern Utah,0,Montana State,0
+23,2020-12-31,Stanford,0,Oregon State,0
+24,2020-12-31,Utah,0,UCLA,0
+25,2020-12-31,Utah State,0,Air Force,0
+26,2020-12-31,Weber State,0,Idaho State,0
+0,2021-01-01,Alabama-Birmingham,0,North Texas,0
+1,2021-01-01,Arkansas State,0,Louisiana-Monroe,0
+2,2021-01-01,Cal State Bakersfield,0,Long Beach State,0
+3,2021-01-01,Cal State Fullerton,0,UCSB,0
+4,2021-01-01,UC-Irvine,0,Cal State Northridge,0
+5,2021-01-01,UC-San Diego,0,Cal Poly,0
+6,2021-01-01,Cleveland State,0,IUPUI,0
+7,2021-01-01,Detroit,0,UIC,0
+8,2021-01-01,Georgia State,0,Coastal Carolina,0
+9,2021-01-01,Green Bay,0,Youngstown State,0
+10,2021-01-01,Purdue-Fort Wayne,0,Northern Kentucky,0
+11,2021-01-01,Jacksonville,0,Kennesaw State,0
+12,2021-01-01,Liberty,0,Lipscomb,0
+13,2021-01-01,Marshall,0,Louisiana Tech,0
+14,2021-01-01,McMurry,0,Incarnate Word,0
+15,2021-01-01,Middle Tennessee,0,Florida Atlantic,0
+16,2021-01-01,Milwaukee,0,Robert Morris,0
+17,2021-01-01,Monmouth,0,Siena,0
+18,2021-01-01,Niagara,0,Iona,0
+19,2021-01-01,North Alabama,0,Florida Gulf Coast,0
+20,2021-01-01,North Florida,0,Stetson,0
+21,2021-01-01,Old Dominion,0,Florida International,0
+22,2021-01-01,Quinnipiac,0,Marist,0
+23,2021-01-01,Rider,0,Fairfield,0
+24,2021-01-01,St. Peter's,0,Canisius,0
+25,2021-01-01,South Alabama,0,Georgia Southern,0
+26,2021-01-01,Texas-Arlington,0,Little Rock,0
+27,2021-01-01,UTEP,0,Southern Miss,0
+28,2021-01-01,UTSA,0,Rice,0
+29,2021-01-01,Texas State,0,Louisiana,0
+30,2021-01-01,Troy,0,Appalachian State,0
+31,2021-01-01,Western Kentucky,0,Charlotte,0
+32,2021-01-01,Wright State,0,Oakland,0
+0,2021-01-02,San Francisco,0,Gonzaga,0
+1,2021-01-02,Baylor,0,Iowa State,0
+2,2021-01-02,Iowa,0,Rutgers,0
+3,2021-01-02,Michigan State,0,Nebraska,0
+4,2021-01-02,Texas,0,Kansas,0
+5,2021-01-02,Villanova,0,Xavier,0
+6,2021-01-02,West Virginia,0,Oklahoma,0
+7,2021-01-02,Creighton,0,Providence,0
+8,2021-01-02,Alabama,0,Tennessee,0
+9,2021-01-02,Purdue,0,Illinois,0
+10,2021-01-02,Oklahoma State,0,Texas Tech,0
+11,2021-01-02,Duke,0,Florida State,0
+12,2021-01-02,Missouri,0,Arkansas,0
+13,2021-01-02,Virginia Tech,0,Virginia,0
+14,2021-01-02,San Diego State,0,UNLV,0
+15,2021-01-02,Syracuse,0,UNC,0
+16,2021-01-02,Louisville,0,Boston College,0
+17,2021-01-02,Clemson,0,Miami (FL),0
+18,2021-01-02,Alabama-Birmingham,0,North Texas,0
+19,2021-01-02,Albany (NY),0,Vermont,0
+20,2021-01-02,American,0,Loyola (MD),0
+21,2021-01-02,Arizona,0,Washington State,0
+22,2021-01-02,Arizona State,0,Washington,0
+23,2021-01-02,Arkansas State,0,Louisiana-Monroe,0
+24,2021-01-02,Army,0,Colgate,0
+25,2021-01-02,Auburn,0,Texas A&M,0
+26,2021-01-02,Belmont,0,UT-Martin,0
+27,2021-01-02,Bethesda University (CA),0,Dixie State,0
+28,2021-01-02,Binghamton,0,Hartford,0
+29,2021-01-02,Boise State,0,San Jose State,0
+30,2021-01-02,Boston University,0,Holy Cross,0
+31,2021-01-02,Bowling Green State,0,Northern Illinois,0
+32,2021-01-02,BYU,0,San Diego,0
+33,2021-01-02,Bucknell,0,Navy,0
+34,2021-01-02,Buffalo,0,Akron,0
+35,2021-01-02,Butler,0,Seton Hall,0
+36,2021-01-02,Cal State Bakersfield,0,Long Beach State,0
+37,2021-01-02,Cal State Fullerton,0,UCSB,0
+38,2021-01-02,California,0,Oregon State,0
+39,2021-01-02,UC-Irvine,0,Cal State Northridge,0
+40,2021-01-02,UC-San Diego,0,Cal Poly,0
+41,2021-01-02,Central Arkansas,0,McNeese State,0
+42,2021-01-02,UCF,0,South Florida,0
+43,2021-01-02,Chattanooga,0,VMI,0
+44,2021-01-02,Citadel,0,Western Carolina,0
+45,2021-01-02,Cleveland State,0,IUPUI,0
+46,2021-01-02,College of Charleston,0,Delaware,0
+47,2021-01-02,Colorado,0,UCLA,0
+48,2021-01-02,Davidson,0,VCU,0
+49,2021-01-02,Delaware State,0,Coppin State,0
+50,2021-01-02,Denver,0,South Dakota,0
+51,2021-01-02,DePaul,0,St. John's (NY),0
+52,2021-01-02,Detroit,0,UIC,0
+53,2021-01-02,Duquesne,0,George Washington,0
+54,2021-01-02,East Carolina,0,Tulane,0
+55,2021-01-02,ETSU,0,UNC Greensboro,0
+56,2021-01-02,Eastern Kentucky,0,Austin Peay,0
+57,2021-01-02,Elon,0,Northeastern,0
+58,2021-01-02,Florida A&M,0,South Carolina,0
+59,2021-01-02,Fordham,0,La Salle,0
+60,2021-01-02,George Mason,0,Dayton,0
+61,2021-01-02,Georgia State,0,Coastal Carolina,0
+62,2021-01-02,Grambling,0,Alabama State,0
+63,2021-01-02,Green Bay,0,Youngstown State,0
+64,2021-01-02,Howard,0,Norfolk State,0
+65,2021-01-02,Idaho State,0,Weber State,0
+66,2021-01-02,Indiana State,0,Missouri State,0
+67,2021-01-02,Purdue-Fort Wayne,0,Northern Kentucky,0
+68,2021-01-02,Jackson State,0,Alabama A&M,0
+69,2021-01-02,Jacksonville,0,Kennesaw State,0
+70,2021-01-02,Jacksonville State,0,SIU-Edwardsville,0
+71,2021-01-02,James Madison,0,Towson,0
+72,2021-01-02,Kent State,0,Eastern Michigan,0
+73,2021-01-02,Kentucky,0,Mississippi State,0
+74,2021-01-02,Lafayette,0,Lehigh,0
+75,2021-01-02,Lamar,0,Abilene Christian,0
+76,2021-01-02,Liberty,0,Lipscomb,0
+77,2021-01-02,LSU,0,Florida,0
+78,2021-01-02,Loyola Marymount,0,Santa Clara,0
+79,2021-01-02,Marquette,0,Georgetown,0
+80,2021-01-02,Marshall,0,Louisiana Tech,0
+81,2021-01-02,UMBC,0,Stony Brook,0
+82,2021-01-02,UMass,0,Saint Louis,0
+83,2021-01-02,Memphis,0,Temple,0
+84,2021-01-02,Mercer,0,Furman,0
+85,2021-01-02,Miami (OH),0,Central Michigan,0
+86,2021-01-02,Middle Tennessee,0,Florida Atlantic,0
+87,2021-01-02,Milwaukee,0,Robert Morris,0
+88,2021-01-02,Mississippi Valley State,0,Arkansas-Pine Bluff,0
+89,2021-01-02,UMKC,0,North Dakota,0
+90,2021-01-02,Monmouth,0,Siena,0
+91,2021-01-02,Morehead State,0,Murray State,0
+92,2021-01-02,Mt. St. Joseph,0,Bellarmine,0
+93,2021-01-02,Nevada,0,New Mexico,0
+94,2021-01-02,New Hampshire,0,Maine,0
+95,2021-01-02,New Orleans,0,Stephen F. Austin,0
+96,2021-01-02,Niagara,0,Iona,0
+97,2021-01-02,NJIT,0,UMass-Lowell,0
+98,2021-01-02,North Alabama,0,Florida Gulf Coast,0
+99,2021-01-02,North Carolina A&T,0,South Carolina State,0
+100,2021-01-02,UNC Wilmington,0,Drexel,0
+101,2021-01-02,North Dakota State,0,Western Illinois,0
+102,2021-01-02,North Florida,0,Stetson,0
+103,2021-01-02,Northern Arizona,0,Idaho,0
+104,2021-01-02,Northern Colorado,0,Montana,0
+105,2021-01-02,Northern Iowa,0,Evansville,0
+106,2021-01-02,Northwestern State,0,Houston Baptist,0
+107,2021-01-02,Notre Dame,0,Pitt,0
+108,2021-01-02,Ohio,0,Ball State,0
+109,2021-01-02,Old Dominion,0,Florida International,0
+110,2021-01-02,Oral Roberts,0,Omaha,0
+111,2021-01-02,Pepperdine,0,Saint Mary's,0
+112,2021-01-02,Portland,0,Pacific,0
+113,2021-01-02,Portland State,0,Eastern Washington,0
+114,2021-01-02,Prairie View,0,Southern,0
+115,2021-01-02,Quinnipiac,0,Marist,0
+116,2021-01-02,Rider,0,Fairfield,0
+117,2021-01-02,St. Peter's,0,Canisius,0
+118,2021-01-02,Sam Houston State,0,Nicholls State,0
+119,2021-01-02,Samford,0,Wofford,0
+120,2021-01-02,South Alabama,0,Georgia Southern,0
+121,2021-01-02,Southern Utah,0,Montana State,0
+122,2021-01-02,St. Bonaventure,0,Richmond,0
+123,2021-01-02,Stanford,0,Oregon,0
+124,2021-01-02,Tennessee State,0,Southeast Missouri State,0
+125,2021-01-02,Tennessee Tech,0,Eastern Illinois,0
+126,2021-01-02,Texas A&M-Corpus Christi,0,Southeastern Louisiana,0
+127,2021-01-02,Texas-Arlington,0,Little Rock,0
+128,2021-01-02,TCU,0,Kansas State,0
+129,2021-01-02,UTEP,0,Southern Miss,0
+130,2021-01-02,UTSA,0,Rice,0
+131,2021-01-02,Texas Southern,0,Alcorn State,0
+132,2021-01-02,Texas State,0,Louisiana,0
+133,2021-01-02,Toledo,0,Western Michigan,0
+134,2021-01-02,Troy,0,Appalachian State,0
+135,2021-01-02,Tulsa,0,Cincinnati,0
+136,2021-01-02,Utah,0,USC,0
+137,2021-01-02,Utah State,0,Air Force,0
+138,2021-01-02,Valparaiso,0,Illinois State,0
+139,2021-01-02,Western Kentucky,0,Charlotte,0
+140,2021-01-02,Wichita State,0,Ole Miss,0
+141,2021-01-02,William & Mary,0,Hofstra,0
+142,2021-01-02,Wright State,0,Oakland,0
+143,2021-01-02,Wyoming,0,Fresno State,0
+0,2021-01-03,Houston,0,SMU,0
+1,2021-01-03,Wisconsin,0,Penn State,0
+2,2021-01-03,Ohio State,0,Minnesota,0
+3,2021-01-03,Northwestern,0,Michigan,0
+4,2021-01-03,Albany (NY),0,Vermont,0
+5,2021-01-03,Binghamton,0,Hartford,0
+6,2021-01-03,Colgate,0,Army,0
+7,2021-01-03,College of Charleston,0,Delaware,0
+8,2021-01-03,Denver,0,South Dakota,0
+9,2021-01-03,Elon,0,Northeastern,0
+10,2021-01-03,Holy Cross,0,Boston University,0
+11,2021-01-03,Lehigh,0,Lafayette,0
+12,2021-01-03,Loyola (MD),0,American,0
+13,2021-01-03,UMBC,0,Stony Brook,0
+14,2021-01-03,UMKC,0,North Dakota,0
+15,2021-01-03,Navy,0,Bucknell,0
+16,2021-01-03,New Hampshire,0,Maine,0
+17,2021-01-03,NJIT,0,UMass-Lowell,0
+18,2021-01-03,UNC Wilmington,0,Drexel,0
+19,2021-01-03,North Dakota State,0,Western Illinois,0
+20,2021-01-03,Northern Iowa,0,Bradley,0
+21,2021-01-03,Oral Roberts,0,Omaha,0
+22,2021-01-03,St. Joseph's,0,Rhode Island,0
+23,2021-01-03,Southern Illinois,0,Illinois State,0
+24,2021-01-03,Wake Forest,0,Georgia Tech,0
+25,2021-01-03,William & Mary,0,Hofstra,0
+0,2021-01-04,West Virginia,0,Oklahoma State,0
+1,2021-01-04,Charleston Southern,0,Gardner-Webb,0
+2,2021-01-04,Grambling,0,Alabama A&M,0
+3,2021-01-04,Hampton,0,Radford,0
+4,2021-01-04,High Point,0,Campbell,0
+5,2021-01-04,Jackson State,0,Alabama State,0
+6,2021-01-04,Longwood,0,USC Upstate,0
+7,2021-01-04,Maryland,0,Indiana,0
+8,2021-01-04,Norfolk State,0,Howard,0
+9,2021-01-04,North Carolina A&T,0,North Carolina Central,0
+10,2021-01-04,Prairie View,0,Alcorn State,0
+11,2021-01-04,Presbyterian,0,UNC Asheville,0
+12,2021-01-04,Texas Southern,0,Southern,0
+13,2021-01-04,Towson,0,James Madison,0
+14,2021-01-04,Wyoming,0,Fresno State,0
+0,2021-01-05,Rutgers,0,Michigan State,0
+1,2021-01-05,Kansas,0,TCU,0
+2,2021-01-05,Villanova,0,DePaul,0
+3,2021-01-05,Iowa State,0,Texas,0
+4,2021-01-05,Kansas State,0,Texas Tech,0
+5,2021-01-05,Missouri,0,Mississippi State,0
+6,2021-01-05,UNC,0,Miami (FL),0
+7,2021-01-05,NC State,0,Clemson,0
+8,2021-01-05,Bowling Green State,0,Miami (OH),0
+9,2021-01-05,Central Michigan,0,Akron,0
+10,2021-01-05,Charleston Southern,0,Gardner-Webb,0
+11,2021-01-05,UConn,0,Marquette,0
+12,2021-01-05,Dallas Christian,0,Texas-Rio Grande Valley,0
+13,2021-01-05,Davidson,0,Duquesne,0
+14,2021-01-05,Dayton,0,Fordham,0
+15,2021-01-05,Eastern Michigan,0,Buffalo,0
+16,2021-01-05,Florida,0,Alabama,0
+17,2021-01-05,Hampton,0,Radford,0
+18,2021-01-05,High Point,0,Campbell,0
+19,2021-01-05,Longwood,0,USC Upstate,0
+20,2021-01-05,Memphis,0,UCF,0
+21,2021-01-05,Nebraska,0,Purdue,0
+22,2021-01-05,Northern Illinois,0,Ohio,0
+23,2021-01-05,Presbyterian,0,UNC Asheville,0
+24,2021-01-05,SIU-Edwardsville,0,Eastern Illinois,0
+25,2021-01-05,Toledo,0,Kent State,0
+26,2021-01-05,Vanderbilt,0,Kentucky,0
+27,2021-01-05,Western Michigan,0,Ball State,0
+0,2021-01-06,Oklahoma,0,Baylor,0
+1,2021-01-06,Wichita State,0,Houston,0
+2,2021-01-06,Seton Hall,0,Creighton,0
+3,2021-01-06,Arkansas,0,Tennessee,0
+4,2021-01-06,Florida State,0,Syracuse,0
+5,2021-01-06,Wake Forest,0,Virginia,0
+6,2021-01-06,Penn State,0,Ohio State,0
+7,2021-01-06,Boston College,0,Duke,0
+8,2021-01-06,Virginia Tech,0,Louisville,0
+9,2021-01-06,Minnesota,0,Michigan,0
+10,2021-01-06,Abilene Christian,0,Houston Baptist,0
+11,2021-01-06,Air Force,0,Boise State,0
+12,2021-01-06,Auburn,0,Ole Miss,0
+13,2021-01-06,Cincinnati,0,SMU,0
+14,2021-01-06,Citadel,0,Mercer,0
+15,2021-01-06,Furman,0,Western Carolina,0
+16,2021-01-06,Georgetown,0,Butler,0
+17,2021-01-06,Georgia,0,LSU,0
+18,2021-01-06,Georgia Tech,0,Notre Dame,0
+19,2021-01-06,Incarnate Word,0,Northwestern State,0
+20,2021-01-06,Lamar,0,Nicholls State,0
+21,2021-01-06,UMass,0,George Washington,0
+22,2021-01-06,New Orleans,0,Central Arkansas,0
+23,2021-01-06,UNC Greensboro,0,Wofford,0
+24,2021-01-06,Oregon State,0,Utah,0
+25,2021-01-06,Rhode Island,0,Richmond,0
+26,2021-01-06,St. Joseph's,0,St. Bonaventure,0
+27,2021-01-06,Saint Louis,0,La Salle,0
+28,2021-01-06,Sam Houston State,0,Southeastern Louisiana,0
+29,2021-01-06,Samford,0,Chattanooga,0
+30,2021-01-06,St. John's (NY),0,Xavier,0
+31,2021-01-06,Stephen F. Austin,0,Texas A&M-Corpus Christi,0
+32,2021-01-06,Temple,0,Tulane,0
+33,2021-01-06,Texas A&M,0,South Carolina,0
+34,2021-01-06,Tulsa,0,South Florida,0
+35,2021-01-06,VCU,0,George Mason,0
+36,2021-01-06,VMI,0,ETSU,0
+0,2021-01-07,Santa Clara,0,Gonzaga,0
+1,2021-01-07,Iowa,0,Maryland,0
+2,2021-01-07,Indiana,0,Wisconsin,0
+3,2021-01-07,Illinois,0,Northwestern,0
+4,2021-01-07,Nevada,0,San Diego State,0
+5,2021-01-07,Austin Peay,0,SIU-Edwardsville,0
+6,2021-01-07,Central Connecticut,0,Bryant,0
+7,2021-01-07,Eastern Washington,0,Weber State,0
+8,2021-01-07,Idaho,0,Southern Utah,0
+9,2021-01-07,Idaho State,0,Northern Arizona,0
+10,2021-01-07,Jacksonville State,0,Eastern Kentucky,0
+11,2021-01-07,Loyola (IL),0,Missouri State,0
+12,2021-01-07,Loyola Marymount,0,Portland,0
+13,2021-01-07,Montana State,0,Northern Colorado,0
+14,2021-01-07,Mount St. Mary's,0,St. Francis (NY),0
+15,2021-01-07,Murray State,0,Eastern Illinois,0
+16,2021-01-07,UNLV,0,Colorado State,0
+17,2021-01-07,Northeastern,0,Hofstra,0
+18,2021-01-07,Oregon,0,Colorado,0
+19,2021-01-07,Pacific,0,BYU,0
+20,2021-01-07,Pepperdine,0,San Francisco,0
+21,2021-01-07,Portland State,0,Sacramento State,0
+22,2021-01-07,Sacred Heart,0,Merrimack,0
+23,2021-01-07,Saint Francis (PA),0,LIU,0
+24,2021-01-07,Saint Mary's,0,San Diego,0
+25,2021-01-07,Southeast Missouri State,0,Belmont,0
+26,2021-01-07,USC,0,Arizona,0
+27,2021-01-07,UT-Martin,0,Tennessee State,0
+28,2021-01-07,Tennessee Tech,0,Morehead State,0
+29,2021-01-07,UCLA,0,Arizona State,0
+30,2021-01-07,Utah State,0,New Mexico,0
+31,2021-01-07,Wagner,0,Fairleigh Dickinson,0
+32,2021-01-07,Washington,0,Stanford,0
+33,2021-01-07,Washington State,0,California,0
+0,2021-01-08,Purdue,0,Michigan State,0
+1,2021-01-08,Marquette,0,Villanova,0
+2,2021-01-08,Air Force,0,Boise State,0
+3,2021-01-08,Little Rock,0,Louisiana,0
+4,2021-01-08,Arkansas State,0,Texas State,0
+5,2021-01-08,Cal Poly,0,Cal State Bakersfield,0
+6,2021-01-08,Cal State Northridge,0,UC-San Diego,0
+7,2021-01-08,California Baptist,0,Utah Valley,0
+8,2021-01-08,UC-Davis,0,UC-Irvine,0
+9,2021-01-08,Canisius,0,Monmouth,0
+10,2021-01-08,Central Connecticut,0,Bryant,0
+11,2021-01-08,Charlotte,0,Marshall,0
+12,2021-01-08,Dayton,0,Davidson,0
+13,2021-01-08,Detroit,0,Milwaukee,0
+14,2021-01-08,Fairfield,0,St. Peter's,0
+15,2021-01-08,Florida Atlantic,0,Old Dominion,0
+16,2021-01-08,Florida Gulf Coast,0,Liberty,0
+17,2021-01-08,Florida International,0,Middle Tennessee,0
+18,2021-01-08,Georgia Southern,0,Appalachian State,0
+19,2021-01-08,Georgia State,0,Troy,0
+20,2021-01-08,Grand Canyon,0,Tarleton State,0
+21,2021-01-08,Hawaii,0,UC-Riverside,0
+22,2021-01-08,UIC,0,Purdue-Fort Wayne,0
+23,2021-01-08,Iona,0,Quinnipiac,0
+24,2021-01-08,Kennesaw State,0,North Florida,0
+25,2021-01-08,Lipscomb,0,Bellarmine,0
+26,2021-01-08,Long Beach State,0,Cal State Fullerton,0
+27,2021-01-08,Louisiana Tech,0,Western Kentucky,0
+28,2021-01-08,Marist,0,Manhattan,0
+29,2021-01-08,Mount St. Mary's,0,St. Francis (NY),0
+30,2021-01-08,Omaha,0,North Dakota State,0
+31,2021-01-08,New Mexico State,0,Dixie State,0
+32,2021-01-08,North Dakota,0,Oral Roberts,0
+33,2021-01-08,North Texas,0,UTSA,0
+34,2021-01-08,Northern Kentucky,0,Cleveland State,0
+35,2021-01-08,Oakland,0,Green Bay,0
+36,2021-01-08,Ohio,0,Toledo,0
+37,2021-01-08,Rider,0,Niagara,0
+38,2021-01-08,Robert Morris,0,IUPUI,0
+39,2021-01-08,Sacred Heart,0,Merrimack,0
+40,2021-01-08,Saint Francis (PA),0,LIU,0
+41,2021-01-08,San Jose State,0,Fresno State,0
+42,2021-01-08,South Alabama,0,Coastal Carolina,0
+43,2021-01-08,South Dakota,0,UMKC,0
+44,2021-01-08,Southern Miss,0,Alabama-Birmingham,0
+45,2021-01-08,Stetson,0,North Alabama,0
+46,2021-01-08,Texas-Arlington,0,Louisiana-Monroe,0
+47,2021-01-08,UTEP,0,Rice,0
+48,2021-01-08,Texas-Rio Grande Valley,0,Chicago State,0
+49,2021-01-08,Western Illinois,0,South Dakota State,0
+50,2021-01-08,Youngstown State,0,Wright State,0
+0,2021-01-09,Gonzaga,0,Portland,0
+1,2021-01-09,Baylor,0,TCU,0
+2,2021-01-09,Oklahoma,0,Kansas,0
+3,2021-01-09,Tulane,0,Houston,0
+4,2021-01-09,Texas,0,West Virginia,0
+5,2021-01-09,St. John's (NY),0,Creighton,0
+6,2021-01-09,Tennessee,0,Texas A&M,0
+7,2021-01-09,Texas Tech,0,Iowa State,0
+8,2021-01-09,Florida State,0,Pitt,0
+9,2021-01-09,LSU,0,Missouri,0
+10,2021-01-09,Virginia,0,Boston College,0
+11,2021-01-09,Nevada,0,San Diego State,0
+12,2021-01-09,Ohio State,0,Rutgers,0
+13,2021-01-09,Wake Forest,0,Duke,0
+14,2021-01-09,Clemson,0,UNC,0
+15,2021-01-09,Georgia Tech,0,Louisville,0
+16,2021-01-09,Michigan,0,Penn State,0
+17,2021-01-09,Abilene Christian,0,Texas A&M-Corpus Christi,0
+18,2021-01-09,Akron,0,Eastern Michigan,0
+19,2021-01-09,Alabama,0,Auburn,0
+20,2021-01-09,Alabama A&M,0,Mississippi Valley State,0
+21,2021-01-09,Alabama State,0,Arkansas-Pine Bluff,0
+22,2021-01-09,Alcorn State,0,Jackson State,0
+23,2021-01-09,American,0,Lehigh,0
+24,2021-01-09,Little Rock,0,Louisiana,0
+25,2021-01-09,Arkansas State,0,Texas State,0
+26,2021-01-09,Army,0,Holy Cross,0
+27,2021-01-09,Austin Peay,0,Eastern Illinois,0
+28,2021-01-09,Ball State,0,Buffalo,0
+29,2021-01-09,Cal Poly,0,Cal State Bakersfield,0
+30,2021-01-09,Cal State Northridge,0,UC-San Diego,0
+31,2021-01-09,California Baptist,0,Utah Valley,0
+32,2021-01-09,UC-Davis,0,UC-Irvine,0
+33,2021-01-09,Campbell,0,Longwood,0
+34,2021-01-09,Canisius,0,Monmouth,0
+35,2021-01-09,UCF,0,Tulsa,0
+36,2021-01-09,Central Michigan,0,Bowling Green State,0
+37,2021-01-09,Charlotte,0,Marshall,0
+38,2021-01-09,Chattanooga,0,Citadel,0
+39,2021-01-09,Cincinnati,0,Wichita State,0
+40,2021-01-09,Colgate,0,Boston University,0
+41,2021-01-09,UConn,0,Butler,0
+42,2021-01-09,Delaware,0,William & Mary,0
+43,2021-01-09,Delaware State,0,Howard,0
+44,2021-01-09,Detroit,0,Milwaukee,0
+45,2021-01-09,Drexel,0,College of Charleston,0
+46,2021-01-09,ETSU,0,Wofford,0
+47,2021-01-09,Eastern Washington,0,Weber State,0
+48,2021-01-09,Evansville,0,Northern Iowa,0
+49,2021-01-09,Fairfield,0,St. Peter's,0
+50,2021-01-09,Florida A&M,0,North Carolina Central,0
+51,2021-01-09,Florida Atlantic,0,Old Dominion,0
+52,2021-01-09,Florida Gulf Coast,0,Liberty,0
+53,2021-01-09,Florida International,0,Middle Tennessee,0
+54,2021-01-09,Fordham,0,Duquesne,0
+55,2021-01-09,George Washington,0,St. Bonaventure,0
+56,2021-01-09,Georgetown,0,Syracuse,0
+57,2021-01-09,Georgia,0,Arkansas,0
+58,2021-01-09,Georgia Southern,0,Appalachian State,0
+59,2021-01-09,Georgia State,0,Troy,0
+60,2021-01-09,Grand Canyon,0,Tarleton State,0
+61,2021-01-09,Hartford,0,UMass-Lowell,0
+62,2021-01-09,Hawaii,0,UC-Riverside,0
+63,2021-01-09,Hofstra,0,Northeastern,0
+64,2021-01-09,Houston Baptist,0,Lamar,0
+65,2021-01-09,Howard,0,Coppin State,0
+66,2021-01-09,Idaho,0,Southern Utah,0
+67,2021-01-09,Idaho State,0,Northern Arizona,0
+68,2021-01-09,UIC,0,Purdue-Fort Wayne,0
+69,2021-01-09,Illinois State,0,Evansville,0
+70,2021-01-09,Illinois State,0,Indiana State,0
+71,2021-01-09,Incarnate Word,0,New Orleans,0
+72,2021-01-09,Iona,0,Quinnipiac,0
+73,2021-01-09,Jacksonville State,0,Morehead State,0
+74,2021-01-09,James Madison,0,UNC Wilmington,0
+75,2021-01-09,Kennesaw State,0,North Florida,0
+76,2021-01-09,Kentucky,0,Florida,0
+77,2021-01-09,La Salle,0,UMass,0
+78,2021-01-09,Lafayette,0,Bucknell,0
+79,2021-01-09,Lipscomb,0,Bellarmine,0
+80,2021-01-09,Long Beach State,0,Cal State Fullerton,0
+81,2021-01-09,Louisiana Tech,0,Western Kentucky,0
+82,2021-01-09,Maine,0,NJIT,0
+83,2021-01-09,Marist,0,Manhattan,0
+84,2021-01-09,UMBC,0,New Hampshire,0
+85,2021-01-09,Mercer,0,UNC Greensboro,0
+86,2021-01-09,Miami (FL),0,NC State,0
+87,2021-01-09,Mississippi State,0,Vanderbilt,0
+88,2021-01-09,Montana State,0,Northern Colorado,0
+89,2021-01-09,Morgan State,0,Norfolk State,0
+90,2021-01-09,Murray State,0,SIU-Edwardsville,0
+91,2021-01-09,Navy,0,Loyola (MD),0
+92,2021-01-09,Omaha,0,North Dakota State,0
+93,2021-01-09,UNLV,0,Colorado State,0
+94,2021-01-09,New Mexico State,0,Dixie State,0
+95,2021-01-09,UNC Asheville,0,Hampton,0
+96,2021-01-09,North Dakota,0,Oral Roberts,0
+97,2021-01-09,North Texas,0,UTSA,0
+98,2021-01-09,Northern Illinois,0,Miami (OH),0
+99,2021-01-09,Northern Kentucky,0,Cleveland State,0
+100,2021-01-09,Northwestern State,0,McNeese State,0
+101,2021-01-09,Oakland,0,Green Bay,0
+102,2021-01-09,Ohio,0,Toledo,0
+103,2021-01-09,Oklahoma State,0,Kansas State,0
+104,2021-01-09,Oregon State,0,Colorado,0
+105,2021-01-09,Radford,0,Charleston Southern,0
+106,2021-01-09,Rhode Island,0,VCU,0
+107,2021-01-09,Richmond,0,George Mason,0
+108,2021-01-09,Rider,0,Niagara,0
+109,2021-01-09,Robert Morris,0,IUPUI,0
+110,2021-01-09,Sacramento State,0,Portland State,0
+111,2021-01-09,Saint Louis,0,St. Joseph's,0
+112,2021-01-09,Saint Mary's,0,Santa Clara,0
+113,2021-01-09,Sam Houston State,0,Central Arkansas,0
+114,2021-01-09,San Diego,0,Pacific,0
+115,2021-01-09,San Francisco,0,Loyola Marymount,0
+116,2021-01-09,Seton Hall,0,DePaul,0
+117,2021-01-09,South Alabama,0,Coastal Carolina,0
+118,2021-01-09,South Carolina,0,Ole Miss,0
+119,2021-01-09,USC Upstate,0,Presbyterian,0
+120,2021-01-09,South Dakota,0,UMKC,0
+121,2021-01-09,South Florida,0,East Carolina,0
+122,2021-01-09,Southeast Missouri State,0,Tennessee State,0
+123,2021-01-09,Southeastern Louisiana,0,Nicholls State,0
+124,2021-01-09,Southern,0,Grambling,0
+125,2021-01-09,USC,0,Arizona State,0
+126,2021-01-09,Southern Miss,0,Alabama-Birmingham,0
+127,2021-01-09,Stetson,0,North Alabama,0
+128,2021-01-09,Stony Brook,0,Albany (NY),0
+129,2021-01-09,Temple,0,SMU,0
+130,2021-01-09,UT-Martin,0,Belmont,0
+131,2021-01-09,Tennessee Tech,0,Eastern Kentucky,0
+132,2021-01-09,Texas-Arlington,0,Louisiana-Monroe,0
+133,2021-01-09,Texas-Rio Grande Valley,0,Chicago State,0
+134,2021-01-09,Texas Southern,0,Prairie View,0
+135,2021-01-09,Towson,0,Elon,0
+136,2021-01-09,UCLA,0,Arizona,0
+137,2021-01-09,Utah State,0,New Mexico,0
+138,2021-01-09,Valparaiso,0,Southern Illinois,0
+139,2021-01-09,Vermont,0,Binghamton,0
+140,2021-01-09,VMI,0,Furman,0
+141,2021-01-09,Washington,0,California,0
+142,2021-01-09,Washington State,0,Stanford,0
+143,2021-01-09,Western Carolina,0,Samford,0
+144,2021-01-09,Western Illinois,0,South Dakota State,0
+145,2021-01-09,Western Michigan,0,Kent State,0
+146,2021-01-09,Winthrop,0,High Point,0
+147,2021-01-09,Youngstown State,0,Wright State,0
+0,2021-01-10,Minnesota,0,Iowa,0
+1,2021-01-10,Maryland,0,Illinois,0
+2,2021-01-10,Bradley,0,Loyola (IL),0
+3,2021-01-10,Bucknell,0,Lafayette,0
+4,2021-01-10,Campbell,0,Longwood,0
+5,2021-01-10,Colgate,0,Boston University,0
+6,2021-01-10,Delaware,0,William & Mary,0
+7,2021-01-10,Drexel,0,College of Charleston,0
+8,2021-01-10,Hartford,0,UMass-Lowell,0
+9,2021-01-10,Holy Cross,0,Army,0
+10,2021-01-10,Indiana,0,Nebraska,0
+11,2021-01-10,James Madison,0,UNC Wilmington,0
+12,2021-01-10,Lehigh,0,American,0
+13,2021-01-10,Loyola (IL),0,Drake,0
+14,2021-01-10,Loyola (MD),0,Navy,0
+15,2021-01-10,Maine,0,NJIT,0
+16,2021-01-10,UMBC,0,New Hampshire,0
+17,2021-01-10,UNC Asheville,0,Hampton,0
+18,2021-01-10,Notre Dame,0,Virginia Tech,0
+19,2021-01-10,Oregon,0,Utah,0
+20,2021-01-10,Providence,0,Xavier,0
+21,2021-01-10,Radford,0,Charleston Southern,0
+22,2021-01-10,San Jose State,0,Fresno State,0
+23,2021-01-10,USC Upstate,0,Presbyterian,0
+24,2021-01-10,Southern Illinois,0,Indiana State,0
+25,2021-01-10,Stony Brook,0,Albany (NY),0
+26,2021-01-10,Towson,0,Elon,0
+27,2021-01-10,Vermont,0,Binghamton,0
+28,2021-01-10,Winthrop,0,High Point,0
+0,2021-01-11,Alabama A&M,0,Arkansas-Pine Bluff,0
+1,2021-01-11,Alabama State,0,Mississippi Valley State,0
+2,2021-01-11,Alcorn State,0,Grambling,0
+3,2021-01-11,Boise State,0,Wyoming,0
+4,2021-01-11,Delaware State,0,Coppin State,0
+5,2021-01-11,Florida A&M,0,North Carolina A&T,0
+6,2021-01-11,Morgan State,0,Howard,0
+7,2021-01-11,Southern,0,Jackson State,0
+0,2021-01-12,West Virginia,0,Baylor,0
+1,2021-01-12,Kansas,0,Oklahoma State,0
+2,2021-01-12,Tennessee,0,South Carolina,0
+3,2021-01-12,Wisconsin,0,Michigan,0
+4,2021-01-12,Vanderbilt,0,Missouri,0
+5,2021-01-12,Rutgers,0,Penn State,0
+6,2021-01-12,Duke,0,Virginia Tech,0
+7,2021-01-12,Clemson,0,Syracuse,0
+8,2021-01-12,Akron,0,Northern Illinois,0
+9,2021-01-12,Alabama,0,Kentucky,0
+10,2021-01-12,Ball State,0,Bowling Green State,0
+11,2021-01-12,Buffalo,0,Western Michigan,0
+12,2021-01-12,Butler,0,St. John's (NY),0
+13,2021-01-12,Eastern Michigan,0,Toledo,0
+14,2021-01-12,Kent State,0,Central Michigan,0
+15,2021-01-12,Miami (FL),0,Boston College,0
+16,2021-01-12,Miami (OH),0,Ohio,0
+17,2021-01-12,Ole Miss,0,Florida,0
+18,2021-01-12,Pitt,0,Georgia Tech,0
+19,2021-01-12,Providence,0,Marquette,0
+20,2021-01-12,St. Joseph's,0,Davidson,0
+21,2021-01-12,TCU,0,Oklahoma,0
+0,2021-01-13,Texas Tech,0,Texas,0
+1,2021-01-13,Illinois,0,Nebraska,0
+2,2021-01-13,NC State,0,Florida State,0
+3,2021-01-13,Notre Dame,0,Virginia,0
+4,2021-01-13,Northwestern,0,Ohio State,0
+5,2021-01-13,Louisville,0,Wake Forest,0
+6,2021-01-13,Arkansas,0,LSU,0
+7,2021-01-13,Auburn,0,Georgia,0
+8,2021-01-13,Boise State,0,Wyoming,0
+9,2021-01-13,Bradley,0,Drake,0
+10,2021-01-13,California,0,Colorado,0
+11,2021-01-13,Central Arkansas,0,Stephen F. Austin,0
+12,2021-01-13,UCF,0,Temple,0
+13,2021-01-13,DePaul,0,Georgetown,0
+14,2021-01-13,Duquesne,0,Dayton,0
+15,2021-01-13,East Carolina,0,Cincinnati,0
+16,2021-01-13,Evansville,0,Valparaiso,0
+17,2021-01-13,Furman,0,Citadel,0
+18,2021-01-13,Illinois State,0,Loyola (IL),0
+19,2021-01-13,Iowa State,0,Kansas State,0
+20,2021-01-13,La Salle,0,George Mason,0
+21,2021-01-13,Lamar,0,Sam Houston State,0
+22,2021-01-13,McNeese State,0,Incarnate Word,0
+23,2021-01-13,Mercer,0,Chattanooga,0
+24,2021-01-13,Nicholls State,0,Northwestern State,0
+25,2021-01-13,North Carolina A&T,0,South Carolina State,0
+26,2021-01-13,UNC Greensboro,0,Western Carolina,0
+27,2021-01-13,Northern Iowa,0,Indiana State,0
+28,2021-01-13,Samford,0,ETSU,0
+29,2021-01-13,Southern Illinois,0,Missouri State,0
+30,2021-01-13,St. Bonaventure,0,Fordham,0
+31,2021-01-13,Stanford,0,Utah,0
+32,2021-01-13,Texas A&M,0,Mississippi State,0
+33,2021-01-13,Tulsa,0,Wichita State,0
+34,2021-01-13,VCU,0,George Washington,0
+35,2021-01-13,Wofford,0,VMI,0
+0,2021-01-14,Pepperdine,0,Gonzaga,0
+1,2021-01-14,Michigan State,0,Iowa,0
+2,2021-01-14,Houston,0,South Florida,0
+3,2021-01-14,San Diego State,0,Utah State,0
+4,2021-01-14,Arizona,0,Oregon State,0
+5,2021-01-14,Arizona State,0,Oregon,0
+6,2021-01-14,Austin Peay,0,UT-Martin,0
+7,2021-01-14,Belmont,0,Tennessee Tech,0
+8,2021-01-14,BYU,0,Saint Mary's,0
+9,2021-01-14,Bryant,0,Saint Francis (PA),0
+10,2021-01-14,Central Connecticut,0,Sacred Heart,0
+11,2021-01-14,Charleston Southern,0,UNC Asheville,0
+12,2021-01-14,Colorado State,0,San Jose State,0
+13,2021-01-14,Eastern Kentucky,0,SIU-Edwardsville,0
+14,2021-01-14,Fresno State,0,Nevada,0
+15,2021-01-14,Gardner-Webb,0,Radford,0
+16,2021-01-14,Hampton,0,USC Upstate,0
+17,2021-01-14,LIU,0,Wagner,0
+18,2021-01-14,Longwood,0,Winthrop,0
+19,2021-01-14,Marshall,0,Western Kentucky,0
+20,2021-01-14,Merrimack,0,Mount St. Mary's,0
+21,2021-01-14,Morehead State,0,Eastern Illinois,0
+22,2021-01-14,Murray State,0,Southeast Missouri State,0
+23,2021-01-14,New Mexico,0,UNLV,0
+24,2021-01-14,Northern Arizona,0,Montana,0
+25,2021-01-14,Northern Colorado,0,Idaho,0
+26,2021-01-14,Portland State,0,Montana State,0
+27,2021-01-14,Presbyterian,0,Campbell,0
+28,2021-01-14,Purdue,0,Indiana,0
+29,2021-01-14,Sacramento State,0,Idaho State,0
+30,2021-01-14,San Diego,0,Loyola Marymount,0
+31,2021-01-14,San Francisco,0,Portland,0
+32,2021-01-14,Santa Clara,0,Pacific,0
+33,2021-01-14,SMU,0,Memphis,0
+34,2021-01-14,Southern Utah,0,Eastern Washington,0
+35,2021-01-14,St. Francis (NY),0,Fairleigh Dickinson,0
+36,2021-01-14,Tennessee State,0,Jacksonville State,0
+37,2021-01-14,Washington,0,USC,0
+38,2021-01-14,Washington State,0,UCLA,0
+0,2021-01-15,Villanova,0,UConn,0
+1,2021-01-15,Wisconsin,0,Rutgers,0
+2,2021-01-15,Alabama-Birmingham,0,Charlotte,0
+3,2021-01-15,Appalachian State,0,South Alabama,0
+4,2021-01-15,Bellarmine,0,Florida Gulf Coast,0
+5,2021-01-15,Bryant,0,Saint Francis (PA),0
+6,2021-01-15,Cal State Bakersfield,0,Hawaii,0
+7,2021-01-15,Cal State Fullerton,0,UC-Davis,0
+8,2021-01-15,Cal State Northridge,0,Long Beach State,0
+9,2021-01-15,UC-Riverside,0,Cal Poly,0
+10,2021-01-15,UC-San Diego,0,UCSB,0
+11,2021-01-15,Charleston Southern,0,UNC Asheville,0
+12,2021-01-15,Chicago State,0,Grand Canyon,0
+13,2021-01-15,Cleveland State,0,Wright State,0
+14,2021-01-15,Coastal Carolina,0,Georgia State,0
+15,2021-01-15,Davidson,0,Saint Louis,0
+16,2021-01-15,Dixie State,0,Texas-Rio Grande Valley,0
+17,2021-01-15,Fairfield,0,Marist,0
+18,2021-01-15,Florida Atlantic,0,Florida International,0
+19,2021-01-15,Gardner-Webb,0,Radford,0
+20,2021-01-15,Green Bay,0,Detroit,0
+21,2021-01-15,Hampton,0,USC Upstate,0
+22,2021-01-15,Purdue-Fort Wayne,0,Milwaukee,0
+23,2021-01-15,IUPUI,0,Northern Kentucky,0
+24,2021-01-15,Liberty,0,Stetson,0
+25,2021-01-15,LIU,0,Wagner,0
+26,2021-01-15,Longwood,0,Winthrop,0
+27,2021-01-15,Louisiana,0,Texas-Arlington,0
+28,2021-01-15,Louisiana-Monroe,0,Arkansas State,0
+29,2021-01-15,Manhattan,0,Canisius,0
+30,2021-01-15,Merrimack,0,Mount St. Mary's,0
+31,2021-01-15,Middle Tennessee,0,Southern Miss,0
+32,2021-01-15,UMKC,0,Western Illinois,0
+33,2021-01-15,North Alabama,0,Kennesaw State,0
+34,2021-01-15,North Dakota State,0,North Dakota,0
+35,2021-01-15,North Florida,0,Jacksonville,0
+36,2021-01-15,Old Dominion,0,Rice,0
+37,2021-01-15,Oral Roberts,0,Denver,0
+38,2021-01-15,Presbyterian,0,Campbell,0
+39,2021-01-15,Quinnipiac,0,Monmouth,0
+40,2021-01-15,Robert Morris,0,UIC,0
+41,2021-01-15,St. Peter's,0,Iona,0
+42,2021-01-15,Siena,0,Rider,0
+43,2021-01-15,South Dakota State,0,Omaha,0
+44,2021-01-15,St. Francis (NY),0,Fairleigh Dickinson,0
+45,2021-01-15,Tarleton State,0,California Baptist,0
+46,2021-01-15,UTEP,0,North Texas,0
+47,2021-01-15,UTSA,0,Louisiana Tech,0
+48,2021-01-15,Texas State,0,Little Rock,0
+49,2021-01-15,Troy,0,Georgia Southern,0
+50,2021-01-15,Utah Valley,0,Seattle,0
+51,2021-01-15,Youngstown State,0,Oakland,0
+0,2021-01-16,Gonzaga,0,Saint Mary's,0
+1,2021-01-16,Baylor,0,Texas Tech,0
+2,2021-01-16,Iowa State,0,Kansas,0
+3,2021-01-16,TCU,0,West Virginia,0
+4,2021-01-16,Creighton,0,Butler,0
+5,2021-01-16,Vanderbilt,0,Tennessee,0
+6,2021-01-16,Kansas State,0,Texas,0
+7,2021-01-16,Ohio State,0,Illinois,0
+8,2021-01-16,UNC,0,Florida State,0
+9,2021-01-16,Missouri,0,Texas A&M,0
+10,2021-01-16,Virginia,0,Clemson,0
+11,2021-01-16,San Diego State,0,Utah State,0
+12,2021-01-16,Louisville,0,Miami (FL),0
+13,2021-01-16,Michigan,0,Minnesota,0
+14,2021-01-16,Alabama-Birmingham,0,Charlotte,0
+15,2021-01-16,Alabama State,0,Alabama A&M,0
+16,2021-01-16,American,0,Navy,0
+17,2021-01-16,Appalachian State,0,South Alabama,0
+18,2021-01-16,Arizona,0,Oregon,0
+19,2021-01-16,Arizona State,0,Oregon State,0
+20,2021-01-16,Arkansas,0,Alabama,0
+21,2021-01-16,Arkansas-Pine Bluff,0,Southern,0
+22,2021-01-16,Army,0,Boston University,0
+23,2021-01-16,Austin Peay,0,Southeast Missouri State,0
+24,2021-01-16,Bellarmine,0,Florida Gulf Coast,0
+25,2021-01-16,Belmont,0,Jacksonville State,0
+26,2021-01-16,Boston College,0,Notre Dame,0
+27,2021-01-16,Bowling Green State,0,Buffalo,0
+28,2021-01-16,BYU,0,San Francisco,0
+29,2021-01-16,Cal State Bakersfield,0,Hawaii,0
+30,2021-01-16,Cal State Fullerton,0,UC-Davis,0
+31,2021-01-16,Cal State Northridge,0,Long Beach State,0
+32,2021-01-16,California,0,Utah,0
+33,2021-01-16,UC-Riverside,0,Cal Poly,0
+34,2021-01-16,UC-San Diego,0,UCSB,0
+35,2021-01-16,Chicago State,0,Grand Canyon,0
+36,2021-01-16,Citadel,0,VMI,0
+37,2021-01-16,Cleveland State,0,Wright State,0
+38,2021-01-16,Coastal Carolina,0,Georgia State,0
+39,2021-01-16,Colorado State,0,San Jose State,0
+40,2021-01-16,Dixie State,0,Texas-Rio Grande Valley,0
+41,2021-01-16,Drake,0,Indiana State,0
+42,2021-01-16,Duquesne,0,St. Bonaventure,0
+43,2021-01-16,ETSU,0,Furman,0
+44,2021-01-16,Eastern Kentucky,0,Eastern Illinois,0
+45,2021-01-16,Eastern Michigan,0,Central Michigan,0
+46,2021-01-16,Elon,0,James Madison,0
+47,2021-01-16,Fairfield,0,Marist,0
+48,2021-01-16,Florida,0,Mississippi State,0
+49,2021-01-16,Florida International,0,Florida Atlantic,0
+50,2021-01-16,Fresno State,0,Nevada,0
+51,2021-01-16,George Mason,0,Rhode Island,0
+52,2021-01-16,Georgetown,0,Providence,0
+53,2021-01-16,Georgia,0,Ole Miss,0
+54,2021-01-16,Georgia Tech,0,NC State,0
+55,2021-01-16,Grambling,0,Texas Southern,0
+56,2021-01-16,Green Bay,0,Detroit,0
+57,2021-01-16,Hartford,0,UMBC,0
+58,2021-01-16,Hofstra,0,Delaware,0
+59,2021-01-16,Holy Cross,0,Colgate,0
+60,2021-01-16,Houston Baptist,0,Sam Houston State,0
+61,2021-01-16,Illinois State,0,Bradley,0
+62,2021-01-16,Purdue-Fort Wayne,0,Milwaukee,0
+63,2021-01-16,IUPUI,0,Northern Kentucky,0
+64,2021-01-16,Jackson State,0,Prairie View,0
+65,2021-01-16,Kent State,0,Ohio,0
+66,2021-01-16,Kentucky,0,Auburn,0
+67,2021-01-16,Lehigh,0,Bucknell,0
+68,2021-01-16,Liberty,0,Stetson,0
+69,2021-01-16,Louisiana,0,Texas-Arlington,0
+70,2021-01-16,Louisiana-Monroe,0,Arkansas State,0
+71,2021-01-16,Loyola (IL),0,Evansville,0
+72,2021-01-16,Loyola Marymount,0,Pacific,0
+73,2021-01-16,Loyola (MD),0,Lafayette,0
+74,2021-01-16,Maine,0,Vermont,0
+75,2021-01-16,Manhattan,0,Canisius,0
+76,2021-01-16,Marquette,0,St. John's (NY),0
+77,2021-01-16,UMass-Lowell,0,Binghamton,0
+78,2021-01-16,McNeese State,0,New Orleans,0
+79,2021-01-16,Miami (OH),0,Western Michigan,0
+80,2021-01-16,Middle Tennessee,0,Southern Miss,0
+81,2021-01-16,Mississippi Valley State,0,Alcorn State,0
+82,2021-01-16,UMKC,0,Western Illinois,0
+83,2021-01-16,Missouri State,0,Valparaiso,0
+84,2021-01-16,Morehead State,0,SIU-Edwardsville,0
+85,2021-01-16,Murray State,0,UT-Martin,0
+86,2021-01-16,Nebraska,0,Maryland,0
+87,2021-01-16,New Hampshire,0,Stony Brook,0
+88,2021-01-16,New Mexico,0,UNLV,0
+89,2021-01-16,Nicholls State,0,Central Arkansas,0
+90,2021-01-16,NJIT,0,Albany (NY),0
+91,2021-01-16,Norfolk State,0,Morgan State,0
+92,2021-01-16,North Alabama,0,Kennesaw State,0
+93,2021-01-16,North Carolina Central,0,North Carolina A&T,0
+94,2021-01-16,UNC Greensboro,0,Samford,0
+95,2021-01-16,UNC Wilmington,0,Towson,0
+96,2021-01-16,North Dakota State,0,North Dakota,0
+97,2021-01-16,North Florida,0,Jacksonville,0
+98,2021-01-16,Northeastern,0,College of Charleston,0
+99,2021-01-16,Northern Arizona,0,Montana,0
+100,2021-01-16,Northern Colorado,0,Idaho,0
+101,2021-01-16,Northern Illinois,0,Ball State,0
+102,2021-01-16,Oklahoma,0,Oklahoma State,0
+103,2021-01-16,Old Dominion,0,Rice,0
+104,2021-01-16,Oral Roberts,0,Denver,0
+105,2021-01-16,Portland,0,Pepperdine,0
+106,2021-01-16,Portland State,0,Montana State,0
+107,2021-01-16,Quinnipiac,0,Monmouth,0
+108,2021-01-16,Robert Morris,0,UIC,0
+109,2021-01-16,Sacramento State,0,Idaho State,0
+110,2021-01-16,St. Peter's,0,Iona,0
+111,2021-01-16,Santa Clara,0,San Diego,0
+112,2021-01-16,Siena,0,Rider,0
+113,2021-01-16,South Carolina,0,LSU,0
+114,2021-01-16,South Carolina State,0,Florida A&M,0
+115,2021-01-16,South Dakota State,0,Omaha,0
+116,2021-01-16,Southeastern Louisiana,0,Abilene Christian,0
+117,2021-01-16,Southern Utah,0,Eastern Washington,0
+118,2021-01-16,Stanford,0,Colorado,0
+119,2021-01-16,Stephen F. Austin,0,Incarnate Word,0
+120,2021-01-16,Syracuse,0,Pitt,0
+121,2021-01-16,Tarleton State,0,California Baptist,0
+122,2021-01-16,Temple,0,East Carolina,0
+123,2021-01-16,Tennessee State,0,Tennessee Tech,0
+124,2021-01-16,Texas A&M-Corpus Christi,0,Lamar,0
+125,2021-01-16,UTEP,0,North Texas,0
+126,2021-01-16,UTSA,0,Louisiana Tech,0
+127,2021-01-16,Texas State,0,Little Rock,0
+128,2021-01-16,Toledo,0,Akron,0
+129,2021-01-16,Troy,0,Georgia Southern,0
+130,2021-01-16,Tulane,0,Cincinnati,0
+131,2021-01-16,Utah Valley,0,Seattle,0
+132,2021-01-16,VCU,0,Richmond,0
+133,2021-01-16,Washington,0,UCLA,0
+134,2021-01-16,Washington State,0,USC,0
+135,2021-01-16,Western Carolina,0,Mercer,0
+136,2021-01-16,William & Mary,0,Drexel,0
+137,2021-01-16,Wofford,0,Chattanooga,0
+138,2021-01-16,Wyoming,0,Air Force,0
+139,2021-01-16,Xavier,0,Seton Hall,0
+140,2021-01-16,Youngstown State,0,Oakland,0
+0,2021-01-17,Iowa,0,Northwestern,0
+1,2021-01-17,Indiana,0,Michigan State,0
+2,2021-01-17,Houston,0,UCF,0
+3,2021-01-17,Army,0,Boston University,0
+4,2021-01-17,Bucknell,0,Lehigh,0
+5,2021-01-17,Elon,0,James Madison,0
+6,2021-01-17,George Washington,0,Dayton,0
+7,2021-01-17,Hartford,0,UMBC,0
+8,2021-01-17,Hofstra,0,Delaware,0
+9,2021-01-17,Holy Cross,0,Colgate,0
+10,2021-01-17,Lafayette,0,Loyola (MD),0
+11,2021-01-17,Maine,0,Vermont,0
+12,2021-01-17,UMass,0,Fordham,0
+13,2021-01-17,UMass-Lowell,0,Binghamton,0
+14,2021-01-17,Memphis,0,Tulsa,0
+15,2021-01-17,Navy,0,American,0
+16,2021-01-17,New Hampshire,0,Stony Brook,0
+17,2021-01-17,NJIT,0,Albany (NY),0
+18,2021-01-17,UNC Wilmington,0,Towson,0
+19,2021-01-17,Northeastern,0,College of Charleston,0
+20,2021-01-17,Northern Iowa,0,Southern Illinois,0
+21,2021-01-17,Penn State,0,Purdue,0
+22,2021-01-17,Virginia Tech,0,Wake Forest,0
+23,2021-01-17,Western Kentucky,0,Marshall,0
+24,2021-01-17,Wichita State,0,SMU,0
+25,2021-01-17,William & Mary,0,Drexel,0
+0,2021-01-18,Kansas,0,Baylor,0
+1,2021-01-18,Florida State,0,Louisville,0
+2,2021-01-18,Arkansas-Pine Bluff,0,Alcorn State,0
+3,2021-01-18,Grambling,0,Prairie View,0
+4,2021-01-18,Jackson State,0,Texas Southern,0
+5,2021-01-18,Mississippi Valley State,0,Southern,0
+6,2021-01-18,Norfolk State,0,Coppin State,0
+7,2021-01-18,Notre Dame,0,Howard,0
+8,2021-01-18,St. Joseph's,0,La Salle,0
+9,2021-01-18,Wyoming,0,Air Force,0
+0,2021-01-19,Seton Hall,0,Villanova,0
+1,2021-01-19,Oklahoma State,0,West Virginia,0
+2,2021-01-19,Tennessee,0,Florida,0
+3,2021-01-19,South Carolina,0,Missouri,0
+4,2021-01-19,Duke,0,Pitt,0
+5,2021-01-19,Maryland,0,Michigan,0
+6,2021-01-19,Akron,0,Bowling Green State,0
+7,2021-01-19,Alabama,0,LSU,0
+8,2021-01-19,Ball State,0,Miami (OH),0
+9,2021-01-19,Buffalo,0,Kent State,0
+10,2021-01-19,Butler,0,DePaul,0
+11,2021-01-19,Campbell,0,Hampton,0
+12,2021-01-19,Central Michigan,0,Toledo,0
+13,2021-01-19,High Point,0,Longwood,0
+14,2021-01-19,Indiana State,0,Evansville,0
+15,2021-01-19,Kansas State,0,Oklahoma,0
+16,2021-01-19,Miami (FL),0,Syracuse,0
+17,2021-01-19,Ole Miss,0,Mississippi State,0
+18,2021-01-19,Missouri State,0,Loyola (IL),0
+19,2021-01-19,UNC Asheville,0,Gardner-Webb,0
+20,2021-01-19,Ohio,0,Northern Illinois,0
+21,2021-01-19,USC Upstate,0,Charleston Southern,0
+22,2021-01-19,Texas A&M-Corpus Christi,0,New Orleans,0
+23,2021-01-19,Western Michigan,0,Eastern Michigan,0
+24,2021-01-19,Winthrop,0,Presbyterian,0
+0,2021-01-20,Tulsa,0,Houston,0
+1,2021-01-20,Providence,0,Creighton,0
+2,2021-01-20,Texas,0,Iowa State,0
+3,2021-01-20,Penn State,0,Illinois,0
+4,2021-01-20,Texas Tech,0,TCU,0
+5,2021-01-20,NC State,0,Virginia,0
+6,2021-01-20,Wake Forest,0,UNC,0
+7,2021-01-20,Clemson,0,Georgia Tech,0
+8,2021-01-20,Abilene Christian,0,Sam Houston State,0
+9,2021-01-20,Auburn,0,Arkansas,0
+10,2021-01-20,Boston College,0,Virginia Tech,0
+11,2021-01-20,Bradley,0,Northern Iowa,0
+12,2021-01-20,Campbell,0,Hampton,0
+13,2021-01-20,Chattanooga,0,Samford,0
+14,2021-01-20,Cincinnati,0,Temple,0
+15,2021-01-20,Colorado,0,Washington,0
+16,2021-01-20,Colorado State,0,Utah State,0
+17,2021-01-20,Coppin State,0,Morgan State,0
+18,2021-01-20,Delaware State,0,Howard,0
+19,2021-01-20,Drake,0,Southern Illinois,0
+20,2021-01-20,East Carolina,0,South Florida,0
+21,2021-01-20,ETSU,0,Western Carolina,0
+22,2021-01-20,Fordham,0,Davidson,0
+23,2021-01-20,Furman,0,VMI,0
+24,2021-01-20,Georgetown,0,Marquette,0
+25,2021-01-20,High Point,0,Longwood,0
+26,2021-01-20,Incarnate Word,0,Lamar,0
+27,2021-01-20,Kentucky,0,Georgia,0
+28,2021-01-20,Mercer,0,Citadel,0
+29,2021-01-20,Minnesota,0,Nebraska,0
+30,2021-01-20,Nicholls State,0,Houston Baptist,0
+31,2021-01-20,UNC Asheville,0,Gardner-Webb,0
+32,2021-01-20,Northwestern State,0,Stephen F. Austin,0
+33,2021-01-20,Rhode Island,0,Duquesne,0
+34,2021-01-20,Richmond,0,St. Bonaventure,0
+35,2021-01-20,St. Joseph's,0,George Mason,0
+36,2021-01-20,Saint Louis,0,UMass,0
+37,2021-01-20,South Carolina State,0,North Carolina Central,0
+38,2021-01-20,USC Upstate,0,Charleston Southern,0
+39,2021-01-20,Southeastern Louisiana,0,McNeese State,0
+40,2021-01-20,SMU,0,Tulane,0
+41,2021-01-20,Texas A&M,0,Vanderbilt,0
+42,2021-01-20,Valparaiso,0,Illinois State,0
+43,2021-01-20,Winthrop,0,Presbyterian,0
+44,2021-01-20,Wofford,0,UNC Greensboro,0
+45,2021-01-20,Xavier,0,UConn,0
+0,2021-01-21,Indiana,0,Iowa,0
+1,2021-01-21,Arizona,0,Arizona State,0
+2,2021-01-21,Eastern Illinois,0,Belmont,0
+3,2021-01-21,Eastern Washington,0,Northern Colorado,0
+4,2021-01-21,Fairleigh Dickinson,0,Merrimack,0
+5,2021-01-21,Fresno State,0,Boise State,0
+6,2021-01-21,Idaho State,0,Portland State,0
+7,2021-01-21,Jacksonville State,0,Murray State,0
+8,2021-01-21,Montana,0,Sacramento State,0
+9,2021-01-21,Montana State,0,Northern Arizona,0
+10,2021-01-21,Mount St. Mary's,0,Central Connecticut,0
+11,2021-01-21,Pacific,0,Pepperdine,0
+12,2021-01-21,Portland,0,BYU,0
+13,2021-01-21,Saint Francis (PA),0,Sacred Heart,0
+14,2021-01-21,Saint Mary's,0,Loyola Marymount,0
+15,2021-01-21,San Francisco,0,Santa Clara,0
+16,2021-01-21,San Jose State,0,New Mexico,0
+17,2021-01-21,Southeast Missouri State,0,Morehead State,0
+18,2021-01-21,USC,0,Stanford,0
+19,2021-01-21,SIU-Edwardsville,0,Tennessee State,0
+20,2021-01-21,Southern Utah,0,Weber State,0
+21,2021-01-21,St. Francis (NY),0,LIU,0
+22,2021-01-21,UT-Martin,0,Eastern Kentucky,0
+23,2021-01-21,Tennessee Tech,0,Austin Peay,0
+24,2021-01-21,UCLA,0,California,0
+25,2021-01-21,Utah,0,Washington State,0
+26,2021-01-21,Wagner,0,Bryant,0
+27,2021-01-21,Wichita State,0,Memphis,0
+0,2021-01-22,San Diego State,0,Air Force,0
+1,2021-01-22,Michigan,0,Purdue,0
+2,2021-01-22,Little Rock,0,Texas-Arlington,0
+3,2021-01-22,Arkansas State,0,Louisiana,0
+4,2021-01-22,Cal Poly,0,UC-Irvine,0
+5,2021-01-22,Cal State Bakersfield,0,UC-Riverside,0
+6,2021-01-22,California Baptist,0,Chicago State,0
+7,2021-01-22,UC-Davis,0,UC-San Diego,0
+8,2021-01-22,UCSB,0,Cal State Northridge,0
+9,2021-01-22,Canisius,0,Fairfield,0
+10,2021-01-22,Charlotte,0,Florida Atlantic,0
+11,2021-01-22,Colorado State,0,Utah State,0
+12,2021-01-22,Denver,0,North Dakota State,0
+13,2021-01-22,Detroit,0,Oakland,0
+14,2021-01-22,Fairleigh Dickinson,0,Merrimack,0
+15,2021-01-22,Florida Gulf Coast,0,Lipscomb,0
+16,2021-01-22,Georgia Southern,0,South Alabama,0
+17,2021-01-22,Georgia State,0,Appalachian State,0
+18,2021-01-22,Grand Canyon,0,Dixie State,0
+19,2021-01-22,Hawaii,0,Cal State Fullerton,0
+20,2021-01-22,UIC,0,Youngstown State,0
+21,2021-01-22,Purdue-Fort Wayne,0,Green Bay,0
+22,2021-01-22,Jacksonville,0,North Alabama,0
+23,2021-01-22,Kennesaw State,0,Liberty,0
+24,2021-01-22,Louisiana Tech,0,UTEP,0
+25,2021-01-22,Marshall,0,Florida International,0
+26,2021-01-22,Milwaukee,0,Cleveland State,0
+27,2021-01-22,Monmouth,0,Manhattan,0
+28,2021-01-22,Mount St. Mary's,0,Central Connecticut,0
+29,2021-01-22,Nevada,0,Wyoming,0
+30,2021-01-22,Niagara,0,Marist,0
+31,2021-01-22,North Dakota,0,South Dakota State,0
+32,2021-01-22,North Texas,0,Old Dominion,0
+33,2021-01-22,Northern Kentucky,0,Robert Morris,0
+34,2021-01-22,Rice,0,Alabama-Birmingham,0
+35,2021-01-22,Rider,0,Quinnipiac,0
+36,2021-01-22,Saint Francis (PA),0,Sacred Heart,0
+37,2021-01-22,St. Peter's,0,Siena,0
+38,2021-01-22,Seattle,0,Tarleton State,0
+39,2021-01-22,Seton Hall,0,Butler,0
+40,2021-01-22,South Dakota,0,Western Illinois,0
+41,2021-01-22,Southern Miss,0,UTSA,0
+42,2021-01-22,Stetson,0,Bellarmine,0
+43,2021-01-22,Texas-Rio Grande Valley,0,New Mexico State,0
+44,2021-01-22,Texas State,0,Louisiana-Monroe,0
+45,2021-01-22,Troy,0,Coastal Carolina,0
+46,2021-01-22,Wagner,0,Bryant,0
+47,2021-01-22,Wright State,0,IUPUI,0
+0,2021-01-23,Pacific,0,Gonzaga,0
+1,2021-01-23,Baylor,0,Oklahoma State,0
+2,2021-01-23,Illinois,0,Michigan State,0
+3,2021-01-23,Kansas,0,Oklahoma,0
+4,2021-01-23,Cincinnati,0,Houston,0
+5,2021-01-23,Providence,0,Villanova,0
+6,2021-01-23,West Virginia,0,Kansas State,0
+7,2021-01-23,UConn,0,Creighton,0
+8,2021-01-23,Missouri,0,Tennessee,0
+9,2021-01-23,Texas,0,TCU,0
+10,2021-01-23,Ohio State,0,Wisconsin,0
+11,2021-01-23,Iowa State,0,Texas Tech,0
+12,2021-01-23,Clemson,0,Florida State,0
+13,2021-01-23,Georgia Tech,0,Virginia,0
+14,2021-01-23,Duke,0,Louisville,0
+15,2021-01-23,NC State,0,UNC,0
+16,2021-01-23,Akron,0,Western Michigan,0
+17,2021-01-23,Albany (NY),0,New Hampshire,0
+18,2021-01-23,Alcorn State,0,Alabama State,0
+19,2021-01-23,Arkansas,0,Vanderbilt,0
+20,2021-01-23,Little Rock,0,Texas-Arlington,0
+21,2021-01-23,Arkansas State,0,Louisiana,0
+22,2021-01-23,Army,0,Navy,0
+23,2021-01-23,Auburn,0,South Carolina,0
+24,2021-01-23,Ball State,0,Ohio,0
+25,2021-01-23,Binghamton,0,Maine,0
+26,2021-01-23,Boston University,0,Lafayette,0
+27,2021-01-23,Bowling Green State,0,Central Michigan,0
+28,2021-01-23,Bucknell,0,Colgate,0
+29,2021-01-23,Buffalo,0,Northern Illinois,0
+30,2021-01-23,Cal Poly,0,UC-Irvine,0
+31,2021-01-23,Cal State Bakersfield,0,UC-Riverside,0
+32,2021-01-23,California Baptist,0,Chicago State,0
+33,2021-01-23,UC-Davis,0,UC-San Diego,0
+34,2021-01-23,UCSB,0,Cal State Northridge,0
+35,2021-01-23,Canisius,0,Fairfield,0
+36,2021-01-23,Central Arkansas,0,Abilene Christian,0
+37,2021-01-23,Charlotte,0,Florida Atlantic,0
+38,2021-01-23,Citadel,0,Samford,0
+39,2021-01-23,College of Charleston,0,William & Mary,0
+40,2021-01-23,Colorado,0,Washington State,0
+41,2021-01-23,Dayton,0,VCU,0
+42,2021-01-23,Delaware,0,UNC Wilmington,0
+43,2021-01-23,Denver,0,North Dakota State,0
+44,2021-01-23,DePaul,0,Marquette,0
+45,2021-01-23,Detroit,0,Oakland,0
+46,2021-01-23,Drexel,0,Elon,0
+47,2021-01-23,Eastern Illinois,0,Tennessee State,0
+48,2021-01-23,Eastern Washington,0,Northern Colorado,0
+49,2021-01-23,Evansville,0,Drake,0
+50,2021-01-23,Florida,0,Georgia,0
+51,2021-01-23,Florida Gulf Coast,0,Lipscomb,0
+52,2021-01-23,Fresno State,0,Boise State,0
+53,2021-01-23,Furman,0,ETSU,0
+54,2021-01-23,George Mason,0,St. Joseph's,0
+55,2021-01-23,Georgia Southern,0,South Alabama,0
+56,2021-01-23,Georgia State,0,Appalachian State,0
+57,2021-01-23,Grand Canyon,0,Dixie State,0
+58,2021-01-23,Hawaii,0,Cal State Fullerton,0
+59,2021-01-23,Idaho State,0,Portland State,0
+60,2021-01-23,UIC,0,Youngstown State,0
+61,2021-01-23,Illinois State,0,Missouri State,0
+62,2021-01-23,Purdue-Fort Wayne,0,Green Bay,0
+63,2021-01-23,Jackson State,0,Grambling,0
+64,2021-01-23,Jacksonville,0,North Alabama,0
+65,2021-01-23,Jacksonville State,0,Austin Peay,0
+66,2021-01-23,James Madison,0,Northeastern,0
+67,2021-01-23,Kennesaw State,0,Liberty,0
+68,2021-01-23,Kent State,0,Toledo,0
+69,2021-01-23,La Salle,0,Richmond,0
+70,2021-01-23,Lamar,0,Stephen F. Austin,0
+71,2021-01-23,Lehigh,0,Holy Cross,0
+72,2021-01-23,LSU,0,Kentucky,0
+73,2021-01-23,Louisiana Tech,0,UTEP,0
+74,2021-01-23,Loyola (IL),0,Indiana State,0
+75,2021-01-23,Loyola (MD),0,American,0
+76,2021-01-23,Marshall,0,Florida International,0
+77,2021-01-23,Maryland,0,Minnesota,0
+78,2021-01-23,UMBC,0,UMass-Lowell,0
+79,2021-01-23,McNeese State,0,Houston Baptist,0
+80,2021-01-23,Miami (OH),0,Eastern Michigan,0
+81,2021-01-23,Milwaukee,0,Cleveland State,0
+82,2021-01-23,Mississippi State,0,Alabama,0
+83,2021-01-23,UMKC,0,Oral Roberts,0
+84,2021-01-23,Monmouth,0,Manhattan,0
+85,2021-01-23,Montana,0,Sacramento State,0
+86,2021-01-23,Montana State,0,Northern Arizona,0
+87,2021-01-23,Morgan State,0,Delaware State,0
+88,2021-01-23,New Orleans,0,Nicholls State,0
+89,2021-01-23,Niagara,0,Marist,0
+90,2021-01-23,North Carolina A&T,0,Florida A&M,0
+91,2021-01-23,UNC Greensboro,0,Chattanooga,0
+92,2021-01-23,North Dakota,0,South Dakota State,0
+93,2021-01-23,North Texas,0,Old Dominion,0
+94,2021-01-23,Northern Kentucky,0,Robert Morris,0
+95,2021-01-23,Northwestern,0,Penn State,0
+96,2021-01-23,Northwestern State,0,Southeastern Louisiana,0
+97,2021-01-23,Oregon State,0,Oregon,0
+98,2021-01-23,Pepperdine,0,BYU,0
+99,2021-01-23,Pitt,0,Boston College,0
+100,2021-01-23,Prairie View,0,Mississippi Valley State,0
+101,2021-01-23,Rice,0,Alabama-Birmingham,0
+102,2021-01-23,Rider,0,Quinnipiac,0
+103,2021-01-23,Saint Mary's,0,San Francisco,0
+104,2021-01-23,St. Peter's,0,Siena,0
+105,2021-01-23,San Diego,0,Portland,0
+106,2021-01-23,San Jose State,0,New Mexico,0
+107,2021-01-23,Santa Clara,0,Loyola Marymount,0
+108,2021-01-23,Seattle,0,Tarleton State,0
+109,2021-01-23,South Dakota,0,Western Illinois,0
+110,2021-01-23,Southeast Missouri State,0,Eastern Kentucky,0
+111,2021-01-23,Southern,0,Alabama A&M,0
+112,2021-01-23,USC,0,California,0
+113,2021-01-23,Southern Illinois,0,Bradley,0
+114,2021-01-23,SIU-Edwardsville,0,Belmont,0
+115,2021-01-23,SMU,0,UCF,0
+116,2021-01-23,Southern Miss,0,UTSA,0
+117,2021-01-23,St. Bonaventure,0,Saint Louis,0
+118,2021-01-23,Stetson,0,Bellarmine,0
+119,2021-01-23,Stony Brook,0,NJIT,0
+120,2021-01-23,UT-Martin,0,Morehead State,0
+121,2021-01-23,Tennessee Tech,0,Murray State,0
+122,2021-01-23,Texas A&M,0,Ole Miss,0
+123,2021-01-23,Texas A&M-Corpus Christi,0,Incarnate Word,0
+124,2021-01-23,Texas-Rio Grande Valley,0,New Mexico State,0
+125,2021-01-23,Texas Southern,0,Arkansas-Pine Bluff,0
+126,2021-01-23,Texas State,0,Louisiana-Monroe,0
+127,2021-01-23,Towson,0,Hofstra,0
+128,2021-01-23,Troy,0,Coastal Carolina,0
+129,2021-01-23,Tulane,0,Tulsa,0
+130,2021-01-23,UCLA,0,Stanford,0
+131,2021-01-23,Valparaiso,0,Northern Iowa,0
+132,2021-01-23,Vermont,0,Hartford,0
+133,2021-01-23,VMI,0,Mercer,0
+134,2021-01-23,Virginia Tech,0,Syracuse,0
+135,2021-01-23,Weber State,0,Southern Utah,0
+136,2021-01-23,Western Carolina,0,Wofford,0
+137,2021-01-23,Western Kentucky,0,Middle Tennessee,0
+138,2021-01-23,Wright State,0,IUPUI,0
+0,2021-01-24,Nebraska,0,Iowa,0
+1,2021-01-24,San Diego State,0,Air Force,0
+2,2021-01-24,Rutgers,0,Indiana,0
+3,2021-01-24,Albany (NY),0,New Hampshire,0
+4,2021-01-24,American,0,Loyola (MD),0
+5,2021-01-24,Army,0,Navy,0
+6,2021-01-24,Binghamton,0,Maine,0
+7,2021-01-24,Boston University,0,Lafayette,0
+8,2021-01-24,Bucknell,0,Colgate,0
+9,2021-01-24,Charleston Southern,0,Campbell,0
+10,2021-01-24,College of Charleston,0,William & Mary,0
+11,2021-01-24,Davidson,0,UMass,0
+12,2021-01-24,Delaware,0,UNC Wilmington,0
+13,2021-01-24,Drexel,0,Elon,0
+14,2021-01-24,Gardner-Webb,0,USC Upstate,0
+15,2021-01-24,George Washington,0,Rhode Island,0
+16,2021-01-24,Hampton,0,Winthrop,0
+17,2021-01-24,James Madison,0,Northeastern,0
+18,2021-01-24,Lehigh,0,Holy Cross,0
+19,2021-01-24,UMBC,0,UMass-Lowell,0
+20,2021-01-24,Memphis,0,East Carolina,0
+21,2021-01-24,UMKC,0,Oral Roberts,0
+22,2021-01-24,Nevada,0,Wyoming,0
+23,2021-01-24,Notre Dame,0,Miami (FL),0
+24,2021-01-24,Presbyterian,0,High Point,0
+25,2021-01-24,Radford,0,UNC Asheville,0
+26,2021-01-24,South Florida,0,Wichita State,0
+27,2021-01-24,Stony Brook,0,NJIT,0
+28,2021-01-24,Towson,0,Hofstra,0
+29,2021-01-24,Utah,0,Washington,0
+30,2021-01-24,Vermont,0,Hartford,0
+31,2021-01-24,Western Kentucky,0,Middle Tennessee,0
+0,2021-01-25,Texas Tech,0,West Virginia,0
+1,2021-01-25,Syracuse,0,Virginia,0
+2,2021-01-25,Alcorn State,0,Alabama A&M,0
+3,2021-01-25,Charleston Southern,0,Campbell,0
+4,2021-01-25,Delaware State,0,Coppin State,0
+5,2021-01-25,Gardner-Webb,0,USC Upstate,0
+6,2021-01-25,Hampton,0,Winthrop,0
+7,2021-01-25,North Carolina Central,0,Florida A&M,0
+8,2021-01-25,Oklahoma State,0,Iowa State,0
+9,2021-01-25,Prairie View,0,Arkansas-Pine Bluff,0
+10,2021-01-25,Presbyterian,0,High Point,0
+11,2021-01-25,Radford,0,UNC Asheville,0
+12,2021-01-25,Southern,0,Alabama State,0
+13,2021-01-25,Texas Southern,0,Mississippi Valley State,0
+14,2021-01-25,Utah State,0,UNLV,0
+0,2021-01-26,TCU,0,Kansas,0
+1,2021-01-26,Mississippi State,0,Tennessee,0
+2,2021-01-26,Oklahoma,0,Texas,0
+3,2021-01-26,Missouri,0,Auburn,0
+4,2021-01-26,San Diego State,0,Air Force,0
+5,2021-01-26,Georgia Tech,0,Duke,0
+6,2021-01-26,UNC,0,Pitt,0
+7,2021-01-26,Boston College,0,Clemson,0
+8,2021-01-26,Butler,0,UConn,0
+9,2021-01-26,Central Michigan,0,Buffalo,0
+10,2021-01-26,Colorado State,0,Utah State,0
+11,2021-01-26,Dayton,0,Saint Louis,0
+12,2021-01-26,Eastern Michigan,0,Akron,0
+13,2021-01-26,Georgetown,0,Xavier,0
+14,2021-01-26,Indiana State,0,Bradley,0
+15,2021-01-26,Kent State,0,Ball State,0
+16,2021-01-26,Kentucky,0,Alabama,0
+17,2021-01-26,LSU,0,Texas A&M,0
+18,2021-01-26,Nevada,0,New Mexico,0
+19,2021-01-26,UNLV,0,Fresno State,0
+20,2021-01-26,Northern Illinois,0,Bowling Green State,0
+21,2021-01-26,Richmond,0,St. Joseph's,0
+22,2021-01-26,Toledo,0,Miami (OH),0
+23,2021-01-26,Wagner,0,Mount St. Mary's,0
+24,2021-01-26,Western Michigan,0,Ohio,0
+25,2021-01-26,Wyoming,0,Boise State,0
+0,2021-01-27,Kansas State,0,Baylor,0
+1,2021-01-27,Houston,0,Tulane,0
+2,2021-01-27,Creighton,0,Seton Hall,0
+3,2021-01-27,Northwestern,0,Wisconsin,0
+4,2021-01-27,Miami (FL),0,Florida State,0
+5,2021-01-27,Purdue,0,Ohio State,0
+6,2021-01-27,Central Arkansas,0,Southeastern Louisiana,0
+7,2021-01-27,Chattanooga,0,ETSU,0
+8,2021-01-27,Drake,0,Valparaiso,0
+9,2021-01-27,Duquesne,0,Fordham,0
+10,2021-01-27,East Carolina,0,UCF,0
+11,2021-01-27,Evansville,0,Illinois State,0
+12,2021-01-27,George Washington,0,George Mason,0
+13,2021-01-27,Georgia,0,South Carolina,0
+14,2021-01-27,Houston Baptist,0,Incarnate Word,0
+15,2021-01-27,Loyola (IL),0,Southern Illinois,0
+16,2021-01-27,Marquette,0,Providence,0
+17,2021-01-27,UMass,0,VCU,0
+18,2021-01-27,McNeese State,0,Nicholls State,0
+19,2021-01-27,Memphis,0,SMU,0
+20,2021-01-27,Ole Miss,0,Arkansas,0
+21,2021-01-27,New Orleans,0,Northwestern State,0
+22,2021-01-27,North Carolina A&T,0,South Carolina State,0
+23,2021-01-27,UNC Greensboro,0,Furman,0
+24,2021-01-27,Northern Iowa,0,Missouri State,0
+25,2021-01-27,Rhode Island,0,La Salle,0
+26,2021-01-27,Sam Houston State,0,Texas A&M-Corpus Christi,0
+27,2021-01-27,Samford,0,Mercer,0
+28,2021-01-27,St. John's (NY),0,DePaul,0
+29,2021-01-27,Stephen F. Austin,0,Abilene Christian,0
+30,2021-01-27,Temple,0,South Florida,0
+31,2021-01-27,Utah State,0,UNLV,0
+32,2021-01-27,Vanderbilt,0,Florida,0
+33,2021-01-27,Virginia Tech,0,Notre Dame,0
+34,2021-01-27,Wake Forest,0,NC State,0
+35,2021-01-27,Washington State,0,Washington,0
+36,2021-01-27,Western Carolina,0,VMI,0
+37,2021-01-27,Wichita State,0,Cincinnati,0
+38,2021-01-27,Wofford,0,Citadel,0
+0,2021-01-28,Gonzaga,0,San Diego,0
+1,2021-01-28,Michigan State,0,Rutgers,0
+2,2021-01-28,Wyoming,0,San Diego State,0
+3,2021-01-28,Air Force,0,San Jose State,0
+4,2021-01-28,Alabama-Birmingham,0,Middle Tennessee,0
+5,2021-01-28,Belmont,0,Austin Peay,0
+6,2021-01-28,Boise State,0,Colorado State,0
+7,2021-01-28,California,0,Arizona State,0
+8,2021-01-28,Eastern Illinois,0,UT-Martin,0
+9,2021-01-28,Eastern Kentucky,0,Tennessee Tech,0
+10,2021-01-28,Louisiana Tech,0,Southern Miss,0
+11,2021-01-28,Montana State,0,Montana,0
+12,2021-01-28,Morehead State,0,Jacksonville State,0
+13,2021-01-28,New Mexico,0,Fresno State,0
+14,2021-01-28,Northern Colorado,0,Northern Arizona,0
+15,2021-01-28,Oregon,0,UCLA,0
+16,2021-01-28,Oregon State,0,USC,0
+17,2021-01-28,Pacific,0,Santa Clara,0
+18,2021-01-28,Portland,0,Saint Mary's,0
+19,2021-01-28,Sacramento State,0,Eastern Washington,0
+20,2021-01-28,SIU-Edwardsville,0,Southeast Missouri State,0
+21,2021-01-28,Southern Utah,0,Idaho State,0
+22,2021-01-28,Stanford,0,Arizona,0
+23,2021-01-28,Tennessee State,0,Murray State,0
+24,2021-01-28,UTEP,0,UTSA,0
+25,2021-01-28,Weber State,0,Idaho,0
+0,2021-01-29,Iowa,0,Illinois,0
+1,2021-01-29,Appalachian State,0,Troy,0
+2,2021-01-29,Bellarmine,0,Kennesaw State,0
+3,2021-01-29,Cal State Fullerton,0,Cal State Bakersfield,0
+4,2021-01-29,Cal State Northridge,0,Cal Poly,0
+5,2021-01-29,UC-Irvine,0,Hawaii,0
+6,2021-01-29,UC-San Diego,0,Long Beach State,0
+7,2021-01-29,UCSB,0,UC-Davis,0
+8,2021-01-29,Campbell,0,Gardner-Webb,0
+9,2021-01-29,Chicago State,0,Seattle,0
+10,2021-01-29,Coastal Carolina,0,Georgia Southern,0
+11,2021-01-29,Detroit,0,Youngstown State,0
+12,2021-01-29,Dixie State,0,California Baptist,0
+13,2021-01-29,Florida Atlantic,0,Marshall,0
+14,2021-01-29,Florida International,0,Charlotte,0
+15,2021-01-29,Green Bay,0,Cleveland State,0
+16,2021-01-29,High Point,0,Hampton,0
+17,2021-01-29,UIC,0,Northern Kentucky,0
+18,2021-01-29,Iona,0,Fairfield,0
+19,2021-01-29,Liberty,0,Jacksonville,0
+20,2021-01-29,Lipscomb,0,Stetson,0
+21,2021-01-29,Longwood,0,Presbyterian,0
+22,2021-01-29,Louisiana,0,Texas State,0
+23,2021-01-29,Louisiana-Monroe,0,Little Rock,0
+24,2021-01-29,Manhattan,0,St. Peter's,0
+25,2021-01-29,Marist,0,Rider,0
+26,2021-01-29,Milwaukee,0,IUPUI,0
+27,2021-01-29,Omaha,0,South Dakota,0
+28,2021-01-29,New Mexico State,0,Grand Canyon,0
+29,2021-01-29,North Alabama,0,North Florida,0
+30,2021-01-29,North Dakota State,0,UMKC,0
+31,2021-01-29,North Texas,0,Rice,0
+32,2021-01-29,Oakland,0,Purdue-Fort Wayne,0
+33,2021-01-29,Old Dominion,0,Western Kentucky,0
+34,2021-01-29,Quinnipiac,0,Canisius,0
+35,2021-01-29,Robert Morris,0,Wright State,0
+36,2021-01-29,Saint Louis,0,Richmond,0
+37,2021-01-29,Siena,0,Niagara,0
+38,2021-01-29,South Alabama,0,Georgia State,0
+39,2021-01-29,USC Upstate,0,Radford,0
+40,2021-01-29,South Dakota State,0,Denver,0
+41,2021-01-29,Tarleton State,0,Utah Valley,0
+42,2021-01-29,Texas-Arlington,0,Arkansas State,0
+43,2021-01-29,Western Illinois,0,North Dakota,0
+44,2021-01-29,Winthrop,0,Charleston Southern,0
+45,2021-01-29,Xavier,0,Butler,0
+0,2021-01-30,Gonzaga,0,Pepperdine,0
+1,2021-01-30,Auburn,0,Baylor,0
+2,2021-01-30,Kansas,0,Tennessee,0
+3,2021-01-30,Villanova,0,Seton Hall,0
+4,2021-01-30,Florida,0,West Virginia,0
+5,2021-01-30,Creighton,0,DePaul,0
+6,2021-01-30,Texas,0,Kentucky,0
+7,2021-01-30,Wisconsin,0,Maryland,0
+8,2021-01-30,Texas Tech,0,LSU,0
+9,2021-01-30,Florida State,0,Georgia Tech,0
+10,2021-01-30,TCU,0,Missouri,0
+11,2021-01-30,Virginia,0,Virginia Tech,0
+12,2021-01-30,Wyoming,0,San Diego State,0
+13,2021-01-30,Clemson,0,Duke,0
+14,2021-01-30,Notre Dame,0,UNC,0
+15,2021-01-30,Boston College,0,Louisville,0
+16,2021-01-30,Indiana,0,Michigan,0
+17,2021-01-30,Abilene Christian,0,Incarnate Word,0
+18,2021-01-30,Air Force,0,San Jose State,0
+19,2021-01-30,Alabama,0,Oklahoma,0
+20,2021-01-30,Alabama A&M,0,Prairie View,0
+21,2021-01-30,Alabama State,0,Texas Southern,0
+22,2021-01-30,Appalachian State,0,Troy,0
+23,2021-01-30,Arkansas,0,Oklahoma State,0
+24,2021-01-30,Arkansas-Pine Bluff,0,Grambling,0
+25,2021-01-30,Ball State,0,Akron,0
+26,2021-01-30,Bellarmine,0,Kennesaw State,0
+27,2021-01-30,Belmont,0,Murray State,0
+28,2021-01-30,Boise State,0,Colorado State,0
+29,2021-01-30,Boston University,0,Holy Cross,0
+30,2021-01-30,Bryant,0,Fairleigh Dickinson,0
+31,2021-01-30,Bucknell,0,Lehigh,0
+32,2021-01-30,Cal State Fullerton,0,Cal State Bakersfield,0
+33,2021-01-30,Cal State Northridge,0,Cal Poly,0
+34,2021-01-30,California,0,Arizona,0
+35,2021-01-30,UC-Irvine,0,Hawaii,0
+36,2021-01-30,UC-San Diego,0,Long Beach State,0
+37,2021-01-30,UCSB,0,UC-Davis,0
+38,2021-01-30,Campbell,0,Gardner-Webb,0
+39,2021-01-30,Central Connecticut,0,Saint Francis (PA),0
+40,2021-01-30,UCF,0,Wichita State,0
+41,2021-01-30,Central Michigan,0,Kent State,0
+42,2021-01-30,Chattanooga,0,Furman,0
+43,2021-01-30,Chicago State,0,Seattle,0
+44,2021-01-30,Cincinnati,0,South Florida,0
+45,2021-01-30,Citadel,0,ETSU,0
+46,2021-01-30,Coastal Carolina,0,Georgia Southern,0
+47,2021-01-30,Colgate,0,Army,0
+48,2021-01-30,College of Charleston,0,James Madison,0
+49,2021-01-30,Coppin State,0,Norfolk State,0
+50,2021-01-30,Detroit,0,Youngstown State,0
+51,2021-01-30,Dixie State,0,California Baptist,0
+52,2021-01-30,Eastern Illinois,0,Southeast Missouri State,0
+53,2021-01-30,Eastern Kentucky,0,Jacksonville State,0
+54,2021-01-30,Eastern Michigan,0,Northern Illinois,0
+55,2021-01-30,Elon,0,Delaware,0
+56,2021-01-30,Florida Atlantic,0,Marshall,0
+57,2021-01-30,Florida International,0,Charlotte,0
+58,2021-01-30,Fordham,0,George Washington,0
+59,2021-01-30,Green Bay,0,Cleveland State,0
+60,2021-01-30,High Point,0,Hampton,0
+61,2021-01-30,Hofstra,0,UNC Wilmington,0
+62,2021-01-30,Houston Baptist,0,Texas A&M-Corpus Christi,0
+63,2021-01-30,Howard,0,Morgan State,0
+64,2021-01-30,UIC,0,Northern Kentucky,0
+65,2021-01-30,Iona,0,Fairfield,0
+66,2021-01-30,Iowa State,0,Mississippi State,0
+67,2021-01-30,La Salle,0,VCU,0
+68,2021-01-30,Lafayette,0,American,0
+69,2021-01-30,Liberty,0,Jacksonville,0
+70,2021-01-30,Lipscomb,0,Stetson,0
+71,2021-01-30,LIU,0,St. Francis (NY),0
+72,2021-01-30,Longwood,0,Presbyterian,0
+73,2021-01-30,Louisiana,0,Texas State,0
+74,2021-01-30,Louisiana-Monroe,0,Little Rock,0
+75,2021-01-30,Loyola Marymount,0,San Diego,0
+76,2021-01-30,Loyola (MD),0,Navy,0
+77,2021-01-30,Maine,0,UMBC,0
+78,2021-01-30,Manhattan,0,St. Peter's,0
+79,2021-01-30,Marist,0,Rider,0
+80,2021-01-30,UMass,0,George Mason,0
+81,2021-01-30,UMass-Lowell,0,Albany (NY),0
+82,2021-01-30,McNeese State,0,Lamar,0
+83,2021-01-30,Mercer,0,Wofford,0
+84,2021-01-30,Merrimack,0,Wagner,0
+85,2021-01-30,Miami (FL),0,Wake Forest,0
+86,2021-01-30,Middle Tennessee,0,Alabama-Birmingham,0
+87,2021-01-30,Milwaukee,0,IUPUI,0
+88,2021-01-30,Minnesota,0,Purdue,0
+89,2021-01-30,Ole Miss,0,Georgia,0
+90,2021-01-30,Mississippi Valley State,0,Jackson State,0
+91,2021-01-30,Montana,0,Montana State,0
+92,2021-01-30,Morehead State,0,Tennessee Tech,0
+93,2021-01-30,Omaha,0,South Dakota,0
+94,2021-01-30,New Hampshire,0,Binghamton,0
+95,2021-01-30,New Mexico,0,Fresno State,0
+96,2021-01-30,New Mexico State,0,Grand Canyon,0
+97,2021-01-30,New Orleans,0,Southeastern Louisiana,0
+98,2021-01-30,NJIT,0,Hartford,0
+99,2021-01-30,North Alabama,0,North Florida,0
+100,2021-01-30,North Carolina Central,0,North Carolina A&T,0
+101,2021-01-30,North Dakota State,0,UMKC,0
+102,2021-01-30,Northeastern,0,Drexel,0
+103,2021-01-30,Northern Arizona,0,Northern Colorado,0
+104,2021-01-30,Northern Iowa,0,Drake,0
+105,2021-01-30,Northwestern State,0,Central Arkansas,0
+106,2021-01-30,Oakland,0,Purdue-Fort Wayne,0
+107,2021-01-30,Ohio,0,Buffalo,0
+108,2021-01-30,Old Dominion,0,Western Kentucky,0
+109,2021-01-30,Oregon,0,USC,0
+110,2021-01-30,Oregon State,0,UCLA,0
+111,2021-01-30,Penn State,0,Nebraska,0
+112,2021-01-30,Providence,0,Georgetown,0
+113,2021-01-30,Quinnipiac,0,Canisius,0
+114,2021-01-30,Rhode Island,0,Dayton,0
+115,2021-01-30,Rice,0,North Texas,0
+116,2021-01-30,Robert Morris,0,Wright State,0
+117,2021-01-30,Sacramento State,0,Eastern Washington,0
+118,2021-01-30,Sacred Heart,0,Mount St. Mary's,0
+119,2021-01-30,St. Joseph's,0,Duquesne,0
+120,2021-01-30,Saint Mary's,0,Pacific,0
+121,2021-01-30,Sam Houston State,0,Stephen F. Austin,0
+122,2021-01-30,Samford,0,Western Carolina,0
+123,2021-01-30,San Francisco,0,BYU,0
+124,2021-01-30,Santa Clara,0,Portland,0
+125,2021-01-30,Siena,0,Niagara,0
+126,2021-01-30,South Alabama,0,Georgia State,0
+127,2021-01-30,South Carolina,0,Vanderbilt,0
+128,2021-01-30,South Carolina State,0,Florida A&M,0
+129,2021-01-30,USC Upstate,0,Radford,0
+130,2021-01-30,South Dakota State,0,Denver,0
+131,2021-01-30,Southern,0,Alcorn State,0
+132,2021-01-30,Southern Illinois,0,Evansville,0
+133,2021-01-30,SIU-Edwardsville,0,UT-Martin,0
+134,2021-01-30,Southern Miss,0,Louisiana Tech,0
+135,2021-01-30,Southern Utah,0,Idaho State,0
+136,2021-01-30,St. Bonaventure,0,Davidson,0
+137,2021-01-30,Stanford,0,Arizona State,0
+138,2021-01-30,Stony Brook,0,Vermont,0
+139,2021-01-30,Tarleton State,0,Utah Valley,0
+140,2021-01-30,Tennessee State,0,Austin Peay,0
+141,2021-01-30,Texas A&M,0,Kansas State,0
+142,2021-01-30,Texas-Arlington,0,Arkansas State,0
+143,2021-01-30,UTSA,0,UTEP,0
+144,2021-01-30,Toledo,0,Bowling Green State,0
+145,2021-01-30,Tulsa,0,East Carolina,0
+146,2021-01-30,Utah,0,Colorado,0
+147,2021-01-30,Valparaiso,0,Loyola (IL),0
+148,2021-01-30,VMI,0,UNC Greensboro,0
+149,2021-01-30,Weber State,0,Idaho,0
+150,2021-01-30,Western Illinois,0,North Dakota,0
+151,2021-01-30,Western Michigan,0,Miami (OH),0
+152,2021-01-30,William & Mary,0,Towson,0
+153,2021-01-30,Winthrop,0,Charleston Southern,0
+0,2021-01-31,Michigan State,0,Ohio State,0
+1,2021-01-31,SMU,0,Houston,0
+2,2021-01-31,Rutgers,0,Northwestern,0
+3,2021-01-31,American,0,Lafayette,0
+4,2021-01-31,Army,0,Colgate,0
+5,2021-01-31,Bradley,0,Illinois State,0
+6,2021-01-31,Bryant,0,Fairleigh Dickinson,0
+7,2021-01-31,Central Connecticut,0,Saint Francis (PA),0
+8,2021-01-31,College of Charleston,0,James Madison,0
+9,2021-01-31,UConn,0,St. John's (NY),0
+10,2021-01-31,Elon,0,Delaware,0
+11,2021-01-31,Hofstra,0,UNC Wilmington,0
+12,2021-01-31,Holy Cross,0,Boston University,0
+13,2021-01-31,Lehigh,0,Bucknell,0
+14,2021-01-31,Maine,0,UMBC,0
+15,2021-01-31,UMass-Lowell,0,Albany (NY),0
+16,2021-01-31,Merrimack,0,Wagner,0
+17,2021-01-31,Missouri State,0,Indiana State,0
+18,2021-01-31,Navy,0,Loyola (MD),0
+19,2021-01-31,UNLV,0,Nevada,0
+20,2021-01-31,New Hampshire,0,Binghamton,0
+21,2021-01-31,NJIT,0,Hartford,0
+22,2021-01-31,NC State,0,Syracuse,0
+23,2021-01-31,Northeastern,0,Drexel,0
+24,2021-01-31,Sacred Heart,0,Mount St. Mary's,0
+25,2021-01-31,Stony Brook,0,Vermont,0
+26,2021-01-31,Tulane,0,Temple,0
+27,2021-01-31,William & Mary,0,Towson,0
+0,2021-02-01,Oklahoma,0,Texas Tech,0
+1,2021-02-01,Duke,0,Miami (FL),0
+2,2021-02-01,Alabama A&M,0,Texas Southern,0
+3,2021-02-01,Alabama State,0,Prairie View,0
+4,2021-02-01,Arkansas-Pine Bluff,0,Jackson State,0
+5,2021-02-01,Delaware State,0,Morgan State,0
+6,2021-02-01,Mississippi Valley State,0,Grambling,0
+0,2021-02-02,Baylor,0,Texas,0
+1,2021-02-02,Kansas State,0,Kansas,0
+2,2021-02-02,West Virginia,0,Iowa State,0
+3,2021-02-02,Tennessee,0,Ole Miss,0
+4,2021-02-02,Penn State,0,Wisconsin,0
+5,2021-02-02,Illinois,0,Indiana,0
+6,2021-02-02,Florida State,0,Boston College,0
+7,2021-02-02,Kentucky,0,Missouri,0
+8,2021-02-02,UNC,0,Clemson,0
+9,2021-02-02,Akron,0,Toledo,0
+10,2021-02-02,Bowling Green State,0,Eastern Michigan,0
+11,2021-02-02,Buffalo,0,Ball State,0
+12,2021-02-02,Butler,0,Marquette,0
+13,2021-02-02,Dayton,0,Duquesne,0
+14,2021-02-02,George Mason,0,Richmond,0
+15,2021-02-02,Georgia,0,Auburn,0
+16,2021-02-02,Miami (OH),0,Kent State,0
+17,2021-02-02,Mississippi State,0,Arkansas,0
+18,2021-02-02,UNLV,0,Nevada,0
+19,2021-02-02,Northern Illinois,0,Western Michigan,0
+20,2021-02-02,Ohio,0,Central Michigan,0
+21,2021-02-02,Purdue,0,Maryland,0
+22,2021-02-02,Southern Illinois,0,Valparaiso,0
+23,2021-02-02,Wake Forest,0,Notre Dame,0
+0,2021-02-03,Nebraska,0,Michigan State,0
+1,2021-02-03,Houston,0,East Carolina,0
+2,2021-02-03,Villanova,0,St. John's (NY),0
+3,2021-02-03,Georgetown,0,Creighton,0
+4,2021-02-03,Virginia,0,NC State,0
+5,2021-02-03,San Diego State,0,New Mexico,0
+6,2021-02-03,Louisville,0,Syracuse,0
+7,2021-02-03,Michigan,0,Northwestern,0
+8,2021-02-03,UCF,0,Memphis,0
+9,2021-02-03,Chattanooga,0,Western Carolina,0
+10,2021-02-03,Citadel,0,UNC Greensboro,0
+11,2021-02-03,Davidson,0,La Salle,0
+12,2021-02-03,DePaul,0,Xavier,0
+13,2021-02-03,ETSU,0,Mercer,0
+14,2021-02-03,Evansville,0,Loyola (IL),0
+15,2021-02-03,Fordham,0,UMass,0
+16,2021-02-03,Furman,0,Samford,0
+17,2021-02-03,Illinois State,0,Drake,0
+18,2021-02-03,Indiana State,0,Northern Iowa,0
+19,2021-02-03,LSU,0,Alabama,0
+20,2021-02-03,Missouri State,0,Bradley,0
+21,2021-02-03,Oklahoma State,0,TCU,0
+22,2021-02-03,Seton Hall,0,Providence,0
+23,2021-02-03,South Carolina,0,Florida,0
+24,2021-02-03,South Florida,0,Tulsa,0
+25,2021-02-03,St. Bonaventure,0,St. Joseph's,0
+26,2021-02-03,Tulane,0,Wichita State,0
+27,2021-02-03,Vanderbilt,0,Texas A&M,0
+28,2021-02-03,VCU,0,Rhode Island,0
+29,2021-02-03,VMI,0,Wofford,0
+30,2021-02-03,Virginia Tech,0,Pitt,0
+0,2021-02-04,Loyola Marymount,0,Gonzaga,0
+1,2021-02-04,Ohio State,0,Iowa,0
+2,2021-02-04,Minnesota,0,Rutgers,0
+3,2021-02-04,Arizona,0,Utah,0
+4,2021-02-04,Arizona State,0,Colorado,0
+5,2021-02-04,Austin Peay,0,Eastern Kentucky,0
+6,2021-02-04,Belmont,0,Eastern Illinois,0
+7,2021-02-04,BYU,0,Portland,0
+8,2021-02-04,Charleston Southern,0,High Point,0
+9,2021-02-04,Colorado State,0,Wyoming,0
+10,2021-02-04,Eastern Washington,0,Idaho,0
+11,2021-02-04,Fairleigh Dickinson,0,LIU,0
+12,2021-02-04,Gardner-Webb,0,Winthrop,0
+13,2021-02-04,Hampton,0,Longwood,0
+14,2021-02-04,Jacksonville State,0,UT-Martin,0
+15,2021-02-04,Montana,0,Portland State,0
+16,2021-02-04,Montana State,0,Weber State,0
+17,2021-02-04,Mount St. Mary's,0,Bryant,0
+18,2021-02-04,Murray State,0,Morehead State,0
+19,2021-02-04,UNC Asheville,0,USC Upstate,0
+20,2021-02-04,Northern Arizona,0,Sacramento State,0
+21,2021-02-04,Northern Colorado,0,Southern Utah,0
+22,2021-02-04,Radford,0,Campbell,0
+23,2021-02-04,Sacred Heart,0,Central Connecticut,0
+24,2021-02-04,Saint Francis (PA),0,Merrimack,0
+25,2021-02-04,San Diego,0,Pepperdine,0
+26,2021-02-04,San Francisco,0,Pacific,0
+27,2021-02-04,Santa Clara,0,Saint Mary's,0
+28,2021-02-04,Stanford,0,California,0
+29,2021-02-04,Temple,0,Cincinnati,0
+30,2021-02-04,Tennessee State,0,SIU-Edwardsville,0
+31,2021-02-04,Tennessee Tech,0,Southeast Missouri State,0
+32,2021-02-04,Utah State,0,Fresno State,0
+33,2021-02-04,Wagner,0,St. Francis (NY),0
+34,2021-02-04,Washington,0,Oregon State,0
+35,2021-02-04,Washington State,0,Oregon,0
+0,2021-02-05,San Diego State,0,New Mexico,0
+1,2021-02-05,Air Force,0,UNLV,0
+2,2021-02-05,Appalachian State,0,Georgia State,0
+3,2021-02-05,Little Rock,0,Texas State,0
+4,2021-02-05,Boise State,0,Nevada,0
+5,2021-02-05,Cal State Bakersfield,0,UC-Irvine,0
+6,2021-02-05,California Baptist,0,New Mexico State,0
+7,2021-02-05,UC-Davis,0,Cal State Northridge,0
+8,2021-02-05,UC-Riverside,0,Cal State Fullerton,0
+9,2021-02-05,Charleston Southern,0,High Point,0
+10,2021-02-05,Charlotte,0,Middle Tennessee,0
+11,2021-02-05,Cleveland State,0,Oakland,0
+12,2021-02-05,Coastal Carolina,0,South Alabama,0
+13,2021-02-05,Fairfield,0,Manhattan,0
+14,2021-02-05,Fairleigh Dickinson,0,LIU,0
+15,2021-02-05,Gardner-Webb,0,Winthrop,0
+16,2021-02-05,Georgia Southern,0,Troy,0
+17,2021-02-05,Grand Canyon,0,Texas-Rio Grande Valley,0
+18,2021-02-05,Hampton,0,Longwood,0
+19,2021-02-05,Hawaii,0,UC-San Diego,0
+20,2021-02-05,Purdue-Fort Wayne,0,Detroit,0
+21,2021-02-05,IUPUI,0,Green Bay,0
+22,2021-02-05,Jacksonville,0,Bellarmine,0
+23,2021-02-05,Kennesaw State,0,Lipscomb,0
+24,2021-02-05,Long Beach State,0,UCSB,0
+25,2021-02-05,Louisiana,0,Arkansas State,0
+26,2021-02-05,Louisiana-Monroe,0,Texas-Arlington,0
+27,2021-02-05,Louisiana Tech,0,North Texas,0
+28,2021-02-05,Marist,0,Monmouth,0
+29,2021-02-05,Marshall,0,Old Dominion,0
+30,2021-02-05,Maryland,0,Penn State,0
+31,2021-02-05,Mount St. Mary's,0,Bryant,0
+32,2021-02-05,Niagara,0,Quinnipiac,0
+33,2021-02-05,UNC Asheville,0,USC Upstate,0
+34,2021-02-05,North Dakota,0,Denver,0
+35,2021-02-05,North Florida,0,Liberty,0
+36,2021-02-05,Northern Kentucky,0,Milwaukee,0
+37,2021-02-05,Oral Roberts,0,North Dakota State,0
+38,2021-02-05,Radford,0,Campbell,0
+39,2021-02-05,Richmond,0,Dayton,0
+40,2021-02-05,Saint Francis (PA),0,Merrimack,0
+41,2021-02-05,Seattle,0,Dixie State,0
+42,2021-02-05,Siena,0,Iona,0
+43,2021-02-05,South Dakota,0,South Dakota State,0
+44,2021-02-05,Southern Miss,0,Rice,0
+45,2021-02-05,Stetson,0,Florida Gulf Coast,0
+46,2021-02-05,UTEP,0,Alabama-Birmingham,0
+47,2021-02-05,UTSA,0,Florida International,0
+48,2021-02-05,Utah Valley,0,Chicago State,0
+49,2021-02-05,Wagner,0,St. Francis (NY),0
+50,2021-02-05,Western Kentucky,0,Florida Atlantic,0
+51,2021-02-05,Wright State,0,UIC,0
+52,2021-02-05,Youngstown State,0,Robert Morris,0
+0,2021-02-06,BYU,0,Gonzaga,0
+1,2021-02-06,TCU,0,Baylor,0
+2,2021-02-06,Michigan State,0,Michigan,0
+3,2021-02-06,Kansas,0,West Virginia,0
+4,2021-02-06,Creighton,0,Marquette,0
+5,2021-02-06,Tennessee,0,Kentucky,0
+6,2021-02-06,Texas,0,Oklahoma State,0
+7,2021-02-06,Wisconsin,0,Illinois,0
+8,2021-02-06,Texas Tech,0,Kansas State,0
+9,2021-02-06,Alabama,0,Missouri,0
+10,2021-02-06,Louisville,0,Virginia,0
+11,2021-02-06,UNC,0,Duke,0
+12,2021-02-06,Syracuse,0,Clemson,0
+13,2021-02-06,Abilene Christian,0,Lamar,0
+14,2021-02-06,Albany (NY),0,Maine,0
+15,2021-02-06,Appalachian State,0,Georgia State,0
+16,2021-02-06,Arizona,0,Colorado,0
+17,2021-02-06,Arizona State,0,Utah,0
+18,2021-02-06,Little Rock,0,Texas State,0
+19,2021-02-06,Arkansas-Pine Bluff,0,Alabama State,0
+20,2021-02-06,Austin Peay,0,Morehead State,0
+21,2021-02-06,Belmont,0,SIU-Edwardsville,0
+22,2021-02-06,Boston University,0,Colgate,0
+23,2021-02-06,Bradley,0,Evansville,0
+24,2021-02-06,Bucknell,0,Loyola (MD),0
+25,2021-02-06,Cal State Bakersfield,0,UC-Irvine,0
+26,2021-02-06,California Baptist,0,New Mexico State,0
+27,2021-02-06,UC-Davis,0,Cal State Northridge,0
+28,2021-02-06,UC-Riverside,0,Cal State Fullerton,0
+29,2021-02-06,Central Michigan,0,Northern Illinois,0
+30,2021-02-06,Charlotte,0,Middle Tennessee,0
+31,2021-02-06,Cleveland State,0,Oakland,0
+32,2021-02-06,Coastal Carolina,0,South Alabama,0
+33,2021-02-06,Colorado State,0,Wyoming,0
+34,2021-02-06,Davidson,0,Fordham,0
+35,2021-02-06,Delaware,0,Northeastern,0
+36,2021-02-06,Drake,0,Missouri State,0
+37,2021-02-06,Drexel,0,Hofstra,0
+38,2021-02-06,East Carolina,0,Memphis,0
+39,2021-02-06,ETSU,0,Chattanooga,0
+40,2021-02-06,Eastern Michigan,0,Ohio,0
+41,2021-02-06,Fairfield,0,Manhattan,0
+42,2021-02-06,Florida,0,LSU,0
+43,2021-02-06,Florida A&M,0,North Carolina A&T,0
+44,2021-02-06,George Mason,0,St. Bonaventure,0
+45,2021-02-06,Georgia Southern,0,Troy,0
+46,2021-02-06,Grambling,0,Southern,0
+47,2021-02-06,Grand Canyon,0,Texas-Rio Grande Valley,0
+48,2021-02-06,Hawaii,0,UC-San Diego,0
+49,2021-02-06,Holy Cross,0,Army,0
+50,2021-02-06,Houston Baptist,0,Northwestern State,0
+51,2021-02-06,Howard,0,Coppin State,0
+52,2021-02-06,Idaho,0,Eastern Washington,0
+53,2021-02-06,Illinois State,0,Valparaiso,0
+54,2021-02-06,Incarnate Word,0,Texas A&M-Corpus Christi,0
+55,2021-02-06,Indiana State,0,Southern Illinois,0
+56,2021-02-06,Iowa State,0,Oklahoma,0
+57,2021-02-06,Purdue-Fort Wayne,0,Detroit,0
+58,2021-02-06,IUPUI,0,Green Bay,0
+59,2021-02-06,Jackson State,0,Alcorn State,0
+60,2021-02-06,Jacksonville,0,Bellarmine,0
+61,2021-02-06,Jacksonville State,0,Southeast Missouri State,0
+62,2021-02-06,James Madison,0,William & Mary,0
+63,2021-02-06,Kennesaw State,0,Lipscomb,0
+64,2021-02-06,Kent State,0,Akron,0
+65,2021-02-06,La Salle,0,St. Joseph's,0
+66,2021-02-06,Lehigh,0,Lafayette,0
+67,2021-02-06,Long Beach State,0,UCSB,0
+68,2021-02-06,Louisiana,0,Arkansas State,0
+69,2021-02-06,Louisiana-Monroe,0,Texas-Arlington,0
+70,2021-02-06,Louisiana Tech,0,North Texas,0
+71,2021-02-06,Loyola (IL),0,Northern Iowa,0
+72,2021-02-06,Loyola Marymount,0,Saint Mary's,0
+73,2021-02-06,Marist,0,Monmouth,0
+74,2021-02-06,Marshall,0,Old Dominion,0
+75,2021-02-06,UMass,0,Rhode Island,0
+76,2021-02-06,McNeese State,0,Central Arkansas,0
+77,2021-02-06,Miami (OH),0,Buffalo,0
+78,2021-02-06,Ole Miss,0,Auburn,0
+79,2021-02-06,Mississippi State,0,South Carolina,0
+80,2021-02-06,Mississippi Valley State,0,Alabama A&M,0
+81,2021-02-06,Montana,0,Portland State,0
+82,2021-02-06,Montana State,0,Weber State,0
+83,2021-02-06,Murray State,0,Eastern Kentucky,0
+84,2021-02-06,Navy,0,American,0
+85,2021-02-06,Niagara,0,Quinnipiac,0
+86,2021-02-06,Nicholls State,0,Sam Houston State,0
+87,2021-02-06,Norfolk State,0,Delaware State,0
+88,2021-02-06,NC State,0,Boston College,0
+89,2021-02-06,UNC Wilmington,0,Elon,0
+90,2021-02-06,North Dakota,0,Denver,0
+91,2021-02-06,North Florida,0,Liberty,0
+92,2021-02-06,Northern Arizona,0,Sacramento State,0
+93,2021-02-06,Northern Colorado,0,Southern Utah,0
+94,2021-02-06,Northern Kentucky,0,Milwaukee,0
+95,2021-02-06,Northwestern,0,Purdue,0
+96,2021-02-06,Notre Dame,0,Georgia Tech,0
+97,2021-02-06,Oral Roberts,0,North Dakota State,0
+98,2021-02-06,Pacific,0,San Diego,0
+99,2021-02-06,Prairie View,0,Texas Southern,0
+100,2021-02-06,Rider,0,St. Peter's,0
+101,2021-02-06,Saint Louis,0,George Washington,0
+102,2021-02-06,Samford,0,UNC Greensboro,0
+103,2021-02-06,San Francisco,0,Pepperdine,0
+104,2021-02-06,Seattle,0,Dixie State,0
+105,2021-02-06,Seton Hall,0,UConn,0
+106,2021-02-06,Siena,0,Iona,0
+107,2021-02-06,South Dakota,0,South Dakota State,0
+108,2021-02-06,South Florida,0,SMU,0
+109,2021-02-06,Southern Miss,0,Rice,0
+110,2021-02-06,St. John's (NY),0,Providence,0
+111,2021-02-06,Stephen F. Austin,0,New Orleans,0
+112,2021-02-06,Stetson,0,Florida Gulf Coast,0
+113,2021-02-06,Tennessee State,0,Eastern Illinois,0
+114,2021-02-06,Tennessee Tech,0,UT-Martin,0
+115,2021-02-06,Texas A&M,0,Arkansas,0
+116,2021-02-06,UTEP,0,Alabama-Birmingham,0
+117,2021-02-06,UTSA,0,Florida International,0
+118,2021-02-06,Toledo,0,Ball State,0
+119,2021-02-06,Towson,0,College of Charleston,0
+120,2021-02-06,Tulsa,0,UCF,0
+121,2021-02-06,UCLA,0,USC,0
+122,2021-02-06,Utah State,0,Fresno State,0
+123,2021-02-06,Utah Valley,0,Chicago State,0
+124,2021-02-06,Vanderbilt,0,Georgia,0
+125,2021-02-06,Virginia Tech,0,Miami (FL),0
+126,2021-02-06,Washington,0,Oregon,0
+127,2021-02-06,Washington State,0,Oregon State,0
+128,2021-02-06,Western Carolina,0,Citadel,0
+129,2021-02-06,Western Illinois,0,Omaha,0
+130,2021-02-06,Western Kentucky,0,Florida Atlantic,0
+131,2021-02-06,Western Michigan,0,Bowling Green State,0
+132,2021-02-06,Wofford,0,Furman,0
+133,2021-02-06,Wright State,0,UIC,0
+134,2021-02-06,Youngstown State,0,Robert Morris,0
+0,2021-02-07,Iowa,0,Indiana,0
+1,2021-02-07,Xavier,0,Villanova,0
+2,2021-02-07,Air Force,0,UNLV,0
+3,2021-02-07,Albany (NY),0,Maine,0
+4,2021-02-07,American,0,Navy,0
+5,2021-02-07,Army,0,Holy Cross,0
+6,2021-02-07,Boise State,0,Nevada,0
+7,2021-02-07,Boston University,0,Colgate,0
+8,2021-02-07,Cincinnati,0,Tulane,0
+9,2021-02-07,Delaware,0,Northeastern,0
+10,2021-02-07,Drexel,0,Hofstra,0
+11,2021-02-07,James Madison,0,William & Mary,0
+12,2021-02-07,Lafayette,0,Lehigh,0
+13,2021-02-07,Loyola (MD),0,Bucknell,0
+14,2021-02-07,UNC Wilmington,0,Elon,0
+15,2021-02-07,Pitt,0,Wake Forest,0
+16,2021-02-07,Rider,0,St. Peter's,0
+17,2021-02-07,Temple,0,Wichita State,0
+18,2021-02-07,Towson,0,College of Charleston,0
+19,2021-02-07,VCU,0,Duquesne,0
+20,2021-02-07,Western Illinois,0,Omaha,0
+0,2021-02-08,Oklahoma State,0,Kansas,0
+1,2021-02-08,San Jose State,0,San Diego State,0
+2,2021-02-08,Ohio State,0,Maryland,0
+3,2021-02-08,Miami (FL),0,UNC,0
+4,2021-02-08,Arkansas-Pine Bluff,0,Alabama A&M,0
+5,2021-02-08,Florida A&M,0,North Carolina Central,0
+6,2021-02-08,Grambling,0,Alcorn State,0
+7,2021-02-08,Howard,0,Morgan State,0
+8,2021-02-08,Jackson State,0,Southern,0
+9,2021-02-08,Mississippi Valley State,0,Alabama State,0
+10,2021-02-08,Nebraska,0,Minnesota,0
+11,2021-02-08,SMU,0,East Carolina,0
+0,2021-02-09,Penn State,0,Michigan State,0
+1,2021-02-09,West Virginia,0,Texas Tech,0
+2,2021-02-09,Texas,0,Kansas State,0
+3,2021-02-09,Florida State,0,Virginia Tech,0
+4,2021-02-09,Notre Dame,0,Duke,0
+5,2021-02-09,Akron,0,Ohio,0
+6,2021-02-09,Alabama,0,South Carolina,0
+7,2021-02-09,Arkansas,0,Kentucky,0
+8,2021-02-09,Auburn,0,Vanderbilt,0
+9,2021-02-09,Ball State,0,Central Michigan,0
+10,2021-02-09,Bradley,0,Indiana State,0
+11,2021-02-09,Dayton,0,UMass,0
+12,2021-02-09,Eastern Michigan,0,Miami (OH),0
+13,2021-02-09,George Washington,0,Richmond,0
+14,2021-02-09,Iowa State,0,TCU,0
+15,2021-02-09,Kent State,0,Bowling Green State,0
+16,2021-02-09,Southern Illinois,0,Loyola (IL),0
+17,2021-02-09,Syracuse,0,NC State,0
+18,2021-02-09,Toledo,0,Northern Illinois,0
+19,2021-02-09,Western Michigan,0,Buffalo,0
+0,2021-02-10,Baylor,0,Oklahoma,0
+1,2021-02-10,Rutgers,0,Iowa,0
+2,2021-02-10,Houston,0,Temple,0
+3,2021-02-10,Florida,0,Tennessee,0
+4,2021-02-10,Missouri,0,Ole Miss,0
+5,2021-02-10,Virginia,0,Georgia Tech,0
+6,2021-02-10,San Jose State,0,San Diego State,0
+7,2021-02-10,Pitt,0,Louisville,0
+8,2021-02-10,Little Rock,0,Arkansas State,0
+9,2021-02-10,Central Arkansas,0,New Orleans,0
+10,2021-02-10,Chattanooga,0,Wofford,0
+11,2021-02-10,Delaware State,0,Howard,0
+12,2021-02-10,ETSU,0,Citadel,0
+13,2021-02-10,Florida A&M,0,South Carolina State,0
+14,2021-02-10,Fordham,0,George Mason,0
+15,2021-02-10,Furman,0,UNC Greensboro,0
+16,2021-02-10,Georgia,0,Texas A&M,0
+17,2021-02-10,Houston Baptist,0,Abilene Christian,0
+18,2021-02-10,Indiana,0,Northwestern,0
+19,2021-02-10,LSU,0,Mississippi State,0
+20,2021-02-10,Mercer,0,Samford,0
+21,2021-02-10,Missouri State,0,Illinois State,0
+22,2021-02-10,Morgan State,0,Coppin State,0
+23,2021-02-10,Nicholls State,0,Lamar,0
+24,2021-02-10,Northern Iowa,0,Evansville,0
+25,2021-02-10,Northwestern State,0,Incarnate Word,0
+26,2021-02-10,Old Dominion,0,Charlotte,0
+27,2021-02-10,Rhode Island,0,Saint Louis,0
+28,2021-02-10,Southeastern Louisiana,0,Sam Houston State,0
+29,2021-02-10,Texas A&M-Corpus Christi,0,Stephen F. Austin,0
+30,2021-02-10,Tulsa,0,Tulane,0
+31,2021-02-10,Valparaiso,0,Drake,0
+32,2021-02-10,VMI,0,Western Carolina,0
+33,2021-02-10,Wake Forest,0,Boston College,0
+34,2021-02-10,Wichita State,0,UCF,0
+0,2021-02-11,Gonzaga,0,Santa Clara,0
+1,2021-02-11,Wisconsin,0,Nebraska,0
+2,2021-02-11,Illinois,0,Michigan,0
+3,2021-02-11,Bryant,0,Sacred Heart,0
+4,2021-02-11,Campbell,0,UNC Asheville,0
+5,2021-02-11,Cincinnati,0,Memphis,0
+6,2021-02-11,Coastal Carolina,0,Appalachian State,0
+7,2021-02-11,Colorado,0,Stanford,0
+8,2021-02-11,Delaware,0,Drexel,0
+9,2021-02-11,Eastern Illinois,0,Jacksonville State,0
+10,2021-02-11,Eastern Kentucky,0,Belmont,0
+11,2021-02-11,Eastern Washington,0,Montana State,0
+12,2021-02-11,Fairleigh Dickinson,0,Wagner,0
+13,2021-02-11,Fresno State,0,Air Force,0
+14,2021-02-11,Georgia Southern,0,Georgia State,0
+15,2021-02-11,High Point,0,Gardner-Webb,0
+16,2021-02-11,Idaho,0,Idaho State,0
+17,2021-02-11,LIU,0,Mount St. Mary's,0
+18,2021-02-11,Longwood,0,Charleston Southern,0
+19,2021-02-11,Louisiana-Monroe,0,Louisiana,0
+20,2021-02-11,Merrimack,0,Central Connecticut,0
+21,2021-02-11,Morehead State,0,Tennessee State,0
+22,2021-02-11,UNLV,0,Boise State,0
+23,2021-02-11,New Mexico,0,Colorado State,0
+24,2021-02-11,Oregon,0,Arizona State,0
+25,2021-02-11,Oregon State,0,Arizona,0
+26,2021-02-11,Pepperdine,0,Loyola Marymount,0
+27,2021-02-11,Portland,0,San Francisco,0
+28,2021-02-11,Portland State,0,Northern Arizona,0
+29,2021-02-11,Presbyterian,0,Hampton,0
+30,2021-02-11,Purdue,0,Minnesota,0
+31,2021-02-11,Sacramento State,0,Northern Colorado,0
+32,2021-02-11,Saint Mary's,0,BYU,0
+33,2021-02-11,Southeast Missouri State,0,Murray State,0
+34,2021-02-11,USC,0,Washington,0
+35,2021-02-11,SIU-Edwardsville,0,Tennessee Tech,0
+36,2021-02-11,St. Francis (NY),0,Saint Francis (PA),0
+37,2021-02-11,UT-Martin,0,Austin Peay,0
+38,2021-02-11,Texas State,0,Texas-Arlington,0
+39,2021-02-11,Troy,0,South Alabama,0
+40,2021-02-11,UCLA,0,Washington State,0
+41,2021-02-11,Utah,0,California,0
+42,2021-02-11,Weber State,0,Montana,0
+43,2021-02-11,Winthrop,0,Radford,0
+44,2021-02-11,Wyoming,0,Utah State,0
+0,2021-02-12,Alabama-Birmingham,0,Louisiana Tech,0
+1,2021-02-12,Bellarmine,0,North Florida,0
+2,2021-02-12,Bryant,0,Sacred Heart,0
+3,2021-02-12,Cal State Fullerton,0,Cal Poly,0
+4,2021-02-12,Cal State Northridge,0,Grand Canyon,0
+5,2021-02-12,UC-Irvine,0,UC-Riverside,0
+6,2021-02-12,UC-San Diego,0,Cal State Bakersfield,0
+7,2021-02-12,UCSB,0,Hawaii,0
+8,2021-02-12,Campbell,0,UNC Asheville,0
+9,2021-02-12,Canisius,0,Rider,0
+10,2021-02-12,Chicago State,0,Tarleton State,0
+11,2021-02-12,Denver,0,Western Illinois,0
+12,2021-02-12,Detroit,0,Cleveland State,0
+13,2021-02-12,Dixie State,0,Utah Valley,0
+14,2021-02-12,Florida Atlantic,0,UTSA,0
+15,2021-02-12,Florida Gulf Coast,0,Kennesaw State,0
+16,2021-02-12,Florida International,0,UTEP,0
+17,2021-02-12,High Point,0,Gardner-Webb,0
+18,2021-02-12,UIC,0,IUPUI,0
+19,2021-02-12,Iona,0,Marist,0
+20,2021-02-12,Purdue-Fort Wayne,0,Youngstown State,0
+21,2021-02-12,Liberty,0,North Alabama,0
+22,2021-02-12,Lipscomb,0,Jacksonville,0
+23,2021-02-12,Long Beach State,0,UC-Davis,0
+24,2021-02-12,LIU,0,Mount St. Mary's,0
+25,2021-02-12,Longwood,0,Charleston Southern,0
+26,2021-02-12,Manhattan,0,Siena,0
+27,2021-02-12,Merrimack,0,Central Connecticut,0
+28,2021-02-12,Middle Tennessee,0,Marshall,0
+29,2021-02-12,Milwaukee,0,Wright State,0
+30,2021-02-12,Monmouth,0,Niagara,0
+31,2021-02-12,Omaha,0,UMKC,0
+32,2021-02-12,New Mexico State,0,Seattle,0
+33,2021-02-12,North Texas,0,Southern Miss,0
+34,2021-02-12,Northern Kentucky,0,Green Bay,0
+35,2021-02-12,Oakland,0,Robert Morris,0
+36,2021-02-12,Presbyterian,0,Hampton,0
+37,2021-02-12,Rice,0,Western Kentucky,0
+38,2021-02-12,Richmond,0,VCU,0
+39,2021-02-12,St. Peter's,0,Quinnipiac,0
+40,2021-02-12,South Dakota,0,North Dakota,0
+41,2021-02-12,St. Francis (NY),0,Saint Francis (PA),0
+42,2021-02-12,Texas-Rio Grande Valley,0,California Baptist,0
+43,2021-02-12,Winthrop,0,Radford,0
+0,2021-02-13,Gonzaga,0,San Francisco,0
+1,2021-02-13,Texas Tech,0,Baylor,0
+2,2021-02-13,Iowa,0,Michigan State,0
+3,2021-02-13,Kansas,0,Iowa State,0
+4,2021-02-13,Villanova,0,Creighton,0
+5,2021-02-13,Oklahoma,0,West Virginia,0
+6,2021-02-13,Tennessee,0,LSU,0
+7,2021-02-13,TCU,0,Texas,0
+8,2021-02-13,Wake Forest,0,Florida State,0
+9,2021-02-13,Arkansas,0,Missouri,0
+10,2021-02-13,UNC,0,Virginia,0
+11,2021-02-13,Northwestern,0,Rutgers,0
+12,2021-02-13,Indiana,0,Ohio State,0
+13,2021-02-13,Duke,0,NC State,0
+14,2021-02-13,Louisville,0,Virginia Tech,0
+15,2021-02-13,Georgia Tech,0,Clemson,0
+16,2021-02-13,Akron,0,Miami (OH),0
+17,2021-02-13,Alabama A&M,0,Alabama State,0
+18,2021-02-13,Alabama-Birmingham,0,Louisiana Tech,0
+19,2021-02-13,Alcorn State,0,Mississippi Valley State,0
+20,2021-02-13,American,0,Bucknell,0
+21,2021-02-13,Appalachian State,0,Coastal Carolina,0
+22,2021-02-13,Arkansas State,0,Little Rock,0
+23,2021-02-13,Auburn,0,Kentucky,0
+24,2021-02-13,Ball State,0,Eastern Michigan,0
+25,2021-02-13,Bellarmine,0,North Florida,0
+26,2021-02-13,Boston University,0,Army,0
+27,2021-02-13,Bowling Green State,0,Toledo,0
+28,2021-02-13,Buffalo,0,Central Michigan,0
+29,2021-02-13,Butler,0,Georgetown,0
+30,2021-02-13,Cal State Fullerton,0,Cal Poly,0
+31,2021-02-13,UC-Irvine,0,UC-Riverside,0
+32,2021-02-13,UC-San Diego,0,Cal State Bakersfield,0
+33,2021-02-13,UCSB,0,Hawaii,0
+34,2021-02-13,Canisius,0,Rider,0
+35,2021-02-13,Central Arkansas,0,Sam Houston State,0
+36,2021-02-13,Charlotte,0,Old Dominion,0
+37,2021-02-13,Chicago State,0,Tarleton State,0
+38,2021-02-13,Citadel,0,Chattanooga,0
+39,2021-02-13,Colgate,0,Holy Cross,0
+40,2021-02-13,Colorado,0,California,0
+41,2021-02-13,UConn,0,Xavier,0
+42,2021-02-13,Denver,0,Western Illinois,0
+43,2021-02-13,Detroit,0,Cleveland State,0
+44,2021-02-13,Dixie State,0,Utah Valley,0
+45,2021-02-13,Drexel,0,Delaware,0
+46,2021-02-13,Duquesne,0,George Mason,0
+47,2021-02-13,East Carolina,0,Temple,0
+48,2021-02-13,Eastern Illinois,0,Tennessee Tech,0
+49,2021-02-13,Eastern Kentucky,0,Tennessee State,0
+50,2021-02-13,Eastern Washington,0,Montana State,0
+51,2021-02-13,Elon,0,College of Charleston,0
+52,2021-02-13,Evansville,0,Indiana State,0
+53,2021-02-13,Florida Atlantic,0,UTSA,0
+54,2021-02-13,Florida Gulf Coast,0,Kennesaw State,0
+55,2021-02-13,Florida International,0,UTEP,0
+56,2021-02-13,Fresno State,0,Air Force,0
+57,2021-02-13,George Washington,0,La Salle,0
+58,2021-02-13,Georgia,0,Alabama,0
+59,2021-02-13,Georgia State,0,Georgia Southern,0
+60,2021-02-13,Hofstra,0,James Madison,0
+61,2021-02-13,Howard,0,Norfolk State,0
+62,2021-02-13,Idaho,0,Idaho State,0
+63,2021-02-13,UIC,0,IUPUI,0
+64,2021-02-13,Illinois State,0,Southern Illinois,0
+65,2021-02-13,Iona,0,Marist,0
+66,2021-02-13,Purdue-Fort Wayne,0,Youngstown State,0
+67,2021-02-13,Kansas State,0,Oklahoma State,0
+68,2021-02-13,Lafayette,0,Navy,0
+69,2021-02-13,Lamar,0,Houston Baptist,0
+70,2021-02-13,Liberty,0,North Alabama,0
+71,2021-02-13,Lipscomb,0,Jacksonville,0
+72,2021-02-13,Long Beach State,0,UC-Davis,0
+73,2021-02-13,Louisiana,0,Louisiana-Monroe,0
+74,2021-02-13,Loyola (IL),0,Bradley,0
+75,2021-02-13,Loyola (MD),0,Lehigh,0
+76,2021-02-13,Manhattan,0,Siena,0
+77,2021-02-13,McNeese State,0,Northwestern State,0
+78,2021-02-13,Middle Tennessee,0,Marshall,0
+79,2021-02-13,Milwaukee,0,Wright State,0
+80,2021-02-13,Ole Miss,0,South Carolina,0
+81,2021-02-13,Monmouth,0,Niagara,0
+82,2021-02-13,Morehead State,0,Belmont,0
+83,2021-02-13,Omaha,0,UMKC,0
+84,2021-02-13,Nevada,0,San Jose State,0
+85,2021-02-13,UNLV,0,Boise State,0
+86,2021-02-13,New Mexico,0,Colorado State,0
+87,2021-02-13,New Mexico State,0,Seattle,0
+88,2021-02-13,New Orleans,0,Incarnate Word,0
+89,2021-02-13,Nicholls State,0,Southeastern Louisiana,0
+90,2021-02-13,North Carolina Central,0,South Carolina State,0
+91,2021-02-13,UNC Greensboro,0,Mercer,0
+92,2021-02-13,North Texas,0,Southern Miss,0
+93,2021-02-13,Northeastern,0,Towson,0
+94,2021-02-13,Northern Colorado,0,Sacramento State,0
+95,2021-02-13,Northern Illinois,0,Kent State,0
+96,2021-02-13,Northern Kentucky,0,Green Bay,0
+97,2021-02-13,Oakland,0,Robert Morris,0
+98,2021-02-13,Ohio,0,Western Michigan,0
+99,2021-02-13,Oregon,0,Arizona,0
+100,2021-02-13,Pacific,0,Loyola Marymount,0
+101,2021-02-13,Pitt,0,Syracuse,0
+102,2021-02-13,Portland,0,Santa Clara,0
+103,2021-02-13,Portland State,0,Northern Arizona,0
+104,2021-02-13,Prairie View,0,Jackson State,0
+105,2021-02-13,Providence,0,DePaul,0
+106,2021-02-13,Rhode Island,0,Davidson,0
+107,2021-02-13,Rice,0,Western Kentucky,0
+108,2021-02-13,St. Joseph's,0,Dayton,0
+109,2021-02-13,Saint Louis,0,Fordham,0
+110,2021-02-13,Saint Mary's,0,Pepperdine,0
+111,2021-02-13,St. Peter's,0,Quinnipiac,0
+112,2021-02-13,Samford,0,VMI,0
+113,2021-02-13,San Diego,0,BYU,0
+114,2021-02-13,South Alabama,0,Troy,0
+115,2021-02-13,South Dakota,0,North Dakota,0
+116,2021-02-13,South Dakota State,0,Oral Roberts,0
+117,2021-02-13,Southeast Missouri State,0,Austin Peay,0
+118,2021-02-13,Southern,0,Arkansas-Pine Bluff,0
+119,2021-02-13,USC,0,Washington State,0
+120,2021-02-13,SIU-Edwardsville,0,Jacksonville State,0
+121,2021-02-13,SMU,0,Tulsa,0
+122,2021-02-13,UT-Martin,0,Murray State,0
+123,2021-02-13,Texas A&M,0,Florida,0
+124,2021-02-13,Texas A&M-Corpus Christi,0,Abilene Christian,0
+125,2021-02-13,Texas-Arlington,0,Texas State,0
+126,2021-02-13,Texas-Rio Grande Valley,0,California Baptist,0
+127,2021-02-13,Texas Southern,0,Grambling,0
+128,2021-02-13,Tulane,0,South Florida,0
+129,2021-02-13,UCLA,0,Washington,0
+130,2021-02-13,Utah,0,Stanford,0
+131,2021-02-13,Valparaiso,0,Missouri State,0
+132,2021-02-13,Vanderbilt,0,Mississippi State,0
+133,2021-02-13,Weber State,0,Montana,0
+134,2021-02-13,Western Carolina,0,Furman,0
+135,2021-02-13,William & Mary,0,UNC Wilmington,0
+136,2021-02-13,Wofford,0,ETSU,0
+137,2021-02-13,Wyoming,0,Utah State,0
+0,2021-02-14,Memphis,0,Houston,0
+1,2021-02-14,Michigan,0,Wisconsin,0
+2,2021-02-14,Boston University,0,Army,0
+3,2021-02-14,Bucknell,0,American,0
+4,2021-02-14,UCF,0,Cincinnati,0
+5,2021-02-14,Colgate,0,Holy Cross,0
+6,2021-02-14,Drake,0,Northern Iowa,0
+7,2021-02-14,Elon,0,College of Charleston,0
+8,2021-02-14,Hofstra,0,James Madison,0
+9,2021-02-14,Lehigh,0,Loyola (MD),0
+10,2021-02-14,Marquette,0,Seton Hall,0
+11,2021-02-14,Miami (FL),0,Notre Dame,0
+12,2021-02-14,Minnesota,0,Maryland,0
+13,2021-02-14,Navy,0,Lafayette,0
+14,2021-02-14,Nebraska,0,Penn State,0
+15,2021-02-14,Northeastern,0,Towson,0
+16,2021-02-14,Oregon State,0,Arizona State,0
+17,2021-02-14,South Dakota State,0,Oral Roberts,0
+18,2021-02-14,St. Bonaventure,0,UMass,0
+19,2021-02-14,William & Mary,0,UNC Wilmington,0
+0,2021-02-15,Baylor,0,West Virginia,0
+1,2021-02-15,Virginia,0,Florida State,0
+2,2021-02-15,Alcorn State,0,Arkansas-Pine Bluff,0
+3,2021-02-15,Coppin State,0,Howard,0
+4,2021-02-15,Fordham,0,VCU,0
+5,2021-02-15,Nevada,0,San Jose State,0
+6,2021-02-15,Norfolk State,0,Delaware State,0
+7,2021-02-15,Prairie View,0,Grambling,0
+8,2021-02-15,South Carolina State,0,North Carolina A&T,0
+9,2021-02-15,Southern,0,Mississippi Valley State,0
+10,2021-02-15,Texas Southern,0,Jackson State,0
+0,2021-02-16,Michigan State,0,Purdue,0
+1,2021-02-16,Kansas,0,Kansas State,0
+2,2021-02-16,South Carolina,0,Tennessee,0
+3,2021-02-16,Texas,0,Oklahoma,0
+4,2021-02-16,Northwestern,0,Illinois,0
+5,2021-02-16,Missouri,0,Georgia,0
+6,2021-02-16,Virginia Tech,0,UNC,0
+7,2021-02-16,Boston College,0,Georgia Tech,0
+8,2021-02-16,Bowling Green State,0,Ball State,0
+9,2021-02-16,Buffalo,0,Eastern Michigan,0
+10,2021-02-16,Central Michigan,0,Ohio,0
+11,2021-02-16,Dayton,0,Rhode Island,0
+12,2021-02-16,Florida,0,Arkansas,0
+13,2021-02-16,Iowa State,0,Oklahoma State,0
+14,2021-02-16,Kent State,0,Western Michigan,0
+15,2021-02-16,La Salle,0,Saint Louis,0
+16,2021-02-16,Loyola (IL),0,Illinois State,0
+17,2021-02-16,Miami (OH),0,Toledo,0
+18,2021-02-16,Mississippi State,0,Auburn,0
+19,2021-02-16,Northern Colorado,0,Colorado State,0
+20,2021-02-16,Northern Illinois,0,Akron,0
+21,2021-02-16,Providence,0,UConn,0
+22,2021-02-16,Temple,0,Tulsa,0
+23,2021-02-16,Xavier,0,St. John's (NY),0
+0,2021-02-17,East Carolina,0,Houston,0
+1,2021-02-17,Georgetown,0,Villanova,0
+2,2021-02-17,TCU,0,Texas Tech,0
+3,2021-02-17,Duke,0,Wake Forest,0
+4,2021-02-17,Syracuse,0,Louisville,0
+5,2021-02-17,Clemson,0,Notre Dame,0
+6,2021-02-17,Alabama,0,Texas A&M,0
+7,2021-02-17,Arizona State,0,USC,0
+8,2021-02-17,Citadel,0,Wofford,0
+9,2021-02-17,Coppin State,0,Delaware State,0
+10,2021-02-17,Drake,0,Bradley,0
+11,2021-02-17,Duquesne,0,Davidson,0
+12,2021-02-17,Evansville,0,Southern Illinois,0
+13,2021-02-17,Incarnate Word,0,McNeese State,0
+14,2021-02-17,Indiana State,0,Missouri State,0
+15,2021-02-17,Kentucky,0,Vanderbilt,0
+16,2021-02-17,LSU,0,Ole Miss,0
+17,2021-02-17,Marquette,0,Butler,0
+18,2021-02-17,Maryland,0,Nebraska,0
+19,2021-02-17,Mercer,0,ETSU,0
+20,2021-02-17,Minnesota,0,Indiana,0
+21,2021-02-17,UNC Greensboro,0,VMI,0
+22,2021-02-17,NC State,0,Pitt,0
+23,2021-02-17,Northern Iowa,0,Valparaiso,0
+24,2021-02-17,Northwestern State,0,Nicholls State,0
+25,2021-02-17,St. Joseph's,0,George Washington,0
+26,2021-02-17,Sam Houston State,0,Lamar,0
+27,2021-02-17,Samford,0,Furman,0
+28,2021-02-17,South Florida,0,UCF,0
+29,2021-02-17,Southeastern Louisiana,0,Texas A&M-Corpus Christi,0
+30,2021-02-17,Stephen F. Austin,0,Central Arkansas,0
+31,2021-02-17,Tulane,0,SMU,0
+32,2021-02-17,VCU,0,St. Bonaventure,0
+33,2021-02-17,Western Carolina,0,Chattanooga,0
+34,2021-02-17,Wyoming,0,New Mexico,0
+0,2021-02-18,Saint Mary's,0,Gonzaga,0
+1,2021-02-18,Iowa,0,Wisconsin,0
+2,2021-02-18,San Diego State,0,Fresno State,0
+3,2021-02-18,Rutgers,0,Michigan,0
+4,2021-02-18,Ohio State,0,Penn State,0
+5,2021-02-18,Arizona,0,UCLA,0
+6,2021-02-18,Binghamton,0,Albany (NY),0
+7,2021-02-18,BYU,0,Pacific,0
+8,2021-02-18,California,0,Washington State,0
+9,2021-02-18,Charleston Southern,0,Presbyterian,0
+10,2021-02-18,Colorado,0,Oregon,0
+11,2021-02-18,Eastern Illinois,0,Murray State,0
+12,2021-02-18,Eastern Kentucky,0,Southeast Missouri State,0
+13,2021-02-18,Gardner-Webb,0,Longwood,0
+14,2021-02-18,Hartford,0,Stony Brook,0
+15,2021-02-18,Idaho,0,Portland State,0
+16,2021-02-18,Idaho State,0,Montana State,0
+17,2021-02-18,Jacksonville State,0,Belmont,0
+18,2021-02-18,Loyola Marymount,0,San Francisco,0
+19,2021-02-18,Maine,0,UMass-Lowell,0
+20,2021-02-18,UMBC,0,NJIT,0
+21,2021-02-18,Memphis,0,Wichita State,0
+22,2021-02-18,Montana,0,Eastern Washington,0
+23,2021-02-18,Morehead State,0,UT-Martin,0
+24,2021-02-18,New Hampshire,0,Vermont,0
+25,2021-02-18,UNC Asheville,0,Winthrop,0
+26,2021-02-18,Northern Arizona,0,Weber State,0
+27,2021-02-18,Pepperdine,0,Portland,0
+28,2021-02-18,Radford,0,High Point,0
+29,2021-02-18,Sacramento State,0,Southern Utah,0
+30,2021-02-18,San Diego,0,Santa Clara,0
+31,2021-02-18,USC Upstate,0,Campbell,0
+32,2021-02-18,SIU-Edwardsville,0,Austin Peay,0
+33,2021-02-18,Stanford,0,Washington,0
+34,2021-02-18,Tennessee Tech,0,Tennessee State,0
+35,2021-02-18,Utah,0,Oregon State,0
+36,2021-02-18,Utah State,0,Boise State,0
+37,2021-02-18,William & Mary,0,Elon,0
+0,2021-02-19,Little Rock,0,Louisiana-Monroe,0
+1,2021-02-19,Binghamton,0,Albany (NY),0
+2,2021-02-19,Cal Poly,0,Long Beach State,0
+3,2021-02-19,Cal State Bakersfield,0,UCSB,0
+4,2021-02-19,California Baptist,0,Grand Canyon,0
+5,2021-02-19,UC-Irvine,0,Cal State Fullerton,0
+6,2021-02-19,UC-Riverside,0,UC-San Diego,0
+7,2021-02-19,Charleston Southern,0,Presbyterian,0
+8,2021-02-19,Cleveland State,0,Purdue-Fort Wayne,0
+9,2021-02-19,Colorado State,0,Nevada,0
+10,2021-02-19,Denver,0,UMKC,0
+11,2021-02-19,Fairfield,0,Monmouth,0
+12,2021-02-19,Gardner-Webb,0,Longwood,0
+13,2021-02-19,Georgia Southern,0,Coastal Carolina,0
+14,2021-02-19,Green Bay,0,UIC,0
+15,2021-02-19,Hartford,0,Stony Brook,0
+16,2021-02-19,Hawaii,0,Cal State Northridge,0
+17,2021-02-19,Iona,0,Canisius,0
+18,2021-02-19,IUPUI,0,Youngstown State,0
+19,2021-02-19,Jacksonville,0,Florida Gulf Coast,0
+20,2021-02-19,Kennesaw State,0,Stetson,0
+21,2021-02-19,Louisiana Tech,0,Middle Tennessee,0
+22,2021-02-19,Maine,0,UMass-Lowell,0
+23,2021-02-19,Marist,0,St. Peter's,0
+24,2021-02-19,Marshall,0,Rice,0
+25,2021-02-19,UMBC,0,NJIT,0
+26,2021-02-19,Morehead State,0,Southeast Missouri State,0
+27,2021-02-19,UNLV,0,San Jose State,0
+28,2021-02-19,New Hampshire,0,Vermont,0
+29,2021-02-19,Niagara,0,Manhattan,0
+30,2021-02-19,North Alabama,0,Bellarmine,0
+31,2021-02-19,UNC Asheville,0,Winthrop,0
+32,2021-02-19,North Dakota,0,Omaha,0
+33,2021-02-19,North Florida,0,Lipscomb,0
+34,2021-02-19,Oakland,0,Milwaukee,0
+35,2021-02-19,Old Dominion,0,Alabama-Birmingham,0
+36,2021-02-19,Quinnipiac,0,Siena,0
+37,2021-02-19,Radford,0,High Point,0
+38,2021-02-19,Robert Morris,0,Detroit,0
+39,2021-02-19,Saint Louis,0,Dayton,0
+40,2021-02-19,Seattle,0,Texas-Rio Grande Valley,0
+41,2021-02-19,South Alabama,0,Appalachian State,0
+42,2021-02-19,USC Upstate,0,Campbell,0
+43,2021-02-19,South Dakota State,0,North Dakota State,0
+44,2021-02-19,Southern Miss,0,Florida International,0
+45,2021-02-19,Tarleton State,0,Dixie State,0
+46,2021-02-19,Texas-Arlington,0,Louisiana,0
+47,2021-02-19,UTEP,0,Florida Atlantic,0
+48,2021-02-19,UTSA,0,Charlotte,0
+49,2021-02-19,Texas State,0,Arkansas State,0
+50,2021-02-19,Troy,0,Georgia State,0
+51,2021-02-19,Utah Valley,0,New Mexico State,0
+52,2021-02-19,Western Kentucky,0,North Texas,0
+53,2021-02-19,Wright State,0,Northern Kentucky,0
+54,2021-02-19,Wyoming,0,New Mexico,0
+0,2021-02-20,San Diego,0,Gonzaga,0
+1,2021-02-20,Oklahoma State,0,Baylor,0
+2,2021-02-20,Michigan State,0,Indiana,0
+3,2021-02-20,Texas Tech,0,Kansas,0
+4,2021-02-20,UConn,0,Villanova,0
+5,2021-02-20,West Virginia,0,Texas,0
+6,2021-02-20,Kentucky,0,Tennessee,0
+7,2021-02-20,Illinois,0,Minnesota,0
+8,2021-02-20,Virginia Tech,0,Florida State,0
+9,2021-02-20,Missouri,0,South Carolina,0
+10,2021-02-20,Virginia,0,Duke,0
+11,2021-02-20,San Diego State,0,Fresno State,0
+12,2021-02-20,Louisville,0,UNC,0
+13,2021-02-20,Abilene Christian,0,Southeastern Louisiana,0
+14,2021-02-20,Akron,0,Ball State,0
+15,2021-02-20,Alabama A&M,0,Southern,0
+16,2021-02-20,Alabama State,0,Alcorn State,0
+17,2021-02-20,Arizona,0,USC,0
+18,2021-02-20,Arizona State,0,UCLA,0
+19,2021-02-20,Arkansas,0,Texas A&M,0
+20,2021-02-20,Little Rock,0,Louisiana-Monroe,0
+21,2021-02-20,Arkansas-Pine Bluff,0,Texas Southern,0
+22,2021-02-20,Auburn,0,LSU,0
+23,2021-02-20,Boston College,0,Syracuse,0
+24,2021-02-20,BYU,0,Loyola Marymount,0
+25,2021-02-20,Bryant,0,Merrimack,0
+26,2021-02-20,Bucknell,0,Lafayette,0
+27,2021-02-20,Cal Poly,0,Long Beach State,0
+28,2021-02-20,Cal State Bakersfield,0,UCSB,0
+29,2021-02-20,California,0,Washington,0
+30,2021-02-20,California Baptist,0,Grand Canyon,0
+31,2021-02-20,UC-Irvine,0,Cal State Fullerton,0
+32,2021-02-20,UC-Riverside,0,UC-San Diego,0
+33,2021-02-20,Central Arkansas,0,Nicholls State,0
+34,2021-02-20,Central Connecticut,0,LIU,0
+35,2021-02-20,UCF,0,Tulane,0
+36,2021-02-20,Cleveland State,0,Purdue-Fort Wayne,0
+37,2021-02-20,Colgate,0,Lehigh,0
+38,2021-02-20,College of Charleston,0,Hofstra,0
+39,2021-02-20,Colorado,0,Oregon State,0
+40,2021-02-20,Davidson,0,St. Joseph's,0
+41,2021-02-20,Denver,0,UMKC,0
+42,2021-02-20,ETSU,0,Samford,0
+43,2021-02-20,Eastern Illinois,0,Austin Peay,0
+44,2021-02-20,Eastern Kentucky,0,UT-Martin,0
+45,2021-02-20,Eastern Michigan,0,Kent State,0
+46,2021-02-20,Eastern Washington,0,Montana,0
+47,2021-02-20,Elon,0,William & Mary,0
+48,2021-02-20,Fairfield,0,Monmouth,0
+49,2021-02-20,Fordham,0,Rhode Island,0
+50,2021-02-20,Furman,0,Mercer,0
+51,2021-02-20,George Mason,0,VCU,0
+52,2021-02-20,Georgia,0,Florida,0
+53,2021-02-20,Georgia Southern,0,Coastal Carolina,0
+54,2021-02-20,Georgia Tech,0,Miami (FL),0
+55,2021-02-20,Grambling,0,Jackson State,0
+56,2021-02-20,Green Bay,0,UIC,0
+57,2021-02-20,Hawaii,0,Cal State Northridge,0
+58,2021-02-20,Holy Cross,0,Boston University,0
+59,2021-02-20,Incarnate Word,0,Stephen F. Austin,0
+60,2021-02-20,Indiana State,0,Loyola (IL),0
+61,2021-02-20,Iona,0,Canisius,0
+62,2021-02-20,IUPUI,0,Youngstown State,0
+63,2021-02-20,Jacksonville,0,Florida Gulf Coast,0
+64,2021-02-20,Jacksonville State,0,Tennessee State,0
+65,2021-02-20,James Madison,0,Delaware,0
+66,2021-02-20,Kansas State,0,TCU,0
+67,2021-02-20,Kennesaw State,0,Stetson,0
+68,2021-02-20,Lamar,0,Texas A&M-Corpus Christi,0
+69,2021-02-20,Louisiana Tech,0,Middle Tennessee,0
+70,2021-02-20,Loyola (MD),0,American,0
+71,2021-02-20,Marist,0,St. Peter's,0
+72,2021-02-20,Marshall,0,Rice,0
+73,2021-02-20,UMass,0,Duquesne,0
+74,2021-02-20,Miami (OH),0,Northern Illinois,0
+75,2021-02-20,Mississippi State,0,Ole Miss,0
+76,2021-02-20,Mississippi Valley State,0,Prairie View,0
+77,2021-02-20,Missouri State,0,Evansville,0
+78,2021-02-20,Montana State,0,Idaho State,0
+79,2021-02-20,Morgan State,0,Coppin State,0
+80,2021-02-20,Mount St. Mary's,0,Fairleigh Dickinson,0
+81,2021-02-20,Navy,0,Army,0
+82,2021-02-20,New Orleans,0,McNeese State,0
+83,2021-02-20,Niagara,0,Manhattan,0
+84,2021-02-20,North Alabama,0,Bellarmine,0
+85,2021-02-20,North Carolina A&T,0,Florida A&M,0
+86,2021-02-20,NC State,0,Wake Forest,0
+87,2021-02-20,UNC Wilmington,0,Northeastern,0
+88,2021-02-20,North Dakota,0,Omaha,0
+89,2021-02-20,North Florida,0,Lipscomb,0
+90,2021-02-20,Northern Arizona,0,Weber State,0
+91,2021-02-20,Northern Iowa,0,Illinois State,0
+92,2021-02-20,Oakland,0,Milwaukee,0
+93,2021-02-20,Ohio,0,Bowling Green State,0
+94,2021-02-20,Oklahoma,0,Iowa State,0
+95,2021-02-20,Old Dominion,0,Alabama-Birmingham,0
+96,2021-02-20,Oral Roberts,0,South Dakota,0
+97,2021-02-20,Pacific,0,Portland,0
+98,2021-02-20,Pepperdine,0,Santa Clara,0
+99,2021-02-20,Portland State,0,Idaho,0
+100,2021-02-20,Purdue,0,Nebraska,0
+101,2021-02-20,Quinnipiac,0,Siena,0
+102,2021-02-20,Richmond,0,La Salle,0
+103,2021-02-20,Robert Morris,0,Detroit,0
+104,2021-02-20,Sacramento State,0,Southern Utah,0
+105,2021-02-20,Sacred Heart,0,St. Francis (NY),0
+106,2021-02-20,Saint Francis (PA),0,Wagner,0
+107,2021-02-20,Sam Houston State,0,Houston Baptist,0
+108,2021-02-20,Seattle,0,Texas-Rio Grande Valley,0
+109,2021-02-20,Seton Hall,0,Georgetown,0
+110,2021-02-20,South Alabama,0,Appalachian State,0
+111,2021-02-20,South Dakota State,0,North Dakota State,0
+112,2021-02-20,SIU-Edwardsville,0,Murray State,0
+113,2021-02-20,SMU,0,South Florida,0
+114,2021-02-20,Southern Miss,0,Florida International,0
+115,2021-02-20,St. John's (NY),0,Marquette,0
+116,2021-02-20,Tarleton State,0,Dixie State,0
+117,2021-02-20,Tennessee Tech,0,Belmont,0
+118,2021-02-20,Texas-Arlington,0,Louisiana,0
+119,2021-02-20,UTEP,0,Florida Atlantic,0
+120,2021-02-20,UTSA,0,Charlotte,0
+121,2021-02-20,Texas State,0,Arkansas State,0
+122,2021-02-20,Toledo,0,Buffalo,0
+123,2021-02-20,Towson,0,Drexel,0
+124,2021-02-20,Troy,0,Georgia State,0
+125,2021-02-20,Utah,0,Oregon,0
+126,2021-02-20,Utah State,0,Boise State,0
+127,2021-02-20,Utah Valley,0,New Mexico State,0
+128,2021-02-20,Vanderbilt,0,Alabama,0
+129,2021-02-20,VMI,0,Citadel,0
+130,2021-02-20,Western Kentucky,0,North Texas,0
+131,2021-02-20,Western Michigan,0,Central Michigan,0
+132,2021-02-20,Wofford,0,Western Carolina,0
+133,2021-02-20,Wright State,0,Northern Kentucky,0
+0,2021-02-21,Penn State,0,Iowa,0
+1,2021-02-21,Houston,0,Cincinnati,0
+2,2021-02-21,Wisconsin,0,Northwestern,0
+3,2021-02-21,Maryland,0,Rutgers,0
+4,2021-02-21,Michigan,0,Ohio State,0
+5,2021-02-21,Clemson,0,Pitt,0
+6,2021-02-21,American,0,Loyola (MD),0
+7,2021-02-21,Boston University,0,Holy Cross,0
+8,2021-02-21,Bradley,0,Valparaiso,0
+9,2021-02-21,Butler,0,Xavier,0
+10,2021-02-21,Central Connecticut,0,LIU,0
+11,2021-02-21,Chattanooga,0,UNC Greensboro,0
+12,2021-02-21,College of Charleston,0,Hofstra,0
+13,2021-02-21,Colorado State,0,Nevada,0
+14,2021-02-21,James Madison,0,Delaware,0
+15,2021-02-21,Lafayette,0,Bucknell,0
+16,2021-02-21,Lehigh,0,Colgate,0
+17,2021-02-21,Mount St. Mary's,0,Fairleigh Dickinson,0
+18,2021-02-21,Navy,0,Army,0
+19,2021-02-21,UNLV,0,San Jose State,0
+20,2021-02-21,UNC Wilmington,0,Northeastern,0
+21,2021-02-21,Oral Roberts,0,South Dakota,0
+22,2021-02-21,Sacred Heart,0,St. Francis (NY),0
+23,2021-02-21,Saint Francis (PA),0,Wagner,0
+24,2021-02-21,Southern Illinois,0,Drake,0
+25,2021-02-21,St. Bonaventure,0,George Washington,0
+26,2021-02-21,Stanford,0,Washington State,0
+27,2021-02-21,Temple,0,Memphis,0
+28,2021-02-21,Towson,0,Drexel,0
+29,2021-02-21,Wichita State,0,East Carolina,0
+0,2021-02-22,Kansas,0,Texas,0
+1,2021-02-22,West Virginia,0,TCU,0
+2,2021-02-22,Syracuse,0,Duke,0
+3,2021-02-22,Alabama A&M,0,Alcorn State,0
+4,2021-02-22,Alabama State,0,Southern,0
+5,2021-02-22,Arkansas-Pine Bluff,0,Prairie View,0
+6,2021-02-22,Mississippi Valley State,0,Texas Southern,0
+7,2021-02-22,Morgan State,0,Norfolk State,0
+8,2021-02-22,New Mexico,0,Air Force,0
+9,2021-02-22,North Carolina Central,0,Florida A&M,0
+0,2021-02-23,Iowa State,0,Baylor,0
+1,2021-02-23,Texas Tech,0,Oklahoma State,0
+2,2021-02-23,Ole Miss,0,Missouri,0
+3,2021-02-23,UNC,0,Boston College,0
+4,2021-02-23,Notre Dame,0,Louisville,0
+5,2021-02-23,Ball State,0,Western Michigan,0
+6,2021-02-23,Bowling Green State,0,Kent State,0
+7,2021-02-23,Buffalo,0,Miami (OH),0
+8,2021-02-23,UCF,0,SMU,0
+9,2021-02-23,Central Michigan,0,Eastern Michigan,0
+10,2021-02-23,Florida,0,Auburn,0
+11,2021-02-23,Fordham,0,Richmond,0
+12,2021-02-23,Georgia Tech,0,Virginia Tech,0
+13,2021-02-23,Illinois State,0,Indiana State,0
+14,2021-02-23,LSU,0,Georgia,0
+15,2021-02-23,New Orleans,0,Texas A&M-Corpus Christi,0
+16,2021-02-23,Northern Illinois,0,Toledo,0
+17,2021-02-23,Ohio,0,Akron,0
+18,2021-02-23,Oklahoma,0,Kansas State,0
+19,2021-02-23,Saint Louis,0,VCU,0
+20,2021-02-23,Texas A&M,0,Kentucky,0
+0,2021-02-24,DePaul,0,Creighton,0
+1,2021-02-24,Tennessee,0,Vanderbilt,0
+2,2021-02-24,Nebraska,0,Illinois,0
+3,2021-02-24,Florida State,0,Miami (FL),0
+4,2021-02-24,Pitt,0,Virginia,0
+5,2021-02-24,Indiana,0,Rutgers,0
+6,2021-02-24,Clemson,0,Wake Forest,0
+7,2021-02-24,Alabama,0,Arkansas,0
+8,2021-02-24,Bradley,0,Missouri State,0
+9,2021-02-24,Chattanooga,0,Mercer,0
+10,2021-02-24,Cincinnati,0,Tulsa,0
+11,2021-02-24,Citadel,0,Furman,0
+12,2021-02-24,Davidson,0,George Mason,0
+13,2021-02-24,ETSU,0,VMI,0
+14,2021-02-24,George Washington,0,Duquesne,0
+15,2021-02-24,Houston Baptist,0,Nicholls State,0
+16,2021-02-24,Howard,0,Delaware State,0
+17,2021-02-24,La Salle,0,St. Bonaventure,0
+18,2021-02-24,Lamar,0,Incarnate Word,0
+19,2021-02-24,Loyola (IL),0,Drake,0
+20,2021-02-24,UMass,0,St. Joseph's,0
+21,2021-02-24,McNeese State,0,Southeastern Louisiana,0
+22,2021-02-24,New Mexico,0,Air Force,0
+23,2021-02-24,Sam Houston State,0,Abilene Christian,0
+24,2021-02-24,South Carolina,0,Mississippi State,0
+25,2021-02-24,South Florida,0,Temple,0
+26,2021-02-24,Southern Illinois,0,Northern Iowa,0
+27,2021-02-24,Stephen F. Austin,0,Northwestern State,0
+28,2021-02-24,Tulane,0,Memphis,0
+29,2021-02-24,Valparaiso,0,Evansville,0
+30,2021-02-24,Western Carolina,0,UNC Greensboro,0
+31,2021-02-24,Wofford,0,Samford,0
+0,2021-02-25,Gonzaga,0,Pacific,0
+1,2021-02-25,Ohio State,0,Michigan State,0
+2,2021-02-25,Houston,0,Wichita State,0
+3,2021-02-25,Boise State,0,San Diego State,0
+4,2021-02-25,Austin Peay,0,Tennessee Tech,0
+5,2021-02-25,Belmont,0,Eastern Kentucky,0
+6,2021-02-25,College of Charleston,0,UNC Wilmington,0
+7,2021-02-25,Fairleigh Dickinson,0,Sacred Heart,0
+8,2021-02-25,Fresno State,0,UNLV,0
+9,2021-02-25,LIU,0,Bryant,0
+10,2021-02-25,Loyola Marymount,0,Pepperdine,0
+11,2021-02-25,Montana,0,Idaho State,0
+12,2021-02-25,Montana State,0,Idaho,0
+13,2021-02-25,Mount St. Mary's,0,Saint Francis (PA),0
+14,2021-02-25,Murray State,0,Jacksonville State,0
+15,2021-02-25,Nevada,0,Utah State,0
+16,2021-02-25,Northern Arizona,0,Southern Utah,0
+17,2021-02-25,Oregon,0,Stanford,0
+18,2021-02-25,Oregon State,0,California,0
+19,2021-02-25,Portland,0,San Diego,0
+20,2021-02-25,Portland State,0,Northern Colorado,0
+21,2021-02-25,San Francisco,0,Saint Mary's,0
+22,2021-02-25,San Jose State,0,Wyoming,0
+23,2021-02-25,Santa Clara,0,BYU,0
+24,2021-02-25,Southeast Missouri State,0,Eastern Illinois,0
+25,2021-02-25,USC,0,Colorado,0
+26,2021-02-25,St. Francis (NY),0,Merrimack,0
+27,2021-02-25,UT-Martin,0,SIU-Edwardsville,0
+28,2021-02-25,Tennessee State,0,Morehead State,0
+29,2021-02-25,UCLA,0,Utah,0
+30,2021-02-25,Wagner,0,Central Connecticut,0
+31,2021-02-25,Washington,0,Arizona State,0
+32,2021-02-25,Washington State,0,Arizona,0
+33,2021-02-25,Weber State,0,Sacramento State,0
+0,2021-02-26,Alabama-Birmingham,0,UTSA,0
+1,2021-02-26,Appalachian State,0,Georgia Southern,0
+2,2021-02-26,Arkansas State,0,Texas-Arlington,0
+3,2021-02-26,Bellarmine,0,Liberty,0
+4,2021-02-26,Cal State Northridge,0,Cal State Bakersfield,0
+5,2021-02-26,UC-Davis,0,Cal Poly,0
+6,2021-02-26,UC-San Diego,0,UC-Irvine,0
+7,2021-02-26,UCSB,0,UC-Riverside,0
+8,2021-02-26,Charlotte,0,UTEP,0
+9,2021-02-26,Coastal Carolina,0,Troy,0
+10,2021-02-26,Dixie State,0,Chicago State,0
+11,2021-02-26,Fairleigh Dickinson,0,Sacred Heart,0
+12,2021-02-26,Florida Atlantic,0,Southern Miss,0
+13,2021-02-26,Florida Gulf Coast,0,North Florida,0
+14,2021-02-26,Florida International,0,Western Kentucky,0
+15,2021-02-26,Georgia State,0,South Alabama,0
+16,2021-02-26,Grand Canyon,0,Seattle,0
+17,2021-02-26,Lipscomb,0,North Alabama,0
+18,2021-02-26,Long Beach State,0,Hawaii,0
+19,2021-02-26,LIU,0,Bryant,0
+20,2021-02-26,Louisiana,0,Little Rock,0
+21,2021-02-26,Louisiana-Monroe,0,Texas State,0
+22,2021-02-26,Middle Tennessee,0,Old Dominion,0
+23,2021-02-26,UMKC,0,South Dakota State,0
+24,2021-02-26,Omaha,0,Denver,0
+25,2021-02-26,New Mexico State,0,Tarleton State,0
+26,2021-02-26,North Texas,0,Marshall,0
+27,2021-02-26,Purdue,0,Penn State,0
+28,2021-02-26,Rice,0,Louisiana Tech,0
+29,2021-02-26,Richmond,0,Saint Louis,0
+30,2021-02-26,St. Francis (NY),0,Merrimack,0
+31,2021-02-26,Stetson,0,Jacksonville,0
+32,2021-02-26,Texas-Rio Grande Valley,0,Utah Valley,0
+33,2021-02-26,Wagner,0,Central Connecticut,0
+0,2021-02-27,Gonzaga,0,BYU,0
+1,2021-02-27,Baylor,0,Kansas,0
+2,2021-02-27,Kansas State,0,West Virginia,0
+3,2021-02-27,Creighton,0,Xavier,0
+4,2021-02-27,Tennessee,0,Auburn,0
+5,2021-02-27,Texas,0,Texas Tech,0
+6,2021-02-27,Illinois,0,Wisconsin,0
+7,2021-02-27,Florida State,0,UNC,0
+8,2021-02-27,Texas A&M,0,Missouri,0
+9,2021-02-27,Boise State,0,San Diego State,0
+10,2021-02-27,Louisville,0,Duke,0
+11,2021-02-27,Miami (FL),0,Clemson,0
+12,2021-02-27,Michigan,0,Indiana,0
+13,2021-02-27,Abilene Christian,0,Central Arkansas,0
+14,2021-02-27,Air Force,0,Colorado State,0
+15,2021-02-27,Alabama,0,Mississippi State,0
+16,2021-02-27,Alabama-Birmingham,0,UTSA,0
+17,2021-02-27,Albany (NY),0,Hartford,0
+18,2021-02-27,Alcorn State,0,Southern,0
+19,2021-02-27,Appalachian State,0,Georgia Southern,0
+20,2021-02-27,Arkansas State,0,Texas-Arlington,0
+21,2021-02-27,Austin Peay,0,Jacksonville State,0
+22,2021-02-27,Bellarmine,0,Liberty,0
+23,2021-02-27,Belmont,0,Morehead State,0
+24,2021-02-27,Bowling Green State,0,Akron,0
+25,2021-02-27,Buffalo,0,Ohio,0
+26,2021-02-27,Cal State Northridge,0,Cal State Bakersfield,0
+27,2021-02-27,UC-Davis,0,Cal Poly,0
+28,2021-02-27,UC-San Diego,0,UC-Irvine,0
+29,2021-02-27,UCSB,0,UC-Riverside,0
+30,2021-02-27,Central Michigan,0,Ball State,0
+31,2021-02-27,Charlotte,0,UTEP,0
+32,2021-02-27,Coastal Carolina,0,Troy,0
+33,2021-02-27,Delaware,0,Towson,0
+34,2021-02-27,Delaware State,0,Norfolk State,0
+35,2021-02-27,Dixie State,0,Chicago State,0
+36,2021-02-27,Drake,0,Illinois State,0
+37,2021-02-27,Drexel,0,James Madison,0
+38,2021-02-27,Duquesne,0,La Salle,0
+39,2021-02-27,East Carolina,0,Tulsa,0
+40,2021-02-27,Evansville,0,Bradley,0
+41,2021-02-27,Florida,0,Kentucky,0
+42,2021-02-27,Florida Atlantic,0,Southern Miss,0
+43,2021-02-27,Florida Gulf Coast,0,North Florida,0
+44,2021-02-27,Florida International,0,Western Kentucky,0
+45,2021-02-27,Fresno State,0,UNLV,0
+46,2021-02-27,Furman,0,Wofford,0
+47,2021-02-27,George Mason,0,George Washington,0
+48,2021-02-27,Georgetown,0,DePaul,0
+49,2021-02-27,Georgia State,0,South Alabama,0
+50,2021-02-27,Grambling,0,Arkansas-Pine Bluff,0
+51,2021-02-27,Grand Canyon,0,Seattle,0
+52,2021-02-27,Hofstra,0,Elon,0
+53,2021-02-27,Houston Baptist,0,McNeese State,0
+54,2021-02-27,Indiana State,0,Valparaiso,0
+55,2021-02-27,Jackson State,0,Mississippi Valley State,0
+56,2021-02-27,Kent State,0,Miami (OH),0
+57,2021-02-27,Lipscomb,0,North Alabama,0
+58,2021-02-27,Long Beach State,0,Hawaii,0
+59,2021-02-27,Louisiana,0,Little Rock,0
+60,2021-02-27,Louisiana-Monroe,0,Texas State,0
+61,2021-02-27,LSU,0,Arkansas,0
+62,2021-02-27,Marquette,0,UConn,0
+63,2021-02-27,UMass-Lowell,0,New Hampshire,0
+64,2021-02-27,Mercer,0,Western Carolina,0
+65,2021-02-27,Middle Tennessee,0,Old Dominion,0
+66,2021-02-27,Ole Miss,0,Vanderbilt,0
+67,2021-02-27,UMKC,0,South Dakota State,0
+68,2021-02-27,Missouri State,0,Southern Illinois,0
+69,2021-02-27,Montana,0,Idaho State,0
+70,2021-02-27,Montana State,0,Idaho,0
+71,2021-02-27,Murray State,0,Tennessee Tech,0
+72,2021-02-27,Omaha,0,Denver,0
+73,2021-02-27,Nevada,0,Utah State,0
+74,2021-02-27,New Mexico State,0,Tarleton State,0
+75,2021-02-27,Nicholls State,0,New Orleans,0
+76,2021-02-27,NJIT,0,Binghamton,0
+77,2021-02-27,UNC Greensboro,0,ETSU,0
+78,2021-02-27,UNC Wilmington,0,College of Charleston,0
+79,2021-02-27,North Dakota State,0,South Dakota,0
+80,2021-02-27,North Texas,0,Marshall,0
+81,2021-02-27,Northeastern,0,William & Mary,0
+82,2021-02-27,Northern Illinois,0,Eastern Michigan,0
+83,2021-02-27,Northern Iowa,0,Loyola (IL),0
+84,2021-02-27,Northwestern,0,Minnesota,0
+85,2021-02-27,Notre Dame,0,Boston College,0
+86,2021-02-27,Oklahoma State,0,Oklahoma,0
+87,2021-02-27,Oregon,0,California,0
+88,2021-02-27,Oregon State,0,Stanford,0
+89,2021-02-27,Pacific,0,Saint Mary's,0
+90,2021-02-27,Pepperdine,0,San Diego,0
+91,2021-02-27,Portland,0,Loyola Marymount,0
+92,2021-02-27,Portland State,0,Northern Colorado,0
+93,2021-02-27,Prairie View,0,Alabama A&M,0
+94,2021-02-27,Rhode Island,0,UMass,0
+95,2021-02-27,Rice,0,Louisiana Tech,0
+96,2021-02-27,St. Joseph's,0,Fordham,0
+97,2021-02-27,Samford,0,Citadel,0
+98,2021-02-27,San Jose State,0,Wyoming,0
+99,2021-02-27,Santa Clara,0,San Francisco,0
+100,2021-02-27,South Carolina,0,Georgia,0
+101,2021-02-27,South Carolina State,0,North Carolina A&T,0
+102,2021-02-27,Southeast Missouri State,0,SIU-Edwardsville,0
+103,2021-02-27,Southeastern Louisiana,0,Northwestern State,0
+104,2021-02-27,USC,0,Utah,0
+105,2021-02-27,Southern Utah,0,Northern Arizona,0
+106,2021-02-27,Stephen F. Austin,0,Lamar,0
+107,2021-02-27,Stetson,0,Jacksonville,0
+108,2021-02-27,Stony Brook,0,Maine,0
+109,2021-02-27,Syracuse,0,Georgia Tech,0
+110,2021-02-27,Temple,0,UCF,0
+111,2021-02-27,UT-Martin,0,Eastern Illinois,0
+112,2021-02-27,Tennessee State,0,Eastern Kentucky,0
+113,2021-02-27,TCU,0,Iowa State,0
+114,2021-02-27,Texas-Rio Grande Valley,0,Utah Valley,0
+115,2021-02-27,Texas Southern,0,Alabama State,0
+116,2021-02-27,UCLA,0,Colorado,0
+117,2021-02-27,Vermont,0,UMBC,0
+118,2021-02-27,VCU,0,Davidson,0
+119,2021-02-27,VMI,0,Chattanooga,0
+120,2021-02-27,Wake Forest,0,Virginia Tech,0
+121,2021-02-27,Washington,0,Arizona,0
+122,2021-02-27,Washington State,0,Arizona State,0
+123,2021-02-27,Weber State,0,Sacramento State,0
+124,2021-02-27,Western Illinois,0,Oral Roberts,0
+125,2021-02-27,Western Michigan,0,Toledo,0
+0,2021-02-28,Iowa,0,Ohio State,0
+1,2021-02-28,Michigan State,0,Maryland,0
+2,2021-02-28,South Florida,0,Houston,0
+3,2021-02-28,Villanova,0,Butler,0
+4,2021-02-28,Rutgers,0,Nebraska,0
+5,2021-02-28,Albany (NY),0,Hartford,0
+6,2021-02-28,Dayton,0,St. Bonaventure,0
+7,2021-02-28,Delaware,0,Towson,0
+8,2021-02-28,Drexel,0,James Madison,0
+9,2021-02-28,Hofstra,0,Elon,0
+10,2021-02-28,UMass-Lowell,0,New Hampshire,0
+11,2021-02-28,Memphis,0,Cincinnati,0
+12,2021-02-28,NJIT,0,Binghamton,0
+13,2021-02-28,North Dakota State,0,South Dakota,0
+14,2021-02-28,Northeastern,0,William & Mary,0
+15,2021-02-28,Pitt,0,NC State,0
+16,2021-02-28,SMU,0,Wichita State,0
+17,2021-02-28,Stony Brook,0,Maine,0
+18,2021-02-28,Vermont,0,UMBC,0
+19,2021-02-28,Western Illinois,0,Oral Roberts,0
+0,2021-03-01,Miami (FL),0,Virginia,0
+1,2021-03-01,UNC,0,Syracuse,0
+2,2021-03-01,Air Force,0,Colorado State,0
+3,2021-03-01,Grambling,0,Mississippi Valley State,0
+4,2021-03-01,Jackson State,0,Arkansas-Pine Bluff,0
+5,2021-03-01,Norfolk State,0,Howard,0
+6,2021-03-01,Prairie View,0,Alabama State,0
+7,2021-03-01,South Carolina State,0,North Carolina Central,0
+8,2021-03-01,Texas Southern,0,Alabama A&M,0
+0,2021-03-02,Wisconsin,0,Purdue,0
+1,2021-03-02,Duke,0,Georgia Tech,0
+2,2021-03-02,Akron,0,Buffalo,0
+3,2021-03-02,Arkansas,0,South Carolina,0
+4,2021-03-02,Auburn,0,Alabama,0
+5,2021-03-02,Eastern Michigan,0,Ball State,0
+6,2021-03-02,George Mason,0,Saint Louis,0
+7,2021-03-02,George Washington,0,Davidson,0
+8,2021-03-02,Kentucky,0,Ole Miss,0
+9,2021-03-02,Marquette,0,DePaul,0
+10,2021-03-02,Miami (OH),0,Bowling Green State,0
+11,2021-03-02,Ohio,0,Kent State,0
+12,2021-03-02,Park (AZ),0,Dixie State,0
+13,2021-03-02,Rhode Island,0,St. Joseph's,0
+14,2021-03-02,Toledo,0,Central Michigan,0
+15,2021-03-02,Tulsa,0,Temple,0
+16,2021-03-02,Vanderbilt,0,LSU,0
+17,2021-03-02,Wake Forest,0,Pitt,0
+18,2021-03-02,Western Michigan,0,Northern Illinois,0
+19,2021-03-02,Xavier,0,Georgetown,0
